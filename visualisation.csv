@@ -1,0 +1,3752 @@
+age,sex_male,cigsPerDay,totChol,sysBP,glucose,prevalentStroke,TenYearCHD
+30-39,Male,0.0,normal,106.0,normal,0,0
+40-49,Female,0.0,high,121.0,normal,0,0
+40-49,Male,20.0,high,127.5,normal,0,0
+60-70,Female,30.0,borderline high,150.0,prediabetes,0,1
+40-49,Female,23.0,high,130.0,normal,0,0
+40-49,Female,0.0,borderline high,180.0,normal,0,0
+60-70,Female,0.0,borderline high,138.0,normal,0,1
+40-49,Female,20.0,high,100.0,normal,0,0
+50-59,Male,0.0,high,141.5,normal,0,0
+40-49,Male,30.0,borderline high,162.0,normal,0,0
+50-59,Female,0.0,high,133.0,normal,0,0
+40-49,Female,0.0,high,131.0,normal,0,0
+40-49,Male,15.0,high,142.0,normal,0,0
+40-49,Female,0.0,high,124.0,normal,0,0
+30-39,Female,20.0,borderline high,140.0,normal,0,1
+40-49,Male,10.0,borderline high,138.0,normal,0,0
+40-49,Female,20.0,high,112.0,normal,0,1
+30-39,Female,5.0,normal,122.0,normal,0,0
+40-49,Male,0.0,normal,139.0,normal,0,0
+40-49,Female,30.0,normal,108.0,normal,0,0
+50-59,Female,0.0,borderline high,148.0,prediabetes,0,0
+50-59,Female,20.0,borderline high,132.0,normal,0,0
+40-49,Male,30.0,high,137.5,normal,0,0
+40-49,Male,20.0,high,102.0,normal,0,1
+30-39,Male,20.0,borderline high,132.0,normal,0,0
+60-70,Female,0.0,high,182.0,normal,0,1
+60-70,Female,0.0,high,130.0,normal,0,0
+30-39,Male,35.0,high,102.0,normal,0,0
+40-49,Male,43.0,borderline high,115.0,normal,0,0
+50-59,Female,0.0,borderline high,150.0,normal,0,1
+60-70,Male,5.0,normal,134.0,normal,0,1
+50-59,Male,20.0,borderline high,147.0,normal,0,0
+30-39,Male,0.0,borderline high,124.5,normal,0,0
+50-59,Male,0.0,high,153.5,normal,0,0
+50-59,Male,0.0,normal,160.0,diabetes,0,0
+40-49,Female,1.0,borderline high,153.0,normal,0,0
+30-39,Male,0.0,normal,111.0,normal,0,0
+40-49,Female,10.0,high,116.5,normal,0,0
+40-49,Female,1.0,borderline high,122.0,normal,0,0
+50-59,Male,0.0,normal,132.0,prediabetes,0,0
+50-59,Female,0.0,high,206.0,diabetes,0,1
+40-49,Female,0.0,borderline high,96.0,normal,0,0
+60-70,Female,0.0,high,179.5,normal,0,0
+40-49,Male,20.0,high,119.0,normal,0,0
+60-70,Female,40.0,normal,116.0,normal,0,1
+60-70,Female,3.0,high,156.5,normal,0,1
+50-59,Male,0.0,borderline high,112.0,normal,0,0
+40-49,Female,20.0,borderline high,130.0,normal,0,0
+60-70,Female,0.0,high,145.0,normal,0,0
+40-49,Female,10.0,high,116.0,normal,0,0
+50-59,Female,9.0,high,114.0,normal,0,0
+40-49,Male,2.0,high,143.5,normal,0,0
+40-49,Male,0.0,normal,115.0,normal,0,0
+40-49,Female,20.0,borderline high,158.0,normal,0,1
+50-59,Male,20.0,high,121.0,normal,0,0
+60-70,Female,0.0,high,157.0,normal,0,0
+50-59,Male,20.0,borderline high,123.5,normal,0,0
+50-59,Female,3.0,borderline high,126.5,normal,0,0
+50-59,Male,0.0,borderline high,136.0,normal,0,1
+60-70,Female,0.0,high,154.0,normal,0,0
+60-70,Female,0.0,borderline high,190.0,diabetes,0,0
+30-39,Male,20.0,borderline high,107.0,normal,0,0
+40-49,Female,20.0,high,112.5,normal,0,0
+50-59,Female,0.0,high,110.0,normal,0,0
+40-49,Male,10.0,normal,116.0,normal,0,0
+30-39,Female,0.0,borderline high,119.0,normal,0,0
+40-49,Female,20.0,normal,150.0,normal,0,0
+40-49,Female,10.0,borderline high,110.0,normal,0,1
+50-59,Female,0.0,high,138.5,prediabetes,0,1
+40-49,Female,0.0,borderline high,155.0,normal,0,0
+40-49,Female,0.0,normal,151.0,normal,0,0
+40-49,Male,43.0,high,152.0,normal,0,0
+60-70,Male,20.0,normal,179.0,normal,0,0
+30-39,Male,0.0,high,155.0,normal,0,1
+50-59,Female,0.0,borderline high,138.0,normal,0,0
+50-59,Female,15.0,normal,124.0,normal,0,0
+60-70,Female,0.0,borderline high,182.0,normal,0,0
+30-39,Female,15.0,normal,113.0,normal,0,0
+60-70,Female,0.0,high,138.0,normal,0,0
+60-70,Female,1.0,high,200.0,normal,0,0
+40-49,Male,43.0,high,124.0,normal,0,0
+40-49,Male,0.0,high,121.0,normal,0,0
+50-59,Male,20.0,normal,138.0,normal,0,0
+30-39,Male,15.0,high,132.5,normal,0,0
+50-59,Female,0.0,high,102.0,normal,0,0
+60-70,Female,0.0,high,154.0,prediabetes,0,0
+60-70,Male,30.0,high,126.0,normal,0,1
+60-70,Female,0.0,normal,123.0,normal,0,0
+60-70,Female,20.0,borderline high,134.0,diabetes,0,0
+50-59,Female,0.0,high,180.0,prediabetes,0,0
+50-59,Female,15.0,high,121.0,normal,0,0
+40-49,Female,20.0,borderline high,132.5,normal,0,0
+60-70,Female,0.0,high,141.0,prediabetes,0,0
+40-49,Female,9.0,high,110.0,normal,0,0
+40-49,Female,0.0,high,145.0,normal,0,0
+40-49,Female,20.0,normal,100.0,normal,0,0
+60-70,Female,0.0,high,135.0,normal,0,0
+40-49,Female,0.0,high,115.0,normal,0,0
+40-49,Male,43.0,high,138.0,normal,0,1
+60-70,Female,0.0,high,187.0,normal,0,1
+40-49,Male,20.0,normal,123.0,normal,0,0
+60-70,Female,0.0,high,139.0,normal,0,0
+40-49,Male,0.0,borderline high,138.0,normal,0,0
+60-70,Female,0.0,high,158.0,normal,0,0
+50-59,Male,0.0,high,127.0,prediabetes,0,1
+60-70,Male,0.0,high,160.5,normal,0,1
+30-39,Female,5.0,normal,100.0,normal,0,0
+30-39,Male,0.0,borderline high,112.0,normal,0,0
+50-59,Male,40.0,normal,157.0,normal,0,0
+30-39,Female,0.0,high,105.0,normal,0,0
+40-49,Female,3.0,borderline high,112.0,normal,0,0
+60-70,Male,0.0,high,109.0,normal,0,0
+40-49,Female,0.0,borderline high,135.0,normal,0,0
+50-59,Female,0.0,normal,158.0,prediabetes,0,0
+40-49,Male,0.0,borderline high,112.5,normal,0,0
+40-49,Male,0.0,high,128.0,normal,0,0
+30-39,Male,0.0,borderline high,118.0,normal,0,0
+40-49,Male,15.0,borderline high,115.0,normal,0,0
+40-49,Female,0.0,borderline high,112.0,normal,0,0
+50-59,Male,30.0,high,106.0,normal,0,0
+50-59,Male,30.0,high,134.0,normal,0,0
+50-59,Female,20.0,high,128.0,normal,0,0
+50-59,Female,15.0,normal,121.0,normal,0,0
+40-49,Male,30.0,high,131.0,normal,0,0
+40-49,Female,0.0,high,131.0,normal,0,0
+60-70,Male,0.0,high,124.0,normal,0,1
+40-49,Female,30.0,normal,154.0,normal,0,1
+50-59,Female,0.0,high,138.0,normal,0,1
+40-49,Male,40.0,high,100.0,normal,0,0
+40-49,Male,0.0,normal,117.5,normal,0,0
+50-59,Female,0.0,high,151.0,prediabetes,0,1
+50-59,Female,3.0,high,136.0,prediabetes,0,0
+40-49,Male,0.0,high,149.0,normal,0,1
+50-59,Female,1.0,high,141.0,normal,0,0
+40-49,Female,0.0,borderline high,153.0,normal,0,0
+60-70,Male,0.0,borderline high,123.0,normal,0,1
+50-59,Female,0.0,borderline high,180.5,normal,0,0
+60-70,Female,0.0,high,130.0,normal,0,0
+60-70,Female,0.0,borderline high,142.0,normal,0,0
+60-70,Female,0.0,high,136.5,normal,0,1
+60-70,Female,0.0,borderline high,212.0,normal,0,1
+30-39,Male,40.0,borderline high,134.0,normal,0,0
+50-59,Female,0.0,normal,153.0,normal,0,0
+40-49,Female,0.0,high,150.0,prediabetes,0,0
+40-49,Female,0.0,high,191.0,normal,0,0
+40-49,Female,0.0,normal,108.0,normal,0,0
+30-39,Female,20.0,normal,121.5,normal,0,0
+40-49,Male,20.0,high,139.0,normal,0,0
+40-49,Female,0.0,normal,118.0,normal,0,0
+50-59,Male,1.0,high,102.0,normal,0,0
+50-59,Male,0.0,high,117.5,normal,0,0
+60-70,Female,0.0,high,173.0,normal,0,0
+30-39,Male,0.0,normal,109.0,normal,0,0
+30-39,Female,40.0,borderline high,110.0,normal,0,0
+40-49,Male,20.0,borderline high,109.0,normal,0,1
+40-49,Female,20.0,normal,144.0,normal,0,0
+50-59,Female,0.0,borderline high,129.5,normal,0,1
+30-39,Male,0.0,borderline high,122.0,normal,0,0
+50-59,Female,20.0,high,110.0,normal,0,0
+30-39,Female,12.0,borderline high,111.0,normal,0,0
+50-59,Female,4.0,high,124.0,normal,0,0
+60-70,Male,20.0,high,158.0,normal,0,0
+60-70,Female,0.0,high,182.0,normal,0,1
+60-70,Female,20.0,borderline high,122.0,normal,0,0
+30-39,Female,5.0,borderline high,117.5,normal,0,0
+40-49,Female,15.0,borderline high,110.0,normal,0,0
+30-39,Female,0.0,high,112.0,normal,0,0
+40-49,Male,10.0,borderline high,128.0,normal,0,0
+30-39,Male,40.0,borderline high,118.0,normal,0,0
+50-59,Female,15.0,borderline high,128.0,normal,0,0
+60-70,Male,0.0,high,125.0,normal,0,0
+50-59,Female,0.0,borderline high,158.0,normal,0,0
+40-49,Female,15.0,borderline high,117.0,normal,0,0
+50-59,Male,0.0,borderline high,138.0,normal,0,1
+40-49,Male,20.0,borderline high,125.0,normal,0,0
+50-59,Female,0.0,high,144.5,normal,0,0
+30-39,Male,20.0,high,133.0,normal,0,1
+50-59,Male,30.0,high,109.0,normal,0,1
+60-70,Male,0.0,borderline high,127.0,normal,0,0
+40-49,Female,0.0,high,128.0,normal,0,1
+40-49,Female,9.0,borderline high,106.0,normal,0,0
+40-49,Male,10.0,high,117.0,normal,0,1
+50-59,Female,9.0,high,157.0,normal,0,0
+50-59,Female,5.0,borderline high,170.0,normal,0,0
+60-70,Male,0.0,high,137.0,normal,0,0
+30-39,Female,0.0,normal,111.0,normal,0,0
+50-59,Male,30.0,normal,110.0,normal,0,0
+50-59,Male,15.0,high,94.0,normal,0,0
+30-39,Female,20.0,normal,135.0,normal,0,0
+40-49,Male,0.0,borderline high,144.0,normal,0,1
+60-70,Female,0.0,high,155.0,normal,0,0
+50-59,Female,20.0,borderline high,117.5,normal,0,0
+60-70,Female,0.0,high,128.0,normal,0,1
+40-49,Male,30.0,normal,125.0,normal,0,0
+40-49,Male,18.0,normal,124.0,normal,0,0
+60-70,Female,0.0,high,166.0,diabetes,0,0
+30-39,Female,0.0,normal,107.0,normal,0,0
+50-59,Female,0.0,high,126.5,normal,0,0
+40-49,Male,30.0,borderline high,114.0,normal,0,0
+50-59,Female,0.0,normal,123.0,normal,0,0
+40-49,Female,0.0,normal,96.0,normal,0,0
+30-39,Female,20.0,normal,117.5,normal,0,0
+30-39,Female,9.0,normal,124.0,normal,0,0
+60-70,Female,0.0,high,130.0,normal,0,0
+40-49,Female,0.0,normal,106.0,normal,0,0
+40-49,Female,0.0,high,160.0,normal,0,0
+50-59,Male,0.0,normal,142.0,normal,0,0
+50-59,Male,43.0,high,135.0,normal,0,1
+50-59,Male,0.0,borderline high,177.5,prediabetes,0,1
+50-59,Female,0.0,high,131.0,normal,0,0
+40-49,Male,0.0,borderline high,136.5,normal,0,0
+50-59,Female,0.0,high,128.0,normal,0,1
+50-59,Female,0.0,high,129.0,normal,0,0
+40-49,Male,0.0,borderline high,112.5,prediabetes,0,0
+40-49,Female,0.0,normal,159.0,normal,0,0
+50-59,Male,20.0,high,128.0,normal,0,1
+30-39,Female,3.0,normal,108.0,normal,0,0
+50-59,Male,20.0,high,155.0,normal,0,0
+50-59,Female,0.0,high,124.0,normal,0,0
+50-59,Female,1.0,high,122.0,normal,0,1
+40-49,Male,43.0,borderline high,129.0,normal,0,0
+60-70,Male,0.0,borderline high,139.0,normal,0,0
+60-70,Male,15.0,borderline high,148.0,normal,0,1
+40-49,Female,0.0,high,134.0,normal,0,0
+40-49,Female,20.0,normal,124.0,normal,0,0
+60-70,Male,30.0,high,130.5,normal,0,0
+50-59,Male,5.0,high,107.5,normal,0,0
+60-70,Female,20.0,normal,200.0,diabetes,0,0
+50-59,Female,0.0,high,144.0,normal,0,0
+30-39,Female,0.0,normal,109.0,normal,0,0
+60-70,Male,0.0,borderline high,124.0,normal,0,0
+50-59,Male,15.0,borderline high,125.0,normal,0,0
+60-70,Female,0.0,high,189.0,normal,1,0
+30-39,Male,0.0,borderline high,168.0,normal,0,0
+30-39,Male,30.0,high,139.0,prediabetes,0,0
+40-49,Female,0.0,normal,108.0,normal,0,0
+60-70,Female,0.0,high,197.5,normal,0,1
+50-59,Male,0.0,high,146.0,normal,0,0
+40-49,Male,20.0,high,137.0,normal,0,0
+40-49,Female,0.0,borderline high,150.0,normal,0,0
+50-59,Male,0.0,normal,134.0,normal,0,0
+40-49,Male,0.0,borderline high,107.5,normal,0,0
+40-49,Male,9.0,high,156.5,normal,0,1
+50-59,Female,0.0,borderline high,140.0,normal,0,0
+40-49,Male,0.0,high,134.0,normal,0,0
+50-59,Female,0.0,high,125.0,normal,0,0
+50-59,Female,0.0,high,139.0,normal,0,1
+50-59,Female,1.0,high,174.0,normal,0,0
+60-70,Male,0.0,high,129.0,normal,0,0
+40-49,Female,0.0,high,136.0,normal,0,0
+50-59,Female,20.0,high,127.5,normal,0,0
+50-59,Male,0.0,borderline high,129.0,normal,0,0
+60-70,Female,0.0,high,147.0,normal,0,1
+40-49,Female,0.0,normal,127.5,normal,0,0
+50-59,Female,0.0,high,132.0,normal,0,1
+60-70,Female,0.0,high,123.0,normal,0,0
+30-39,Female,0.0,high,100.0,normal,0,0
+60-70,Male,0.0,normal,142.0,prediabetes,0,1
+50-59,Female,0.0,high,98.0,normal,0,0
+30-39,Female,0.0,normal,105.0,normal,0,0
+30-39,Male,0.0,high,105.0,normal,0,0
+30-39,Female,5.0,borderline high,111.0,normal,0,0
+30-39,Male,30.0,normal,126.0,normal,0,0
+40-49,Female,0.0,high,131.5,prediabetes,0,0
+40-49,Male,0.0,high,116.0,normal,0,0
+50-59,Female,20.0,high,125.0,normal,0,0
+40-49,Female,30.0,borderline high,131.0,normal,0,0
+40-49,Male,40.0,high,117.5,normal,0,0
+30-39,Female,10.0,borderline high,101.0,normal,0,0
+40-49,Male,0.0,normal,130.0,normal,0,0
+60-70,Female,0.0,high,130.0,normal,0,0
+30-39,Male,0.0,high,121.0,normal,0,0
+50-59,Female,0.0,high,158.5,normal,0,0
+40-49,Female,20.0,normal,97.0,normal,0,0
+30-39,Male,20.0,high,118.0,normal,0,1
+50-59,Female,0.0,high,109.0,normal,0,0
+40-49,Male,20.0,borderline high,101.0,normal,0,0
+30-39,Female,20.0,high,97.0,normal,0,0
+40-49,Female,0.0,high,114.0,normal,0,0
+60-70,Male,20.0,normal,151.5,prediabetes,0,1
+30-39,Male,20.0,high,110.0,normal,0,0
+40-49,Male,5.0,high,140.0,normal,0,0
+60-70,Female,20.0,high,168.0,normal,0,0
+40-49,Male,0.0,high,157.0,normal,0,0
+40-49,Male,15.0,high,125.0,normal,0,0
+30-39,Female,20.0,borderline high,115.0,normal,0,0
+40-49,Male,20.0,normal,118.0,normal,0,0
+40-49,Male,40.0,high,148.0,normal,0,0
+50-59,Female,20.0,high,131.0,normal,0,0
+50-59,Female,4.0,borderline high,112.0,normal,0,0
+40-49,Male,0.0,borderline high,133.0,normal,0,0
+60-70,Female,0.0,high,127.0,normal,0,1
+30-39,Male,20.0,borderline high,97.5,normal,0,0
+50-59,Male,60.0,high,125.0,normal,0,0
+50-59,Female,0.0,high,189.0,normal,0,1
+40-49,Female,1.0,normal,120.0,normal,0,0
+40-49,Female,1.0,normal,101.0,prediabetes,0,0
+60-70,Female,0.0,high,110.0,normal,0,0
+50-59,Female,0.0,high,204.0,normal,0,0
+30-39,Male,20.0,borderline high,145.0,normal,0,0
+40-49,Female,30.0,borderline high,126.0,normal,0,0
+50-59,Male,30.0,high,126.5,normal,0,1
+50-59,Female,0.0,borderline high,143.5,normal,0,0
+60-70,Female,0.0,high,160.0,normal,0,0
+50-59,Female,0.0,borderline high,158.0,normal,0,1
+40-49,Female,20.0,borderline high,105.0,normal,0,0
+40-49,Female,15.0,borderline high,111.0,normal,0,0
+60-70,Female,20.0,borderline high,136.0,normal,0,1
+50-59,Female,0.0,high,144.0,normal,0,0
+40-49,Male,20.0,borderline high,128.0,normal,0,0
+50-59,Female,10.0,high,130.0,normal,0,0
+50-59,Female,0.0,high,110.0,normal,0,0
+40-49,Female,0.0,borderline high,157.5,normal,0,0
+40-49,Male,5.0,normal,110.0,normal,0,0
+40-49,Male,30.0,normal,106.0,normal,0,0
+30-39,Male,30.0,normal,121.0,normal,0,0
+50-59,Male,40.0,borderline high,137.0,normal,0,0
+50-59,Male,0.0,borderline high,140.5,normal,0,0
+50-59,Female,3.0,borderline high,127.5,prediabetes,0,0
+40-49,Female,20.0,borderline high,118.0,normal,0,0
+50-59,Male,30.0,borderline high,171.0,normal,0,1
+40-49,Male,20.0,high,146.0,normal,0,1
+30-39,Female,10.0,borderline high,100.0,normal,0,0
+40-49,Female,0.0,borderline high,118.0,normal,0,0
+40-49,Female,15.0,high,98.0,normal,0,1
+50-59,Male,15.0,borderline high,106.0,prediabetes,0,0
+30-39,Male,0.0,borderline high,130.0,normal,0,0
+40-49,Male,35.0,normal,133.0,normal,0,0
+50-59,Male,0.0,high,114.0,normal,0,1
+40-49,Male,30.0,normal,128.0,normal,0,0
+60-70,Female,0.0,high,215.0,normal,0,1
+40-49,Female,0.0,high,122.0,normal,0,0
+50-59,Male,0.0,borderline high,159.0,normal,0,1
+50-59,Female,0.0,high,145.0,normal,0,0
+40-49,Female,20.0,borderline high,95.0,normal,0,0
+50-59,Female,0.0,borderline high,156.0,normal,0,0
+50-59,Female,3.0,high,155.0,prediabetes,0,1
+40-49,Female,20.0,high,116.0,normal,0,1
+60-70,Male,0.0,borderline high,122.0,normal,0,0
+60-70,Male,10.0,high,109.0,normal,0,0
+60-70,Female,0.0,high,170.0,normal,0,0
+50-59,Female,0.0,high,123.0,normal,0,0
+40-49,Female,0.0,high,125.0,normal,0,0
+30-39,Male,30.0,borderline high,135.0,normal,0,0
+40-49,Male,35.0,normal,122.5,normal,0,0
+30-39,Male,0.0,borderline high,120.0,normal,0,0
+60-70,Female,0.0,borderline high,178.0,normal,0,0
+50-59,Female,0.0,high,124.0,normal,0,0
+30-39,Female,0.0,normal,127.5,normal,0,0
+30-39,Female,20.0,normal,111.0,normal,0,0
+50-59,Male,20.0,high,146.5,diabetes,0,0
+50-59,Female,0.0,high,117.0,normal,0,1
+40-49,Female,0.0,high,124.0,normal,0,0
+50-59,Male,20.0,high,134.0,normal,0,0
+60-70,Female,0.0,high,149.0,normal,0,1
+30-39,Male,0.0,borderline high,136.5,normal,0,0
+40-49,Female,3.0,normal,122.5,normal,0,0
+50-59,Male,43.0,borderline high,132.5,normal,0,1
+60-70,Male,0.0,high,159.0,normal,0,0
+50-59,Male,25.0,high,138.0,normal,0,0
+40-49,Male,0.0,borderline high,113.0,normal,0,0
+40-49,Female,0.0,high,113.5,normal,0,0
+40-49,Female,0.0,normal,116.0,normal,0,0
+40-49,Male,20.0,borderline high,119.0,normal,0,0
+30-39,Male,20.0,high,138.0,normal,0,0
+40-49,Female,0.0,high,141.0,normal,0,0
+40-49,Male,0.0,borderline high,137.0,normal,0,0
+40-49,Male,10.0,borderline high,177.5,normal,0,0
+30-39,Male,0.0,normal,131.0,normal,0,0
+60-70,Female,0.0,high,156.0,normal,0,0
+40-49,Female,20.0,borderline high,122.5,prediabetes,0,0
+50-59,Female,3.0,high,197.0,prediabetes,0,0
+60-70,Female,15.0,borderline high,130.0,normal,0,0
+40-49,Male,20.0,high,111.0,prediabetes,0,0
+40-49,Female,0.0,high,148.0,normal,0,0
+50-59,Female,25.0,borderline high,119.0,normal,0,0
+40-49,Female,0.0,borderline high,90.0,normal,0,0
+40-49,Female,15.0,normal,112.5,normal,0,0
+50-59,Female,0.0,normal,160.0,normal,0,0
+30-39,Female,15.0,normal,110.0,prediabetes,0,0
+60-70,Female,0.0,high,135.0,normal,0,0
+40-49,Female,0.0,normal,109.5,normal,0,0
+50-59,Female,0.0,normal,96.0,normal,0,0
+40-49,Female,10.0,high,117.5,normal,0,0
+40-49,Male,30.0,borderline high,120.0,normal,0,0
+40-49,Male,40.0,borderline high,165.0,prediabetes,0,0
+40-49,Male,30.0,high,141.0,normal,0,0
+30-39,Male,20.0,borderline high,124.0,normal,0,0
+60-70,Male,0.0,borderline high,113.0,normal,0,0
+30-39,Female,15.0,normal,116.0,normal,0,0
+50-59,Female,0.0,borderline high,140.0,normal,0,0
+40-49,Female,20.0,high,107.0,normal,0,0
+60-70,Female,0.0,high,95.5,diabetes,0,0
+40-49,Male,0.0,high,146.0,prediabetes,0,0
+60-70,Male,10.0,high,130.0,normal,0,0
+60-70,Male,0.0,normal,209.0,normal,0,0
+40-49,Male,45.0,borderline high,112.5,normal,0,0
+40-49,Female,10.0,high,115.0,normal,0,0
+50-59,Female,0.0,borderline high,112.0,normal,0,0
+50-59,Female,8.0,high,132.0,prediabetes,0,0
+40-49,Female,0.0,normal,107.5,normal,0,0
+40-49,Female,0.0,borderline high,127.5,normal,0,0
+40-49,Female,0.0,normal,136.5,normal,0,0
+50-59,Male,0.0,borderline high,129.0,normal,0,0
+40-49,Female,10.0,normal,150.0,normal,0,0
+40-49,Female,9.0,normal,109.0,normal,0,0
+40-49,Female,15.0,high,124.0,normal,0,0
+30-39,Female,15.0,normal,110.0,normal,0,0
+40-49,Female,0.0,high,135.0,prediabetes,0,0
+30-39,Male,30.0,normal,146.0,normal,0,0
+50-59,Male,0.0,borderline high,152.0,prediabetes,0,0
+30-39,Male,40.0,high,154.0,normal,0,0
+50-59,Female,15.0,high,125.0,normal,0,0
+40-49,Female,10.0,normal,110.0,normal,0,0
+40-49,Female,0.0,borderline high,162.5,normal,0,0
+50-59,Male,0.0,high,134.0,normal,0,0
+60-70,Male,0.0,high,177.5,prediabetes,0,1
+30-39,Female,1.0,high,122.0,normal,0,0
+50-59,Male,0.0,high,107.0,normal,0,0
+40-49,Male,20.0,borderline high,150.0,normal,0,0
+50-59,Male,15.0,normal,116.0,normal,1,0
+40-49,Male,0.0,normal,127.0,normal,0,0
+40-49,Female,15.0,high,125.0,normal,0,0
+30-39,Female,20.0,high,138.0,normal,0,0
+50-59,Male,0.0,borderline high,145.0,prediabetes,0,0
+50-59,Female,9.0,high,145.0,normal,0,0
+60-70,Female,0.0,high,295.0,normal,0,1
+40-49,Male,20.0,high,158.0,prediabetes,0,1
+30-39,Male,0.0,normal,125.0,normal,0,0
+60-70,Female,0.0,borderline high,126.0,normal,0,0
+50-59,Male,40.0,borderline high,145.0,normal,0,1
+30-39,Female,0.0,normal,120.0,normal,0,0
+40-49,Female,5.0,normal,150.0,normal,0,0
+50-59,Female,0.0,borderline high,98.0,normal,0,0
+60-70,Male,0.0,borderline high,130.0,normal,0,0
+40-49,Female,10.0,high,134.0,prediabetes,0,0
+40-49,Male,43.0,high,135.0,normal,0,0
+50-59,Male,20.0,high,134.0,normal,0,1
+40-49,Male,20.0,high,114.0,normal,0,0
+50-59,Male,13.0,high,137.0,normal,0,0
+40-49,Male,30.0,borderline high,151.0,normal,0,0
+50-59,Male,0.0,high,111.0,normal,0,0
+40-49,Female,10.0,borderline high,103.0,normal,0,1
+50-59,Female,0.0,high,155.0,normal,0,0
+60-70,Female,0.0,high,132.0,normal,0,0
+30-39,Male,25.0,borderline high,145.5,normal,0,0
+50-59,Female,0.0,high,144.0,normal,0,0
+40-49,Female,11.0,borderline high,108.0,normal,0,0
+50-59,Male,0.0,high,160.5,prediabetes,0,0
+50-59,Female,5.0,high,139.0,normal,0,0
+50-59,Female,0.0,high,134.5,normal,0,0
+40-49,Female,20.0,borderline high,115.5,normal,0,0
+50-59,Female,0.0,borderline high,132.0,normal,0,0
+60-70,Female,0.0,high,155.0,normal,0,1
+50-59,Female,0.0,borderline high,137.5,normal,0,0
+50-59,Male,20.0,high,133.0,normal,0,0
+40-49,Male,20.0,high,135.0,normal,0,0
+60-70,Male,0.0,borderline high,130.0,normal,0,0
+40-49,Male,20.0,high,155.0,normal,0,0
+30-39,Male,20.0,borderline high,122.0,normal,0,0
+50-59,Female,0.0,high,117.5,normal,0,1
+50-59,Female,0.0,high,129.0,normal,0,0
+60-70,Male,40.0,borderline high,148.0,normal,0,1
+50-59,Female,9.0,borderline high,132.0,normal,0,1
+50-59,Male,25.0,borderline high,173.0,normal,0,1
+50-59,Female,0.0,high,119.0,normal,0,0
+40-49,Female,1.0,high,130.0,normal,0,0
+40-49,Male,15.0,borderline high,122.5,normal,0,0
+40-49,Male,25.0,high,105.0,normal,0,0
+60-70,Female,0.0,high,120.0,normal,0,0
+40-49,Female,0.0,borderline high,125.0,normal,0,0
+60-70,Female,0.0,borderline high,189.0,prediabetes,0,0
+40-49,Female,4.0,normal,113.0,normal,0,0
+50-59,Female,0.0,high,123.0,normal,0,1
+30-39,Male,0.0,normal,145.0,normal,0,0
+40-49,Male,0.0,high,105.0,normal,0,0
+30-39,Male,20.0,high,130.0,normal,0,0
+60-70,Female,0.0,high,171.0,normal,0,0
+60-70,Male,0.0,normal,114.0,normal,0,0
+40-49,Female,20.0,high,125.0,normal,0,0
+40-49,Female,0.0,high,131.0,normal,0,1
+40-49,Female,0.0,borderline high,115.0,prediabetes,0,0
+40-49,Male,18.0,high,145.0,normal,0,1
+30-39,Female,0.0,normal,110.0,normal,0,0
+30-39,Male,5.0,borderline high,132.0,normal,0,0
+40-49,Male,35.0,borderline high,117.0,prediabetes,0,0
+40-49,Female,0.0,normal,112.0,normal,0,0
+50-59,Male,30.0,borderline high,121.5,normal,0,0
+40-49,Male,0.0,high,144.0,normal,0,0
+40-49,Male,0.0,high,114.0,normal,0,0
+50-59,Female,20.0,borderline high,128.0,normal,0,1
+50-59,Male,0.0,high,174.5,normal,0,1
+50-59,Female,20.0,borderline high,140.0,normal,0,0
+40-49,Female,0.0,high,110.0,normal,0,0
+50-59,Female,0.0,borderline high,129.0,normal,0,0
+50-59,Male,0.0,high,130.0,normal,0,0
+40-49,Female,10.0,high,136.5,normal,0,1
+30-39,Female,20.0,high,120.0,normal,0,0
+40-49,Female,0.0,normal,122.5,normal,0,0
+50-59,Female,0.0,high,113.5,normal,0,0
+30-39,Female,0.0,high,128.0,normal,0,0
+40-49,Male,0.0,high,116.0,normal,0,0
+50-59,Female,0.0,high,125.0,normal,0,0
+60-70,Male,0.0,borderline high,165.0,normal,0,1
+30-39,Female,0.0,normal,108.0,normal,0,0
+40-49,Female,15.0,high,135.0,normal,0,0
+40-49,Female,3.0,high,121.0,normal,0,0
+50-59,Male,0.0,borderline high,133.0,normal,0,0
+40-49,Female,0.0,borderline high,120.0,normal,0,0
+60-70,Female,0.0,high,150.0,normal,0,1
+30-39,Female,30.0,high,148.0,normal,0,0
+40-49,Male,43.0,borderline high,122.0,normal,0,0
+40-49,Male,10.0,borderline high,121.5,normal,0,0
+50-59,Male,0.0,high,163.0,normal,0,1
+50-59,Female,0.0,high,139.0,normal,0,1
+60-70,Male,3.0,borderline high,117.0,normal,0,0
+50-59,Female,18.0,normal,146.0,normal,0,0
+40-49,Female,5.0,high,125.0,normal,0,0
+30-39,Male,0.0,high,118.5,normal,0,0
+60-70,Female,0.0,high,142.0,diabetes,0,0
+50-59,Male,20.0,borderline high,98.0,normal,0,0
+40-49,Male,30.0,normal,116.0,normal,0,0
+50-59,Female,3.0,borderline high,185.0,normal,0,0
+40-49,Female,0.0,borderline high,126.0,normal,0,0
+60-70,Female,20.0,high,220.0,normal,0,0
+30-39,Male,15.0,borderline high,115.0,prediabetes,0,1
+40-49,Female,5.0,borderline high,123.0,normal,0,1
+40-49,Female,1.0,borderline high,125.0,normal,0,0
+40-49,Male,0.0,normal,119.0,normal,0,0
+30-39,Male,0.0,borderline high,121.5,normal,0,0
+60-70,Male,0.0,high,144.0,normal,0,0
+40-49,Female,15.0,borderline high,120.0,normal,0,0
+40-49,Male,0.0,high,123.0,normal,0,0
+40-49,Female,15.0,high,113.0,normal,0,0
+50-59,Female,0.0,high,103.0,normal,0,0
+40-49,Male,15.0,normal,132.0,normal,0,1
+60-70,Female,20.0,high,140.0,normal,0,1
+60-70,Male,23.0,high,164.0,diabetes,0,1
+60-70,Female,9.0,high,145.0,normal,0,0
+40-49,Male,20.0,high,120.5,normal,0,1
+50-59,Female,0.0,high,145.0,normal,0,0
+40-49,Male,35.0,borderline high,116.0,normal,0,0
+50-59,Male,15.0,borderline high,155.0,normal,0,1
+30-39,Female,0.0,normal,98.5,normal,0,0
+40-49,Female,0.0,normal,107.0,normal,0,0
+40-49,Male,20.0,normal,108.0,normal,0,0
+50-59,Female,20.0,high,127.5,prediabetes,0,0
+60-70,Female,0.0,high,120.5,normal,0,0
+30-39,Male,0.0,borderline high,117.5,normal,0,0
+50-59,Female,3.0,high,161.0,normal,0,0
+50-59,Male,0.0,borderline high,148.0,normal,0,0
+50-59,Female,20.0,high,139.5,normal,0,1
+60-70,Male,0.0,borderline high,127.5,normal,0,1
+40-49,Female,20.0,high,127.5,normal,0,0
+60-70,Female,0.0,high,116.0,normal,0,1
+50-59,Male,3.0,borderline high,105.0,normal,0,0
+60-70,Male,20.0,high,180.0,normal,0,1
+30-39,Female,0.0,high,123.0,normal,0,0
+30-39,Male,10.0,borderline high,115.0,normal,0,0
+40-49,Female,30.0,normal,96.0,normal,0,0
+30-39,Male,5.0,high,130.5,normal,0,0
+50-59,Female,20.0,normal,117.0,normal,0,0
+60-70,Male,3.0,high,168.5,normal,0,0
+40-49,Male,5.0,borderline high,129.5,normal,0,0
+40-49,Female,20.0,normal,148.0,normal,0,0
+50-59,Female,5.0,high,134.5,normal,0,0
+30-39,Female,20.0,borderline high,117.5,normal,0,0
+60-70,Female,0.0,high,176.0,normal,0,0
+40-49,Female,7.0,high,111.0,normal,0,0
+40-49,Female,0.0,normal,109.0,normal,0,0
+50-59,Male,0.0,high,125.0,prediabetes,0,0
+60-70,Female,3.0,high,141.0,normal,0,0
+40-49,Male,30.0,borderline high,131.0,normal,0,0
+30-39,Male,25.0,high,119.0,normal,0,0
+40-49,Female,0.0,borderline high,123.5,normal,0,0
+50-59,Female,0.0,normal,163.5,normal,0,0
+30-39,Male,0.0,normal,117.0,normal,0,0
+30-39,Male,0.0,borderline high,127.5,normal,1,0
+30-39,Male,0.0,normal,128.5,prediabetes,0,0
+30-39,Female,20.0,normal,128.5,normal,0,0
+60-70,Female,0.0,borderline high,134.0,normal,0,0
+50-59,Female,20.0,high,134.0,normal,0,0
+50-59,Female,18.0,high,111.0,normal,0,0
+50-59,Female,30.0,borderline high,128.5,normal,0,0
+50-59,Male,10.0,high,148.0,prediabetes,0,0
+40-49,Female,5.0,high,107.0,normal,0,0
+40-49,Male,20.0,normal,129.0,normal,0,0
+50-59,Male,20.0,high,130.0,normal,0,1
+40-49,Male,30.0,high,121.0,normal,0,0
+30-39,Female,0.0,borderline high,112.0,normal,0,0
+60-70,Female,0.0,high,127.0,normal,0,0
+50-59,Male,43.0,high,126.5,normal,0,0
+40-49,Female,0.0,high,138.0,normal,0,0
+50-59,Female,20.0,borderline high,167.0,normal,0,1
+60-70,Female,0.0,high,205.5,prediabetes,0,0
+50-59,Female,1.0,high,150.0,normal,0,0
+50-59,Female,0.0,high,136.0,normal,0,0
+40-49,Male,20.0,high,118.5,normal,0,0
+30-39,Female,15.0,normal,112.0,normal,0,0
+40-49,Female,0.0,high,145.0,normal,0,0
+60-70,Female,0.0,high,138.0,prediabetes,0,0
+40-49,Male,20.0,borderline high,115.0,normal,0,0
+40-49,Male,30.0,high,110.0,normal,0,0
+30-39,Male,15.0,borderline high,119.5,normal,0,0
+40-49,Female,0.0,high,119.0,normal,0,0
+50-59,Male,30.0,borderline high,167.5,normal,0,0
+60-70,Male,3.0,borderline high,130.0,normal,0,0
+50-59,Female,0.0,borderline high,136.5,normal,0,0
+50-59,Male,0.0,high,148.0,normal,0,1
+40-49,Male,5.0,borderline high,166.0,normal,0,0
+60-70,Female,0.0,high,144.0,prediabetes,0,0
+40-49,Female,1.0,high,137.0,normal,0,0
+40-49,Female,0.0,borderline high,152.5,normal,0,0
+40-49,Male,0.0,borderline high,127.0,normal,0,0
+40-49,Female,20.0,normal,119.0,normal,0,0
+50-59,Female,0.0,high,125.0,normal,0,0
+50-59,Male,20.0,high,126.0,normal,0,0
+50-59,Female,0.0,high,145.0,prediabetes,0,0
+40-49,Male,30.0,high,146.0,normal,0,0
+30-39,Female,20.0,normal,117.0,normal,0,0
+50-59,Female,5.0,high,132.5,normal,0,1
+30-39,Female,0.0,normal,105.0,normal,0,0
+40-49,Female,20.0,borderline high,117.0,normal,0,0
+60-70,Female,10.0,borderline high,186.0,normal,0,0
+60-70,Male,0.0,normal,183.0,normal,0,0
+60-70,Female,0.0,borderline high,118.0,normal,0,0
+40-49,Male,0.0,borderline high,110.0,normal,0,0
+50-59,Female,1.0,high,136.0,normal,0,0
+40-49,Female,0.0,high,109.0,normal,0,0
+50-59,Male,20.0,high,135.0,prediabetes,0,0
+50-59,Female,0.0,normal,140.5,prediabetes,0,0
+40-49,Male,30.0,normal,114.0,normal,0,1
+30-39,Female,30.0,high,148.0,normal,0,0
+40-49,Male,40.0,borderline high,120.0,normal,0,0
+50-59,Male,25.0,borderline high,134.0,normal,0,0
+50-59,Male,43.0,normal,134.0,prediabetes,0,0
+30-39,Male,20.0,borderline high,107.5,normal,0,0
+40-49,Male,20.0,high,126.0,normal,0,0
+40-49,Female,0.0,borderline high,127.5,normal,0,1
+40-49,Male,20.0,borderline high,141.0,normal,0,0
+30-39,Female,1.0,borderline high,124.0,normal,0,0
+50-59,Female,0.0,high,141.0,normal,0,0
+30-39,Female,5.0,normal,121.0,normal,0,0
+30-39,Female,20.0,high,120.0,normal,0,0
+50-59,Male,60.0,high,153.5,normal,0,0
+60-70,Male,0.0,high,134.0,normal,0,0
+50-59,Female,0.0,high,152.0,normal,0,0
+50-59,Male,0.0,high,163.5,normal,0,0
+40-49,Female,0.0,high,135.0,normal,0,0
+60-70,Male,20.0,high,130.0,normal,0,0
+50-59,Female,0.0,high,103.0,normal,0,0
+30-39,Female,20.0,normal,117.0,normal,0,0
+40-49,Female,0.0,normal,107.0,normal,0,0
+40-49,Female,0.0,normal,122.0,normal,0,0
+50-59,Female,0.0,borderline high,155.0,normal,0,0
+40-49,Female,5.0,high,117.0,normal,0,0
+60-70,Male,8.0,borderline high,120.0,normal,0,0
+40-49,Male,30.0,high,131.0,normal,0,1
+60-70,Female,0.0,high,144.0,normal,0,0
+40-49,Male,20.0,normal,147.5,normal,0,0
+40-49,Male,0.0,borderline high,113.0,normal,0,0
+40-49,Male,0.0,borderline high,183.0,normal,0,1
+30-39,Male,20.0,normal,120.0,normal,0,0
+60-70,Female,6.0,high,178.0,normal,0,0
+50-59,Female,0.0,borderline high,128.0,normal,0,0
+50-59,Male,0.0,normal,126.0,normal,0,0
+40-49,Female,3.0,high,132.0,diabetes,0,0
+40-49,Female,15.0,borderline high,127.0,normal,0,0
+60-70,Female,0.0,borderline high,175.0,normal,0,1
+40-49,Male,20.0,borderline high,160.0,normal,0,0
+60-70,Male,0.0,high,119.0,normal,0,0
+40-49,Male,0.0,high,142.5,normal,0,0
+40-49,Male,0.0,normal,100.0,normal,0,0
+60-70,Female,0.0,high,192.0,normal,0,0
+60-70,Female,0.0,borderline high,127.0,normal,0,0
+60-70,Male,0.0,borderline high,110.0,normal,0,1
+50-59,Male,0.0,high,129.0,prediabetes,0,1
+60-70,Female,0.0,high,117.5,normal,0,0
+40-49,Female,10.0,normal,134.5,diabetes,0,0
+50-59,Female,9.0,high,131.0,normal,0,1
+50-59,Male,0.0,high,160.0,normal,0,0
+40-49,Female,10.0,normal,96.5,normal,0,0
+40-49,Male,9.0,normal,107.0,normal,0,0
+50-59,Female,0.0,high,157.0,diabetes,1,1
+40-49,Male,0.0,normal,125.0,normal,0,0
+50-59,Male,20.0,borderline high,180.0,normal,0,0
+60-70,Male,15.0,borderline high,185.0,prediabetes,0,1
+50-59,Male,1.0,high,147.0,normal,0,0
+30-39,Male,20.0,normal,123.0,normal,0,0
+60-70,Female,0.0,borderline high,148.0,normal,0,1
+40-49,Male,15.0,high,141.0,normal,0,0
+40-49,Female,0.0,high,133.0,normal,0,1
+50-59,Female,0.0,normal,118.0,normal,0,0
+60-70,Female,0.0,borderline high,160.0,normal,0,0
+30-39,Female,0.0,normal,114.0,normal,0,0
+40-49,Female,20.0,high,118.0,normal,0,0
+30-39,Male,40.0,normal,112.0,normal,0,1
+40-49,Male,0.0,borderline high,138.0,normal,0,0
+40-49,Male,20.0,normal,150.0,normal,0,0
+40-49,Female,15.0,normal,137.0,normal,0,1
+50-59,Male,1.0,borderline high,118.5,normal,0,0
+40-49,Male,0.0,high,126.0,normal,0,0
+40-49,Male,25.0,high,121.5,prediabetes,0,1
+50-59,Female,0.0,borderline high,133.0,normal,0,0
+60-70,Male,0.0,high,159.5,normal,0,0
+50-59,Female,0.0,high,118.5,normal,0,0
+40-49,Male,20.0,borderline high,164.0,normal,0,1
+40-49,Male,40.0,borderline high,118.5,normal,0,0
+40-49,Female,0.0,borderline high,129.0,normal,0,0
+40-49,Male,0.0,borderline high,130.0,normal,0,0
+60-70,Female,2.0,borderline high,177.0,prediabetes,0,0
+50-59,Female,15.0,normal,156.0,normal,0,1
+50-59,Male,0.0,normal,116.0,normal,0,0
+50-59,Male,40.0,high,117.0,normal,0,0
+50-59,Female,20.0,high,127.0,normal,0,0
+30-39,Female,20.0,borderline high,150.0,normal,0,0
+40-49,Female,0.0,borderline high,162.0,normal,0,0
+40-49,Female,0.0,high,124.0,normal,0,0
+40-49,Male,0.0,borderline high,132.0,normal,0,1
+40-49,Male,3.0,borderline high,130.0,normal,0,0
+50-59,Female,0.0,high,120.0,normal,0,0
+50-59,Male,20.0,high,142.0,prediabetes,0,0
+40-49,Female,10.0,normal,125.0,normal,0,0
+60-70,Female,5.0,borderline high,164.0,normal,0,0
+50-59,Male,0.0,high,112.5,normal,0,0
+60-70,Male,0.0,borderline high,108.0,normal,0,0
+30-39,Male,0.0,borderline high,142.0,normal,0,0
+30-39,Male,15.0,borderline high,135.0,normal,0,0
+40-49,Male,5.0,high,111.0,normal,0,0
+40-49,Male,20.0,borderline high,128.0,normal,0,0
+40-49,Male,0.0,borderline high,124.0,normal,0,0
+40-49,Female,20.0,high,127.5,normal,0,0
+30-39,Male,0.0,borderline high,129.0,normal,0,0
+50-59,Female,0.0,high,168.0,normal,0,0
+30-39,Female,15.0,normal,102.5,normal,0,0
+30-39,Female,10.0,borderline high,110.0,normal,0,0
+40-49,Female,20.0,high,134.0,normal,0,0
+50-59,Male,0.0,borderline high,127.5,normal,0,0
+60-70,Male,10.0,high,122.0,normal,0,0
+40-49,Male,30.0,borderline high,126.0,normal,0,0
+40-49,Female,0.0,normal,105.0,normal,0,0
+50-59,Female,0.0,normal,147.0,normal,0,0
+50-59,Female,0.0,high,200.0,diabetes,0,1
+50-59,Male,20.0,borderline high,127.0,normal,0,1
+40-49,Female,6.0,borderline high,128.0,normal,0,0
+40-49,Male,30.0,high,137.0,prediabetes,0,0
+50-59,Male,0.0,high,138.0,prediabetes,0,1
+50-59,Female,0.0,high,133.0,normal,0,0
+50-59,Female,0.0,high,120.0,normal,0,1
+50-59,Male,0.0,borderline high,122.0,normal,0,0
+40-49,Female,0.0,borderline high,121.5,normal,0,0
+40-49,Female,0.0,borderline high,116.0,normal,0,0
+40-49,Male,0.0,borderline high,132.0,prediabetes,0,1
+40-49,Female,0.0,high,131.5,prediabetes,0,0
+40-49,Male,30.0,borderline high,118.0,normal,0,0
+40-49,Female,0.0,high,118.5,normal,0,0
+60-70,Female,0.0,high,114.0,prediabetes,0,0
+30-39,Female,0.0,borderline high,102.0,normal,0,0
+30-39,Male,40.0,borderline high,131.0,normal,0,0
+40-49,Female,0.0,borderline high,119.0,normal,0,0
+30-39,Male,0.0,borderline high,107.0,normal,0,0
+50-59,Female,3.0,high,122.5,normal,0,0
+40-49,Female,0.0,borderline high,131.0,normal,0,0
+40-49,Male,0.0,high,114.0,normal,0,0
+40-49,Male,30.0,high,111.0,normal,0,0
+40-49,Female,0.0,normal,118.0,normal,0,0
+50-59,Female,0.0,high,146.0,normal,0,0
+60-70,Male,9.0,normal,141.0,prediabetes,0,0
+30-39,Female,0.0,high,107.0,normal,0,0
+40-49,Male,30.0,normal,128.0,normal,0,0
+60-70,Female,15.0,high,163.0,normal,0,0
+50-59,Female,10.0,high,136.0,normal,0,0
+50-59,Female,0.0,high,244.0,prediabetes,0,1
+50-59,Female,0.0,high,134.0,normal,0,0
+50-59,Female,30.0,borderline high,113.0,normal,0,0
+50-59,Male,30.0,normal,113.5,normal,0,1
+40-49,Female,30.0,borderline high,104.0,normal,0,1
+40-49,Male,0.0,normal,135.0,normal,0,0
+40-49,Male,0.0,high,131.0,normal,0,0
+60-70,Male,0.0,high,127.5,normal,0,0
+50-59,Male,0.0,borderline high,122.0,normal,0,0
+30-39,Male,30.0,borderline high,128.0,prediabetes,0,0
+50-59,Female,0.0,high,127.5,normal,0,0
+60-70,Female,0.0,high,153.0,normal,0,1
+50-59,Male,20.0,borderline high,168.0,normal,0,1
+40-49,Male,0.0,high,127.5,normal,0,0
+50-59,Male,5.0,borderline high,134.0,normal,0,0
+40-49,Female,0.0,borderline high,113.5,normal,0,0
+50-59,Male,20.0,borderline high,156.0,prediabetes,0,1
+50-59,Female,20.0,borderline high,112.0,normal,0,0
+50-59,Male,9.0,high,164.0,prediabetes,0,0
+60-70,Female,0.0,normal,176.0,normal,0,1
+30-39,Male,0.0,borderline high,121.0,normal,0,0
+50-59,Male,10.0,borderline high,141.0,normal,0,0
+60-70,Male,0.0,high,123.0,normal,0,1
+60-70,Female,0.0,high,152.5,normal,0,0
+30-39,Male,0.0,high,108.0,normal,0,0
+30-39,Male,15.0,normal,111.0,normal,0,0
+30-39,Female,20.0,borderline high,126.0,normal,0,0
+40-49,Female,20.0,normal,141.0,normal,0,1
+40-49,Male,20.0,high,130.0,normal,0,0
+50-59,Female,20.0,borderline high,108.0,normal,0,0
+60-70,Female,6.0,high,168.0,prediabetes,0,1
+50-59,Male,20.0,high,146.0,normal,0,1
+50-59,Female,0.0,high,128.0,normal,0,0
+50-59,Male,11.0,normal,134.5,normal,0,0
+40-49,Female,1.0,borderline high,124.5,normal,0,0
+60-70,Female,0.0,high,213.0,normal,0,0
+50-59,Female,0.0,high,115.0,normal,0,0
+50-59,Male,0.0,borderline high,127.0,normal,0,0
+40-49,Female,20.0,borderline high,129.0,normal,0,0
+60-70,Male,40.0,borderline high,126.0,normal,0,0
+60-70,Female,0.0,high,167.5,normal,0,0
+30-39,Male,0.0,borderline high,108.0,normal,0,0
+30-39,Female,5.0,normal,125.0,normal,0,0
+60-70,Female,0.0,high,153.0,normal,0,0
+50-59,Female,0.0,high,117.0,normal,0,0
+40-49,Male,20.0,borderline high,152.0,normal,0,0
+40-49,Female,40.0,high,118.0,normal,0,1
+40-49,Male,25.0,borderline high,154.0,normal,0,1
+40-49,Male,0.0,normal,120.0,normal,0,0
+40-49,Female,10.0,normal,111.0,normal,0,0
+60-70,Female,15.0,high,116.0,normal,0,0
+50-59,Female,0.0,high,115.0,normal,0,0
+30-39,Male,30.0,high,159.0,normal,0,0
+60-70,Female,0.0,high,206.0,normal,0,0
+40-49,Female,20.0,normal,123.0,normal,0,0
+60-70,Male,20.0,high,157.0,normal,0,0
+50-59,Male,25.0,borderline high,142.0,normal,0,0
+50-59,Male,5.0,high,106.0,normal,0,0
+50-59,Female,5.0,high,139.0,normal,0,1
+30-39,Female,20.0,borderline high,111.0,normal,0,0
+30-39,Male,20.0,high,151.0,normal,0,0
+60-70,Female,0.0,high,199.0,normal,0,0
+50-59,Female,0.0,borderline high,184.0,normal,0,1
+60-70,Male,20.0,normal,129.5,normal,0,0
+50-59,Female,0.0,high,127.5,prediabetes,0,1
+40-49,Male,0.0,high,129.0,normal,0,0
+40-49,Female,2.0,borderline high,133.0,normal,0,0
+50-59,Female,0.0,high,167.5,normal,0,0
+40-49,Female,40.0,high,160.0,normal,0,0
+40-49,Male,9.0,borderline high,117.5,prediabetes,0,0
+40-49,Male,30.0,normal,127.5,prediabetes,0,0
+40-49,Female,0.0,borderline high,115.5,normal,0,0
+40-49,Female,20.0,borderline high,128.0,normal,0,0
+40-49,Female,0.0,borderline high,118.0,prediabetes,0,0
+50-59,Male,20.0,high,198.0,normal,0,1
+30-39,Female,20.0,borderline high,117.5,normal,0,0
+40-49,Female,0.0,high,127.0,normal,0,0
+60-70,Male,30.0,borderline high,114.5,diabetes,0,1
+30-39,Female,5.0,normal,137.5,normal,0,0
+50-59,Female,0.0,high,151.0,normal,0,0
+50-59,Male,20.0,high,158.5,normal,0,0
+60-70,Female,0.0,high,118.0,normal,0,0
+50-59,Female,0.0,high,160.0,normal,0,0
+30-39,Male,0.0,borderline high,137.0,normal,0,0
+50-59,Male,20.0,high,131.5,normal,0,0
+40-49,Female,0.0,high,123.5,normal,0,0
+40-49,Female,0.0,borderline high,140.0,normal,0,0
+30-39,Female,1.0,normal,98.0,normal,0,1
+40-49,Female,9.0,borderline high,109.5,normal,0,0
+30-39,Female,15.0,high,115.5,normal,0,0
+50-59,Male,20.0,high,106.0,diabetes,0,1
+60-70,Male,0.0,borderline high,110.0,normal,0,0
+60-70,Female,0.0,borderline high,122.0,normal,0,0
+50-59,Female,0.0,high,137.0,normal,0,0
+60-70,Female,0.0,high,160.0,normal,0,0
+50-59,Male,3.0,normal,134.0,normal,0,1
+30-39,Female,0.0,normal,125.5,normal,0,0
+30-39,Female,10.0,borderline high,120.5,prediabetes,0,0
+50-59,Male,15.0,borderline high,131.0,normal,0,1
+50-59,Male,20.0,high,159.0,normal,0,0
+60-70,Male,20.0,high,170.0,normal,0,1
+30-39,Male,0.0,normal,124.0,normal,0,0
+50-59,Male,20.0,normal,154.0,normal,0,1
+60-70,Female,0.0,borderline high,132.0,normal,0,0
+50-59,Female,10.0,normal,115.0,normal,0,0
+40-49,Female,2.0,high,111.0,normal,0,0
+60-70,Female,0.0,borderline high,110.0,normal,0,0
+40-49,Female,0.0,high,149.0,normal,0,0
+40-49,Female,5.0,normal,135.0,normal,0,0
+50-59,Female,10.0,high,127.0,normal,0,1
+50-59,Female,10.0,normal,121.0,normal,0,0
+40-49,Male,0.0,normal,115.0,normal,0,0
+40-49,Male,0.0,high,139.0,normal,0,0
+50-59,Male,0.0,high,122.0,normal,0,0
+30-39,Male,0.0,high,113.0,normal,0,0
+30-39,Male,30.0,normal,124.0,normal,0,0
+60-70,Female,0.0,borderline high,139.0,normal,0,0
+60-70,Female,1.0,high,118.0,normal,0,0
+40-49,Female,0.0,high,122.0,normal,0,0
+40-49,Male,30.0,normal,107.5,normal,0,0
+50-59,Female,0.0,high,125.0,normal,0,0
+40-49,Female,0.0,normal,102.0,normal,0,0
+40-49,Male,0.0,borderline high,124.0,prediabetes,0,0
+60-70,Female,0.0,high,206.0,normal,0,0
+40-49,Female,0.0,normal,117.0,normal,0,0
+50-59,Male,0.0,high,145.0,normal,0,0
+30-39,Female,0.0,borderline high,107.0,normal,0,0
+50-59,Female,0.0,high,142.0,normal,0,0
+50-59,Male,20.0,normal,167.0,prediabetes,0,0
+50-59,Female,1.0,borderline high,142.0,normal,0,0
+40-49,Male,30.0,borderline high,111.5,normal,0,0
+50-59,Male,1.0,high,148.0,normal,0,0
+50-59,Female,20.0,normal,133.0,normal,0,0
+50-59,Male,0.0,borderline high,100.0,normal,0,0
+50-59,Male,0.0,borderline high,132.0,normal,0,0
+60-70,Male,5.0,high,139.0,prediabetes,0,0
+60-70,Male,0.0,high,119.5,normal,0,0
+50-59,Male,0.0,borderline high,127.0,normal,0,0
+50-59,Female,0.0,borderline high,147.0,normal,0,0
+30-39,Male,0.0,high,136.5,normal,0,0
+50-59,Female,0.0,borderline high,149.0,normal,0,0
+30-39,Male,0.0,normal,155.0,normal,0,0
+50-59,Female,0.0,high,133.0,normal,0,0
+30-39,Male,0.0,borderline high,131.5,normal,0,0
+40-49,Male,0.0,borderline high,117.5,normal,0,0
+40-49,Male,5.0,borderline high,131.0,normal,0,0
+60-70,Male,10.0,high,131.0,prediabetes,0,1
+40-49,Female,0.0,normal,105.5,normal,0,0
+40-49,Male,20.0,high,138.0,diabetes,0,0
+60-70,Female,0.0,borderline high,126.0,normal,0,0
+40-49,Male,3.0,borderline high,145.0,normal,0,1
+40-49,Female,0.0,normal,122.0,normal,0,0
+30-39,Male,20.0,borderline high,141.5,normal,0,0
+40-49,Female,0.0,normal,111.0,normal,0,0
+60-70,Female,20.0,high,142.0,normal,0,0
+40-49,Male,0.0,high,131.0,normal,0,0
+50-59,Female,0.0,high,112.5,normal,0,0
+40-49,Male,20.0,borderline high,117.0,normal,0,0
+50-59,Male,20.0,normal,143.0,normal,0,0
+50-59,Female,9.0,high,165.0,prediabetes,0,0
+50-59,Female,0.0,high,161.5,normal,0,0
+50-59,Male,30.0,borderline high,122.0,normal,0,0
+60-70,Male,0.0,borderline high,164.5,normal,0,1
+40-49,Male,0.0,normal,141.5,normal,0,0
+50-59,Male,0.0,borderline high,124.0,normal,0,0
+40-49,Male,20.0,high,112.0,normal,0,0
+40-49,Male,9.0,high,137.0,normal,0,0
+50-59,Male,20.0,high,163.0,normal,0,1
+40-49,Male,0.0,normal,116.0,normal,0,0
+50-59,Female,0.0,borderline high,171.5,prediabetes,0,0
+50-59,Male,60.0,high,150.0,normal,0,0
+60-70,Male,9.0,high,126.0,normal,0,1
+40-49,Male,0.0,high,132.5,normal,0,0
+40-49,Male,30.0,normal,146.0,normal,0,0
+50-59,Female,0.0,high,177.0,normal,0,1
+40-49,Female,0.0,normal,105.0,normal,0,0
+50-59,Female,3.0,high,108.5,prediabetes,0,0
+40-49,Female,3.0,normal,110.0,normal,0,0
+40-49,Male,0.0,normal,102.0,normal,0,0
+40-49,Male,0.0,high,129.5,prediabetes,0,0
+40-49,Female,0.0,high,132.0,normal,0,0
+50-59,Female,0.0,high,131.0,normal,0,0
+50-59,Male,10.0,borderline high,146.5,diabetes,0,0
+50-59,Male,0.0,borderline high,114.0,normal,0,0
+40-49,Female,20.0,borderline high,107.0,prediabetes,0,0
+60-70,Female,0.0,high,124.0,normal,0,1
+40-49,Female,9.0,normal,139.0,normal,0,0
+40-49,Male,0.0,normal,153.0,normal,0,0
+40-49,Female,5.0,normal,109.5,normal,0,0
+50-59,Female,3.0,high,131.0,normal,0,0
+50-59,Female,0.0,normal,132.0,normal,0,1
+50-59,Female,20.0,borderline high,131.0,normal,0,0
+50-59,Female,0.0,high,125.0,normal,0,0
+60-70,Female,0.0,high,201.0,normal,0,1
+50-59,Male,35.0,high,120.5,normal,0,0
+50-59,Female,0.0,high,145.0,normal,0,0
+40-49,Female,30.0,high,144.0,normal,0,0
+50-59,Female,0.0,high,127.0,normal,0,0
+40-49,Male,0.0,borderline high,122.5,normal,0,1
+50-59,Female,10.0,high,131.0,normal,0,0
+40-49,Female,0.0,high,118.0,normal,0,0
+40-49,Female,10.0,borderline high,112.5,normal,0,0
+40-49,Male,4.0,borderline high,135.0,normal,0,0
+40-49,Female,9.0,borderline high,118.0,normal,0,1
+30-39,Female,0.0,high,123.0,normal,0,0
+40-49,Male,30.0,borderline high,112.0,normal,0,1
+40-49,Male,15.0,high,137.0,normal,0,0
+40-49,Male,40.0,high,114.0,normal,0,1
+50-59,Female,0.0,high,137.0,normal,0,0
+50-59,Male,20.0,borderline high,125.0,normal,0,1
+50-59,Female,10.0,high,113.5,normal,0,0
+50-59,Male,0.0,borderline high,113.0,normal,0,0
+50-59,Male,0.0,borderline high,114.0,normal,0,1
+30-39,Female,5.0,high,110.0,normal,0,0
+50-59,Female,0.0,high,125.0,normal,0,0
+40-49,Male,9.0,borderline high,131.0,normal,0,0
+60-70,Female,20.0,high,149.0,normal,0,0
+50-59,Male,9.0,borderline high,137.0,normal,0,0
+40-49,Female,20.0,borderline high,105.0,normal,0,0
+60-70,Male,0.0,borderline high,130.0,normal,0,0
+40-49,Female,0.0,normal,145.0,normal,0,0
+50-59,Female,0.0,borderline high,148.5,normal,0,1
+50-59,Female,0.0,high,159.5,diabetes,0,1
+60-70,Female,0.0,high,143.5,normal,0,0
+60-70,Female,0.0,borderline high,140.0,normal,0,0
+50-59,Male,43.0,borderline high,119.0,normal,0,0
+30-39,Female,1.0,normal,105.5,normal,0,0
+50-59,Male,15.0,high,127.5,normal,0,1
+50-59,Female,0.0,high,114.0,normal,0,0
+50-59,Male,9.0,high,101.0,normal,0,0
+60-70,Male,0.0,high,133.0,normal,0,0
+40-49,Female,0.0,borderline high,138.0,normal,0,0
+40-49,Female,0.0,high,173.0,normal,0,0
+40-49,Male,30.0,borderline high,112.5,prediabetes,0,0
+40-49,Female,10.0,high,109.0,normal,0,0
+60-70,Female,10.0,borderline high,189.0,normal,0,0
+40-49,Female,0.0,high,154.5,normal,0,0
+60-70,Female,0.0,high,141.5,normal,0,0
+50-59,Female,0.0,borderline high,159.0,prediabetes,0,1
+50-59,Female,0.0,borderline high,146.0,normal,0,0
+60-70,Female,0.0,high,140.0,normal,0,0
+60-70,Female,0.0,high,122.0,normal,0,0
+40-49,Male,30.0,high,130.0,normal,0,0
+40-49,Female,30.0,high,125.0,normal,0,0
+40-49,Female,20.0,normal,132.0,prediabetes,0,0
+50-59,Male,20.0,normal,93.5,normal,0,0
+40-49,Male,35.0,borderline high,144.0,normal,0,0
+50-59,Male,30.0,high,133.0,normal,0,1
+50-59,Male,0.0,high,147.0,normal,0,0
+60-70,Female,0.0,high,156.0,normal,0,0
+50-59,Female,0.0,borderline high,174.0,normal,0,0
+60-70,Female,0.0,normal,150.0,normal,0,0
+50-59,Male,30.0,borderline high,140.0,normal,0,0
+50-59,Male,25.0,high,129.0,normal,0,0
+50-59,Female,0.0,high,130.0,normal,0,0
+40-49,Male,30.0,normal,100.0,normal,0,0
+40-49,Female,10.0,high,113.0,normal,0,0
+30-39,Female,0.0,borderline high,128.0,normal,0,0
+50-59,Female,0.0,high,145.0,normal,0,0
+60-70,Female,1.0,high,172.0,prediabetes,0,0
+40-49,Female,0.0,borderline high,167.0,normal,0,0
+50-59,Female,20.0,high,116.0,normal,0,0
+40-49,Female,0.0,high,122.0,prediabetes,0,0
+40-49,Female,5.0,high,107.5,normal,0,0
+60-70,Female,0.0,borderline high,144.0,normal,0,0
+40-49,Female,3.0,borderline high,119.0,normal,0,0
+60-70,Male,0.0,borderline high,100.0,normal,0,0
+60-70,Male,0.0,borderline high,130.0,normal,0,0
+40-49,Female,0.0,high,116.0,normal,0,0
+50-59,Female,20.0,high,147.0,normal,0,0
+50-59,Male,0.0,high,140.0,normal,0,0
+50-59,Female,0.0,high,114.0,normal,0,0
+50-59,Female,0.0,borderline high,153.5,normal,0,0
+40-49,Male,20.0,borderline high,126.0,normal,0,0
+60-70,Male,0.0,high,138.0,prediabetes,0,0
+40-49,Male,0.0,borderline high,175.0,normal,0,0
+30-39,Female,0.0,normal,123.0,normal,0,0
+60-70,Female,0.0,high,165.0,normal,0,0
+30-39,Male,20.0,high,135.0,normal,0,0
+40-49,Male,15.0,borderline high,131.0,normal,0,0
+40-49,Male,4.0,normal,107.0,normal,0,0
+40-49,Female,0.0,high,145.0,normal,0,0
+30-39,Male,43.0,normal,130.0,normal,0,0
+50-59,Female,0.0,borderline high,184.0,normal,0,1
+60-70,Female,3.0,high,135.0,normal,0,0
+40-49,Male,0.0,borderline high,118.0,normal,0,0
+40-49,Male,0.0,high,160.5,normal,0,1
+50-59,Male,20.0,high,114.0,normal,0,0
+60-70,Female,0.0,high,177.0,diabetes,0,1
+40-49,Female,0.0,normal,243.0,normal,0,0
+60-70,Male,20.0,high,178.0,normal,0,0
+40-49,Female,15.0,high,139.0,normal,0,0
+60-70,Female,0.0,high,127.0,normal,0,1
+60-70,Female,0.0,borderline high,184.0,normal,0,0
+60-70,Male,20.0,high,145.5,normal,0,1
+60-70,Female,3.0,borderline high,133.0,normal,0,0
+50-59,Female,0.0,high,187.5,normal,0,0
+30-39,Female,10.0,borderline high,119.0,normal,0,0
+40-49,Male,10.0,high,125.0,normal,0,0
+50-59,Male,20.0,high,165.0,normal,0,0
+40-49,Female,0.0,high,138.0,normal,0,0
+60-70,Male,30.0,high,178.0,normal,0,1
+40-49,Male,0.0,high,138.0,prediabetes,0,0
+50-59,Female,0.0,high,123.0,normal,0,0
+40-49,Female,0.0,borderline high,110.0,normal,0,0
+40-49,Female,15.0,normal,122.0,normal,0,0
+40-49,Female,20.0,high,119.0,normal,0,0
+50-59,Male,0.0,borderline high,110.0,normal,0,0
+40-49,Female,0.0,high,155.0,normal,0,0
+50-59,Female,1.0,borderline high,111.0,normal,0,0
+40-49,Male,0.0,high,150.0,normal,0,0
+40-49,Female,0.0,borderline high,116.0,normal,0,0
+30-39,Male,15.0,borderline high,99.0,normal,0,0
+40-49,Female,0.0,high,115.0,normal,0,0
+50-59,Male,0.0,high,181.0,normal,0,0
+40-49,Female,0.0,borderline high,115.0,normal,0,0
+40-49,Male,0.0,high,174.0,prediabetes,0,0
+30-39,Female,10.0,normal,96.0,normal,0,0
+30-39,Female,20.0,normal,122.0,normal,0,0
+40-49,Male,0.0,high,120.5,normal,0,0
+40-49,Male,0.0,normal,127.0,normal,0,0
+30-39,Female,9.0,normal,102.5,normal,0,0
+50-59,Male,0.0,borderline high,158.0,prediabetes,0,0
+40-49,Female,3.0,borderline high,130.0,normal,0,0
+40-49,Female,15.0,normal,124.0,normal,0,0
+50-59,Male,30.0,high,180.0,normal,0,1
+40-49,Male,0.0,normal,112.0,prediabetes,0,0
+40-49,Female,3.0,borderline high,133.5,normal,0,0
+50-59,Male,0.0,borderline high,100.5,normal,0,0
+50-59,Male,20.0,high,120.0,normal,0,0
+60-70,Male,0.0,borderline high,124.0,normal,0,0
+60-70,Male,20.0,normal,156.0,normal,0,0
+30-39,Female,0.0,borderline high,156.5,diabetes,0,0
+40-49,Male,0.0,normal,124.0,normal,0,0
+40-49,Female,9.0,high,140.0,normal,0,0
+50-59,Male,20.0,high,128.0,normal,0,1
+40-49,Male,0.0,normal,119.0,normal,0,0
+30-39,Female,0.0,borderline high,130.0,normal,0,0
+40-49,Female,0.0,borderline high,118.0,normal,0,0
+50-59,Female,10.0,high,156.0,prediabetes,0,0
+40-49,Male,0.0,borderline high,148.0,prediabetes,0,0
+40-49,Female,2.0,borderline high,113.0,normal,0,0
+40-49,Female,9.0,high,159.0,normal,0,0
+40-49,Male,15.0,borderline high,127.0,normal,0,0
+50-59,Female,0.0,borderline high,143.0,normal,0,0
+30-39,Male,0.0,high,125.0,normal,0,0
+50-59,Male,0.0,borderline high,126.0,normal,0,1
+40-49,Female,15.0,high,122.0,normal,0,0
+60-70,Male,0.0,normal,129.0,normal,0,0
+40-49,Female,0.0,borderline high,108.5,normal,0,0
+50-59,Male,20.0,borderline high,162.0,normal,0,1
+60-70,Male,0.0,high,135.5,normal,0,0
+40-49,Female,0.0,borderline high,132.0,normal,0,0
+50-59,Male,0.0,high,144.0,normal,0,0
+40-49,Female,0.0,borderline high,123.0,normal,0,0
+40-49,Female,20.0,high,128.0,normal,0,0
+40-49,Female,0.0,high,126.5,normal,0,0
+30-39,Male,0.0,high,131.5,normal,0,0
+50-59,Male,13.0,normal,120.0,normal,0,0
+50-59,Male,0.0,borderline high,143.0,normal,0,1
+40-49,Female,0.0,normal,128.0,normal,0,0
+60-70,Male,0.0,borderline high,160.0,diabetes,0,0
+50-59,Female,9.0,normal,122.0,normal,0,0
+40-49,Female,0.0,borderline high,97.0,normal,0,0
+50-59,Female,0.0,high,146.0,normal,0,0
+50-59,Female,0.0,normal,155.0,normal,0,0
+40-49,Male,0.0,borderline high,128.0,normal,0,0
+50-59,Female,0.0,borderline high,114.0,normal,0,0
+50-59,Female,20.0,high,175.0,normal,0,0
+40-49,Male,30.0,normal,125.0,normal,0,0
+50-59,Male,30.0,high,121.0,normal,0,0
+60-70,Male,20.0,borderline high,116.0,normal,0,0
+40-49,Male,40.0,borderline high,117.5,normal,0,0
+40-49,Female,0.0,normal,108.0,normal,0,0
+40-49,Male,0.0,high,132.5,normal,0,0
+50-59,Male,15.0,normal,108.0,prediabetes,0,0
+40-49,Female,0.0,borderline high,108.5,normal,0,0
+60-70,Female,0.0,borderline high,185.5,normal,0,1
+40-49,Female,0.0,borderline high,110.0,normal,0,0
+50-59,Female,0.0,borderline high,125.0,normal,0,0
+60-70,Female,0.0,borderline high,140.0,normal,0,0
+40-49,Female,15.0,high,110.0,normal,0,0
+50-59,Female,3.0,borderline high,103.0,normal,0,1
+40-49,Male,0.0,normal,115.0,normal,0,0
+50-59,Female,0.0,high,163.0,normal,0,0
+40-49,Female,15.0,borderline high,95.0,normal,0,0
+30-39,Male,20.0,high,134.0,normal,0,0
+40-49,Male,0.0,normal,173.0,normal,0,1
+50-59,Male,30.0,high,148.0,normal,0,0
+50-59,Male,0.0,high,131.0,normal,0,0
+60-70,Female,0.0,borderline high,172.5,normal,0,0
+50-59,Male,0.0,normal,174.0,normal,0,0
+40-49,Male,43.0,high,125.0,normal,0,0
+60-70,Male,0.0,borderline high,126.0,normal,0,0
+40-49,Male,20.0,high,120.0,normal,0,0
+30-39,Male,15.0,borderline high,137.0,prediabetes,0,0
+50-59,Male,20.0,high,164.0,normal,0,0
+30-39,Female,0.0,normal,121.0,normal,0,0
+50-59,Male,15.0,borderline high,132.0,normal,0,0
+50-59,Male,20.0,borderline high,115.0,normal,0,0
+40-49,Male,30.0,borderline high,128.0,normal,0,0
+30-39,Female,0.0,normal,108.0,normal,0,0
+60-70,Male,0.0,normal,144.0,normal,0,0
+60-70,Male,0.0,normal,114.0,normal,0,0
+50-59,Female,0.0,borderline high,136.0,normal,0,0
+50-59,Male,40.0,borderline high,127.5,normal,0,0
+30-39,Female,5.0,normal,106.0,normal,0,0
+50-59,Female,0.0,borderline high,127.0,normal,0,0
+60-70,Female,0.0,high,126.0,prediabetes,0,0
+50-59,Female,20.0,borderline high,154.0,normal,0,0
+40-49,Male,38.0,borderline high,130.0,prediabetes,0,0
+50-59,Male,20.0,high,124.0,normal,0,0
+30-39,Female,0.0,borderline high,112.5,normal,0,0
+30-39,Male,0.0,normal,135.0,normal,0,0
+40-49,Male,0.0,high,140.0,normal,0,0
+40-49,Female,0.0,high,133.5,normal,0,0
+40-49,Female,5.0,normal,122.0,normal,0,0
+30-39,Male,10.0,high,120.0,normal,0,0
+30-39,Female,0.0,high,113.0,normal,0,0
+60-70,Male,0.0,borderline high,114.0,normal,0,0
+40-49,Male,20.0,borderline high,128.0,normal,0,0
+30-39,Female,0.0,borderline high,151.0,normal,0,0
+30-39,Female,0.0,normal,124.0,normal,0,0
+40-49,Female,0.0,high,115.0,prediabetes,0,0
+50-59,Male,15.0,high,120.0,normal,0,0
+40-49,Female,25.0,high,102.0,normal,0,1
+50-59,Male,25.0,high,121.0,normal,0,1
+50-59,Male,20.0,high,127.5,normal,0,0
+40-49,Female,25.0,borderline high,111.0,normal,0,0
+50-59,Female,5.0,high,112.5,normal,0,0
+40-49,Female,0.0,borderline high,103.5,normal,0,1
+40-49,Female,0.0,borderline high,142.5,normal,0,0
+40-49,Male,0.0,borderline high,110.0,normal,0,0
+60-70,Male,30.0,normal,114.0,normal,0,0
+40-49,Female,10.0,high,123.0,normal,0,1
+50-59,Female,0.0,high,114.0,normal,0,0
+30-39,Male,30.0,high,124.0,normal,0,0
+30-39,Male,0.0,normal,141.5,normal,0,0
+30-39,Male,0.0,normal,119.0,normal,0,0
+40-49,Male,0.0,borderline high,115.0,normal,0,0
+60-70,Male,0.0,high,163.0,normal,0,0
+60-70,Male,0.0,borderline high,120.0,normal,0,1
+40-49,Male,50.0,borderline high,145.0,normal,0,0
+30-39,Female,20.0,normal,137.0,normal,0,1
+50-59,Male,40.0,borderline high,127.0,diabetes,0,1
+40-49,Female,20.0,borderline high,144.0,normal,0,0
+50-59,Female,0.0,high,138.0,normal,0,0
+60-70,Female,0.0,high,149.5,normal,0,0
+50-59,Female,0.0,high,146.0,normal,0,0
+40-49,Female,0.0,high,101.0,normal,0,0
+40-49,Male,20.0,normal,133.0,normal,0,1
+50-59,Female,0.0,high,140.0,normal,0,0
+50-59,Male,20.0,high,128.0,normal,0,0
+60-70,Male,30.0,borderline high,106.0,normal,0,0
+50-59,Male,0.0,borderline high,113.5,normal,0,0
+60-70,Female,0.0,high,123.0,prediabetes,0,0
+40-49,Female,0.0,borderline high,138.0,normal,0,0
+40-49,Male,20.0,high,135.0,normal,0,1
+60-70,Female,0.0,high,138.0,normal,0,1
+40-49,Male,30.0,borderline high,127.5,normal,0,0
+60-70,Female,8.0,high,182.5,normal,0,0
+40-49,Female,20.0,high,109.0,normal,0,0
+40-49,Female,20.0,normal,132.0,normal,0,0
+40-49,Male,0.0,high,172.5,normal,0,0
+40-49,Male,0.0,high,121.0,normal,0,0
+50-59,Female,0.0,borderline high,126.0,normal,0,0
+50-59,Male,25.0,high,112.0,normal,0,0
+40-49,Female,10.0,high,121.0,normal,0,0
+50-59,Female,0.0,high,134.0,normal,0,1
+60-70,Female,20.0,borderline high,154.0,normal,0,1
+50-59,Male,10.0,normal,125.0,normal,0,1
+40-49,Female,20.0,borderline high,109.0,normal,0,0
+40-49,Male,10.0,borderline high,105.0,normal,0,0
+40-49,Male,0.0,high,123.0,normal,0,0
+40-49,Male,23.0,high,115.0,normal,0,0
+40-49,Female,0.0,borderline high,149.0,normal,0,0
+30-39,Male,15.0,normal,123.0,normal,0,0
+60-70,Male,20.0,high,149.0,normal,0,0
+30-39,Male,0.0,normal,122.5,normal,0,0
+60-70,Female,0.0,high,162.0,normal,0,0
+40-49,Female,3.0,high,129.0,normal,0,0
+60-70,Female,0.0,high,144.0,normal,0,0
+40-49,Male,20.0,borderline high,137.0,normal,0,0
+40-49,Female,0.0,borderline high,122.0,normal,0,0
+40-49,Female,0.0,normal,113.0,normal,0,1
+60-70,Female,0.0,normal,143.0,prediabetes,0,0
+30-39,Male,0.0,borderline high,133.0,prediabetes,0,0
+40-49,Female,20.0,normal,100.0,normal,0,0
+30-39,Male,40.0,high,115.0,normal,0,0
+30-39,Female,15.0,high,142.0,prediabetes,0,0
+50-59,Female,15.0,high,142.0,normal,0,0
+40-49,Male,30.0,borderline high,139.0,normal,0,1
+50-59,Female,0.0,borderline high,131.0,normal,0,0
+40-49,Male,20.0,high,146.0,normal,0,0
+40-49,Male,20.0,borderline high,123.0,normal,0,0
+30-39,Female,5.0,normal,118.0,normal,0,0
+40-49,Female,15.0,normal,95.0,normal,0,0
+40-49,Female,15.0,normal,158.5,normal,0,0
+50-59,Female,0.0,high,142.0,normal,0,0
+30-39,Female,7.0,normal,95.0,normal,0,0
+40-49,Female,20.0,high,115.0,normal,0,0
+40-49,Male,23.0,high,115.0,normal,0,0
+50-59,Female,20.0,borderline high,131.0,normal,0,0
+40-49,Male,20.0,high,136.0,normal,0,0
+50-59,Male,20.0,high,123.0,normal,0,1
+30-39,Male,0.0,borderline high,130.0,normal,0,0
+50-59,Female,0.0,borderline high,127.5,normal,0,0
+50-59,Female,0.0,high,130.0,normal,0,0
+40-49,Male,25.0,borderline high,121.0,normal,0,0
+60-70,Female,0.0,high,135.0,normal,0,0
+50-59,Female,0.0,high,145.0,normal,0,0
+30-39,Female,0.0,borderline high,125.0,normal,0,0
+50-59,Male,0.0,high,136.5,normal,0,0
+40-49,Male,30.0,high,115.0,normal,0,0
+40-49,Female,0.0,high,117.0,normal,0,0
+40-49,Female,0.0,high,116.0,normal,0,0
+60-70,Male,3.0,high,165.0,normal,0,0
+30-39,Male,30.0,borderline high,141.0,normal,0,0
+40-49,Female,1.0,normal,120.0,normal,0,0
+40-49,Female,2.0,borderline high,110.0,normal,0,0
+50-59,Female,0.0,high,162.5,normal,0,0
+60-70,Female,0.0,high,114.0,normal,0,0
+30-39,Male,30.0,high,127.0,normal,0,0
+40-49,Female,0.0,borderline high,115.0,normal,0,0
+30-39,Male,60.0,borderline high,112.0,normal,0,0
+40-49,Male,20.0,high,118.0,normal,0,0
+50-59,Female,0.0,high,151.0,normal,0,0
+40-49,Male,5.0,normal,109.0,normal,0,1
+60-70,Female,0.0,high,119.0,diabetes,0,0
+50-59,Female,0.0,high,135.0,prediabetes,0,0
+50-59,Male,0.0,high,135.0,normal,0,1
+40-49,Female,0.0,borderline high,100.0,normal,0,0
+50-59,Male,30.0,borderline high,117.5,normal,0,0
+50-59,Female,0.0,borderline high,139.0,normal,0,0
+60-70,Female,0.0,high,132.0,normal,0,0
+50-59,Male,50.0,high,125.5,normal,0,0
+40-49,Female,0.0,borderline high,121.0,normal,0,0
+40-49,Female,20.0,high,160.0,normal,0,0
+50-59,Male,0.0,borderline high,111.0,normal,0,0
+40-49,Male,0.0,borderline high,127.0,normal,0,0
+50-59,Male,60.0,high,134.0,normal,0,0
+50-59,Female,0.0,high,148.0,normal,0,0
+50-59,Female,0.0,high,107.5,normal,0,0
+60-70,Male,7.0,normal,125.0,normal,0,0
+40-49,Male,0.0,borderline high,124.0,normal,0,0
+40-49,Female,0.0,high,156.0,normal,0,0
+40-49,Female,3.0,borderline high,128.0,normal,0,0
+60-70,Female,0.0,high,132.0,normal,0,1
+40-49,Female,0.0,high,137.5,normal,0,0
+50-59,Female,0.0,normal,155.0,normal,0,0
+40-49,Female,0.0,normal,137.0,normal,0,1
+30-39,Female,0.0,normal,115.0,normal,0,0
+60-70,Male,0.0,high,131.5,normal,0,0
+40-49,Female,0.0,normal,117.5,normal,0,0
+50-59,Male,0.0,high,129.0,normal,0,0
+60-70,Male,0.0,normal,112.0,prediabetes,0,0
+50-59,Male,20.0,high,132.0,diabetes,0,1
+50-59,Male,0.0,borderline high,141.0,prediabetes,0,0
+50-59,Female,0.0,borderline high,130.5,prediabetes,0,0
+30-39,Male,60.0,high,122.5,normal,0,0
+50-59,Female,0.0,borderline high,109.0,normal,0,0
+60-70,Female,20.0,high,141.0,normal,0,0
+60-70,Female,0.0,borderline high,126.0,normal,0,0
+50-59,Female,0.0,high,135.0,normal,0,0
+50-59,Female,3.0,high,123.0,normal,0,0
+50-59,Female,0.0,normal,105.0,normal,0,0
+40-49,Female,15.0,high,121.0,normal,0,0
+40-49,Female,20.0,borderline high,122.0,normal,0,0
+40-49,Female,0.0,normal,127.5,normal,0,0
+50-59,Male,20.0,high,100.0,normal,0,0
+50-59,Female,0.0,borderline high,126.0,normal,0,0
+60-70,Male,0.0,borderline high,129.0,normal,0,0
+60-70,Male,0.0,high,111.0,normal,0,0
+40-49,Female,0.0,borderline high,142.5,normal,0,0
+40-49,Female,20.0,high,122.5,normal,0,0
+50-59,Male,0.0,high,143.0,normal,0,0
+40-49,Male,20.0,borderline high,112.5,normal,0,0
+30-39,Male,20.0,borderline high,107.0,normal,0,0
+50-59,Female,0.0,high,142.5,normal,0,0
+30-39,Female,0.0,high,125.0,normal,0,0
+60-70,Female,0.0,borderline high,146.0,normal,0,1
+40-49,Female,0.0,borderline high,143.5,normal,0,0
+50-59,Male,20.0,borderline high,129.0,normal,0,1
+40-49,Female,43.0,high,132.5,normal,0,0
+30-39,Male,0.0,borderline high,121.0,normal,0,0
+50-59,Female,0.0,high,112.5,normal,0,0
+40-49,Female,9.0,high,129.0,prediabetes,0,1
+40-49,Male,20.0,high,142.0,normal,0,0
+40-49,Female,43.0,high,199.0,normal,0,0
+50-59,Male,10.0,high,134.0,normal,0,0
+40-49,Female,0.0,normal,112.0,normal,0,0
+40-49,Female,0.0,normal,179.0,normal,0,0
+30-39,Female,25.0,borderline high,125.0,normal,0,0
+60-70,Female,0.0,borderline high,179.0,normal,0,0
+50-59,Female,15.0,high,101.0,normal,0,0
+40-49,Female,20.0,normal,104.0,normal,0,0
+40-49,Female,0.0,borderline high,112.0,normal,0,0
+30-39,Female,0.0,normal,104.0,normal,0,0
+40-49,Male,20.0,high,138.0,normal,0,0
+50-59,Female,0.0,borderline high,130.0,normal,0,0
+50-59,Male,29.0,borderline high,120.0,normal,0,0
+50-59,Female,0.0,borderline high,124.0,normal,0,0
+40-49,Female,9.0,normal,133.0,normal,0,0
+40-49,Female,0.0,borderline high,108.0,normal,0,0
+50-59,Female,40.0,normal,129.0,normal,0,0
+40-49,Male,10.0,borderline high,118.0,normal,0,0
+60-70,Female,0.0,high,186.5,normal,0,0
+50-59,Male,0.0,borderline high,131.0,normal,0,0
+40-49,Male,20.0,high,116.0,normal,0,0
+40-49,Female,0.0,normal,138.5,normal,0,0
+40-49,Male,20.0,borderline high,120.0,normal,0,0
+40-49,Female,0.0,normal,138.0,normal,0,0
+50-59,Female,0.0,high,127.5,normal,0,0
+40-49,Male,0.0,borderline high,145.0,prediabetes,0,0
+40-49,Female,20.0,borderline high,150.0,normal,0,0
+30-39,Male,9.0,high,120.0,normal,0,0
+40-49,Female,20.0,normal,117.0,normal,0,0
+60-70,Male,15.0,high,155.0,normal,1,1
+50-59,Female,1.0,high,164.0,normal,0,0
+30-39,Female,12.0,borderline high,122.5,normal,0,0
+40-49,Female,0.0,borderline high,96.0,normal,0,0
+50-59,Male,0.0,high,170.0,normal,0,0
+60-70,Female,0.0,high,173.0,normal,0,0
+50-59,Male,20.0,normal,134.0,prediabetes,0,0
+50-59,Female,0.0,high,186.0,normal,0,0
+60-70,Male,0.0,borderline high,154.0,normal,0,0
+30-39,Female,0.0,normal,102.0,normal,0,0
+50-59,Female,0.0,high,160.0,normal,0,0
+50-59,Male,0.0,normal,103.0,normal,0,0
+50-59,Male,0.0,borderline high,115.0,normal,0,0
+60-70,Female,0.0,high,204.0,normal,0,1
+50-59,Male,20.0,borderline high,114.0,normal,0,0
+40-49,Female,0.0,normal,127.5,normal,0,1
+40-49,Male,0.0,borderline high,116.0,normal,0,0
+30-39,Female,20.0,high,131.5,normal,0,0
+40-49,Female,20.0,high,158.0,normal,0,0
+50-59,Female,0.0,borderline high,130.0,normal,0,0
+30-39,Female,30.0,high,123.5,normal,0,0
+60-70,Male,15.0,borderline high,120.0,normal,0,1
+40-49,Male,0.0,high,111.0,normal,0,0
+50-59,Female,0.0,high,112.5,normal,0,0
+30-39,Male,20.0,high,118.5,prediabetes,0,1
+40-49,Male,20.0,borderline high,112.5,normal,0,0
+60-70,Female,0.0,borderline high,140.0,normal,0,0
+50-59,Female,20.0,high,139.0,prediabetes,0,0
+40-49,Female,0.0,borderline high,110.0,normal,0,0
+50-59,Male,20.0,high,217.0,normal,0,1
+30-39,Female,30.0,borderline high,196.0,normal,0,1
+50-59,Female,0.0,high,130.0,normal,0,0
+60-70,Female,0.0,normal,146.0,normal,0,1
+50-59,Male,0.0,normal,123.0,normal,0,0
+30-39,Female,3.0,normal,114.0,normal,0,0
+60-70,Female,0.0,high,176.0,normal,0,0
+40-49,Male,30.0,high,140.0,normal,0,0
+40-49,Female,0.0,normal,111.0,normal,0,0
+50-59,Female,1.0,high,156.5,normal,0,0
+30-39,Female,20.0,high,113.0,normal,0,0
+60-70,Male,18.0,borderline high,142.0,normal,0,0
+60-70,Female,0.0,high,167.0,normal,0,1
+60-70,Male,0.0,high,193.0,normal,0,0
+60-70,Female,10.0,borderline high,187.0,normal,0,0
+40-49,Female,15.0,high,107.5,normal,0,0
+40-49,Male,0.0,high,147.0,normal,0,0
+40-49,Male,0.0,high,112.5,normal,0,0
+40-49,Female,0.0,borderline high,196.0,normal,0,1
+40-49,Female,20.0,borderline high,189.0,normal,0,0
+40-49,Female,0.0,high,130.0,normal,0,0
+40-49,Female,0.0,normal,126.5,normal,0,0
+50-59,Male,0.0,borderline high,136.0,normal,0,1
+60-70,Female,0.0,high,196.0,normal,0,0
+40-49,Female,0.0,normal,112.0,normal,0,0
+50-59,Male,10.0,normal,116.0,normal,0,0
+50-59,Male,0.0,normal,170.0,normal,0,0
+50-59,Female,0.0,high,190.0,normal,0,0
+40-49,Female,0.0,high,120.0,normal,0,0
+50-59,Female,15.0,high,132.0,normal,0,0
+40-49,Male,5.0,borderline high,125.0,normal,0,0
+40-49,Male,0.0,high,104.0,normal,0,0
+40-49,Female,0.0,high,107.5,normal,0,0
+50-59,Female,9.0,borderline high,114.0,normal,0,0
+40-49,Female,0.0,normal,125.5,normal,0,0
+50-59,Male,0.0,borderline high,117.5,normal,0,0
+50-59,Female,0.0,high,161.0,normal,0,1
+40-49,Male,40.0,high,114.0,normal,0,0
+40-49,Female,0.0,high,110.5,normal,0,0
+30-39,Male,20.0,borderline high,132.5,normal,0,0
+50-59,Male,2.0,high,122.0,normal,0,0
+40-49,Male,0.0,borderline high,130.0,normal,0,0
+30-39,Female,5.0,borderline high,121.5,normal,0,0
+30-39,Male,43.0,high,129.0,normal,0,0
+50-59,Female,5.0,high,151.5,normal,0,0
+30-39,Male,20.0,high,122.0,normal,0,0
+40-49,Female,0.0,borderline high,116.0,normal,0,0
+40-49,Female,0.0,high,110.0,normal,0,0
+30-39,Female,15.0,borderline high,113.5,normal,0,0
+40-49,Female,0.0,normal,119.0,normal,0,0
+50-59,Female,0.0,borderline high,154.0,prediabetes,0,0
+60-70,Female,0.0,high,123.0,normal,0,0
+40-49,Female,0.0,borderline high,155.5,diabetes,0,1
+40-49,Male,25.0,borderline high,122.0,normal,0,0
+50-59,Female,3.0,high,111.5,normal,0,0
+30-39,Female,0.0,normal,119.0,normal,0,0
+30-39,Male,20.0,normal,101.0,normal,0,0
+50-59,Female,20.0,normal,128.0,normal,0,0
+40-49,Female,0.0,borderline high,131.0,normal,0,0
+40-49,Female,5.0,normal,130.0,normal,0,0
+40-49,Male,20.0,normal,127.0,normal,0,0
+40-49,Female,0.0,high,143.5,normal,0,0
+50-59,Male,7.0,borderline high,159.0,normal,0,1
+40-49,Female,20.0,normal,121.5,normal,0,0
+50-59,Female,5.0,borderline high,139.0,normal,0,0
+60-70,Female,0.0,high,155.0,normal,0,1
+50-59,Female,0.0,high,115.0,normal,0,0
+50-59,Male,30.0,high,124.0,normal,0,0
+40-49,Female,20.0,high,109.0,normal,0,0
+50-59,Female,3.0,high,145.0,normal,0,0
+40-49,Male,20.0,borderline high,104.0,normal,0,0
+40-49,Female,0.0,high,128.0,normal,0,0
+30-39,Male,20.0,high,114.5,normal,0,0
+50-59,Male,15.0,borderline high,130.0,normal,0,0
+40-49,Male,20.0,normal,122.0,normal,0,0
+50-59,Male,0.0,borderline high,115.0,diabetes,0,1
+40-49,Male,40.0,high,157.0,normal,0,1
+50-59,Female,1.0,borderline high,126.5,normal,0,0
+40-49,Female,10.0,normal,144.0,normal,0,0
+60-70,Male,0.0,high,120.0,normal,0,1
+30-39,Female,20.0,normal,117.5,normal,0,0
+60-70,Female,0.0,high,143.5,normal,0,0
+30-39,Female,0.0,normal,115.0,normal,0,0
+30-39,Female,0.0,normal,112.0,normal,0,0
+50-59,Male,35.0,high,146.0,normal,0,0
+50-59,Female,0.0,borderline high,92.0,normal,0,0
+30-39,Male,15.0,borderline high,133.0,normal,0,0
+40-49,Female,15.0,normal,121.0,normal,0,0
+40-49,Female,10.0,normal,119.0,normal,0,0
+40-49,Female,20.0,high,120.0,normal,0,0
+60-70,Female,0.0,high,169.0,normal,0,1
+40-49,Female,0.0,normal,134.0,normal,0,0
+60-70,Female,9.0,borderline high,110.0,normal,0,0
+50-59,Female,0.0,borderline high,131.0,normal,0,0
+50-59,Female,15.0,high,117.5,normal,0,0
+60-70,Female,0.0,borderline high,140.0,prediabetes,0,0
+50-59,Female,10.0,borderline high,147.5,normal,0,0
+30-39,Female,0.0,normal,110.0,normal,0,0
+40-49,Female,20.0,high,120.0,normal,0,0
+40-49,Female,3.0,high,120.0,normal,0,0
+40-49,Male,0.0,high,133.5,normal,0,0
+50-59,Female,0.0,borderline high,146.5,normal,0,0
+40-49,Female,15.0,borderline high,110.0,normal,0,0
+40-49,Female,1.0,borderline high,120.0,normal,0,0
+40-49,Female,11.0,borderline high,107.0,normal,0,0
+50-59,Female,0.0,high,130.0,normal,0,0
+50-59,Female,0.0,high,146.5,normal,0,0
+50-59,Female,20.0,high,102.0,normal,0,0
+50-59,Female,0.0,borderline high,126.5,normal,0,0
+40-49,Male,40.0,borderline high,146.5,normal,0,0
+30-39,Male,30.0,high,118.0,normal,0,1
+40-49,Female,0.0,high,138.5,normal,0,1
+60-70,Male,0.0,borderline high,166.0,normal,0,0
+40-49,Female,1.0,high,145.5,normal,0,0
+40-49,Male,20.0,high,116.5,normal,0,0
+40-49,Male,40.0,high,142.0,normal,0,1
+30-39,Female,20.0,high,122.0,normal,0,0
+50-59,Male,0.0,borderline high,110.0,prediabetes,0,0
+40-49,Female,0.0,high,119.0,normal,0,0
+50-59,Female,0.0,high,153.0,normal,0,0
+40-49,Female,0.0,borderline high,166.5,normal,0,0
+60-70,Male,20.0,high,135.0,prediabetes,0,1
+60-70,Female,0.0,borderline high,185.0,normal,0,0
+50-59,Male,0.0,high,151.0,normal,0,0
+50-59,Female,0.0,borderline high,124.0,normal,0,0
+30-39,Female,9.0,normal,119.0,normal,0,0
+30-39,Female,20.0,normal,106.0,normal,0,0
+50-59,Female,0.0,borderline high,148.0,normal,0,0
+30-39,Male,20.0,high,124.0,normal,0,0
+30-39,Female,0.0,high,124.0,normal,0,0
+50-59,Female,9.0,high,141.0,normal,0,0
+50-59,Female,0.0,high,122.0,prediabetes,0,0
+40-49,Male,10.0,normal,105.5,normal,0,0
+50-59,Male,30.0,high,127.0,normal,0,1
+40-49,Female,0.0,high,120.0,normal,0,0
+50-59,Female,0.0,borderline high,159.0,prediabetes,0,0
+50-59,Male,0.0,high,123.0,normal,0,0
+30-39,Female,5.0,normal,130.0,normal,0,0
+50-59,Male,0.0,borderline high,166.5,normal,0,1
+50-59,Male,0.0,high,123.0,prediabetes,0,0
+30-39,Male,0.0,normal,104.0,normal,0,0
+40-49,Female,0.0,borderline high,202.0,normal,0,0
+60-70,Male,20.0,high,131.5,prediabetes,0,0
+40-49,Female,5.0,high,110.0,normal,0,0
+30-39,Female,15.0,normal,100.0,normal,0,0
+40-49,Male,1.0,borderline high,116.0,normal,0,0
+40-49,Female,0.0,borderline high,132.0,normal,0,0
+40-49,Female,8.0,normal,111.0,normal,0,0
+50-59,Male,9.0,high,173.0,normal,0,0
+40-49,Male,17.0,high,177.0,normal,0,1
+50-59,Female,0.0,borderline high,161.0,normal,0,0
+30-39,Female,0.0,high,159.0,normal,0,0
+50-59,Female,25.0,high,117.0,normal,0,1
+60-70,Female,0.0,high,154.0,normal,0,0
+60-70,Male,0.0,high,148.0,normal,0,0
+30-39,Male,0.0,high,123.0,normal,0,0
+50-59,Female,0.0,high,136.5,normal,0,0
+60-70,Female,0.0,high,135.0,normal,0,0
+50-59,Female,20.0,high,109.0,normal,0,0
+50-59,Male,20.0,normal,104.0,normal,0,1
+50-59,Male,0.0,normal,170.0,normal,0,0
+40-49,Male,0.0,borderline high,150.5,normal,0,0
+50-59,Female,0.0,high,138.0,normal,0,0
+30-39,Male,15.0,normal,129.0,normal,0,0
+40-49,Female,0.0,high,124.0,normal,0,0
+40-49,Male,40.0,borderline high,103.5,normal,0,1
+50-59,Female,0.0,borderline high,134.0,normal,0,0
+40-49,Female,0.0,borderline high,158.0,normal,0,0
+60-70,Female,0.0,high,171.0,normal,0,0
+60-70,Male,10.0,normal,134.0,normal,0,1
+40-49,Male,20.0,borderline high,110.0,normal,0,0
+40-49,Female,20.0,normal,147.0,normal,0,0
+50-59,Female,20.0,borderline high,119.5,normal,0,1
+40-49,Female,0.0,high,150.0,prediabetes,0,0
+50-59,Male,43.0,normal,140.0,normal,0,0
+60-70,Male,30.0,normal,132.0,normal,0,0
+40-49,Male,0.0,borderline high,123.5,normal,0,0
+50-59,Male,20.0,normal,120.0,normal,0,0
+50-59,Male,0.0,borderline high,119.0,normal,0,0
+40-49,Male,35.0,borderline high,138.0,normal,0,0
+50-59,Female,0.0,high,155.5,prediabetes,0,1
+40-49,Female,3.0,normal,105.0,normal,0,0
+60-70,Male,0.0,high,132.0,normal,0,0
+50-59,Male,0.0,borderline high,129.0,normal,0,0
+40-49,Male,20.0,normal,123.0,normal,0,0
+40-49,Male,15.0,borderline high,97.0,normal,0,0
+50-59,Female,0.0,high,158.0,normal,0,0
+40-49,Female,0.0,high,155.0,normal,0,0
+50-59,Male,20.0,borderline high,112.5,normal,0,1
+40-49,Female,1.0,borderline high,135.0,normal,0,0
+30-39,Female,10.0,borderline high,107.0,normal,0,0
+50-59,Female,0.0,normal,135.0,normal,0,0
+40-49,Male,5.0,borderline high,141.0,normal,0,0
+40-49,Male,20.0,normal,131.0,normal,0,1
+50-59,Male,30.0,high,135.0,normal,0,0
+30-39,Male,20.0,borderline high,125.0,normal,0,0
+40-49,Female,0.0,normal,136.5,normal,0,0
+50-59,Female,0.0,borderline high,158.0,normal,0,1
+60-70,Female,9.0,high,128.0,normal,0,0
+60-70,Male,0.0,borderline high,130.0,normal,0,0
+40-49,Female,15.0,borderline high,100.0,normal,0,0
+50-59,Female,5.0,high,144.0,normal,0,1
+40-49,Male,35.0,normal,120.0,normal,0,0
+50-59,Male,20.0,high,129.0,normal,0,0
+50-59,Male,1.0,high,122.0,normal,0,0
+50-59,Female,0.0,borderline high,141.0,normal,0,0
+30-39,Female,0.0,normal,102.5,normal,0,0
+30-39,Male,0.0,normal,124.5,normal,0,0
+60-70,Female,3.0,high,163.0,prediabetes,0,0
+40-49,Female,0.0,high,115.0,normal,0,0
+40-49,Female,0.0,borderline high,128.0,normal,0,0
+60-70,Female,15.0,borderline high,154.0,normal,0,1
+40-49,Female,0.0,high,129.0,normal,0,0
+50-59,Female,0.0,borderline high,102.0,normal,0,0
+40-49,Female,0.0,borderline high,115.0,normal,0,0
+60-70,Female,0.0,normal,150.0,normal,0,1
+60-70,Female,0.0,high,154.0,normal,0,0
+40-49,Male,40.0,borderline high,142.5,normal,0,0
+60-70,Female,0.0,high,121.0,normal,0,0
+50-59,Female,0.0,borderline high,140.0,normal,0,0
+40-49,Male,0.0,high,107.0,normal,0,0
+40-49,Male,50.0,high,156.0,prediabetes,0,1
+50-59,Male,0.0,normal,127.0,normal,0,0
+30-39,Male,15.0,normal,107.5,normal,0,0
+40-49,Male,0.0,normal,121.5,normal,0,0
+60-70,Male,0.0,borderline high,120.0,normal,0,0
+40-49,Female,0.0,high,126.5,normal,0,0
+40-49,Male,60.0,high,104.0,normal,0,0
+40-49,Female,20.0,normal,145.0,normal,0,0
+40-49,Female,0.0,borderline high,134.0,normal,0,1
+50-59,Female,0.0,borderline high,105.0,normal,0,0
+30-39,Female,0.0,borderline high,123.0,normal,0,0
+50-59,Female,0.0,high,195.0,diabetes,0,0
+60-70,Male,0.0,normal,151.0,normal,0,1
+60-70,Male,0.0,borderline high,120.0,normal,0,0
+60-70,Male,0.0,high,119.5,normal,0,0
+60-70,Female,3.0,high,157.5,normal,0,0
+40-49,Male,0.0,high,137.0,normal,0,0
+50-59,Female,20.0,borderline high,121.0,normal,0,0
+50-59,Male,0.0,borderline high,114.0,prediabetes,0,0
+40-49,Female,0.0,high,155.0,prediabetes,0,0
+50-59,Male,0.0,borderline high,124.0,normal,0,0
+50-59,Female,0.0,high,119.0,prediabetes,0,0
+50-59,Female,5.0,high,128.5,normal,0,0
+30-39,Female,0.0,borderline high,126.0,normal,0,0
+60-70,Male,0.0,borderline high,130.0,normal,0,0
+60-70,Female,3.0,high,137.0,normal,0,0
+40-49,Female,0.0,borderline high,119.0,normal,0,1
+40-49,Female,9.0,borderline high,124.0,normal,0,0
+50-59,Female,0.0,high,127.5,normal,0,0
+50-59,Male,20.0,borderline high,200.0,normal,0,1
+50-59,Female,30.0,high,147.5,normal,0,0
+50-59,Female,0.0,high,135.0,normal,0,0
+30-39,Female,0.0,high,126.0,normal,0,0
+40-49,Female,40.0,borderline high,144.0,normal,0,0
+50-59,Male,30.0,borderline high,113.0,normal,0,0
+40-49,Female,0.0,high,125.0,normal,0,0
+60-70,Male,30.0,borderline high,146.0,normal,0,1
+60-70,Female,0.0,high,146.0,normal,0,0
+50-59,Female,0.0,borderline high,132.0,prediabetes,0,0
+50-59,Male,20.0,borderline high,120.0,normal,0,0
+30-39,Female,15.0,high,152.0,normal,0,0
+40-49,Male,0.0,borderline high,136.5,normal,0,0
+50-59,Female,3.0,borderline high,112.5,normal,0,0
+40-49,Male,20.0,borderline high,135.5,normal,0,0
+50-59,Female,20.0,high,128.0,normal,0,0
+60-70,Male,0.0,high,113.0,normal,0,0
+60-70,Male,43.0,borderline high,127.0,normal,0,0
+50-59,Female,0.0,borderline high,137.5,prediabetes,0,0
+30-39,Female,1.0,borderline high,112.0,normal,0,0
+50-59,Female,0.0,high,141.0,normal,0,0
+50-59,Female,20.0,normal,180.0,prediabetes,0,0
+40-49,Female,0.0,normal,107.0,normal,0,0
+60-70,Male,20.0,borderline high,113.5,normal,0,1
+60-70,Female,0.0,borderline high,145.0,normal,0,1
+50-59,Female,0.0,high,110.0,normal,0,0
+50-59,Male,0.0,high,133.0,prediabetes,0,0
+40-49,Female,0.0,borderline high,113.0,normal,0,0
+40-49,Male,20.0,borderline high,119.0,normal,0,0
+50-59,Female,0.0,normal,107.5,normal,0,0
+40-49,Female,18.0,borderline high,126.0,normal,0,1
+40-49,Female,0.0,borderline high,118.0,normal,0,0
+60-70,Male,20.0,high,108.0,normal,0,0
+30-39,Male,20.0,high,111.5,normal,0,0
+50-59,Male,20.0,normal,127.5,normal,0,0
+50-59,Male,0.0,borderline high,147.0,prediabetes,0,0
+40-49,Female,10.0,normal,170.0,prediabetes,0,0
+50-59,Male,20.0,high,130.0,normal,0,0
+50-59,Female,0.0,borderline high,132.0,normal,0,0
+60-70,Female,0.0,high,143.0,normal,0,1
+30-39,Male,20.0,borderline high,116.5,normal,0,1
+60-70,Male,20.0,normal,105.0,normal,0,0
+40-49,Female,25.0,high,133.5,normal,0,0
+40-49,Female,20.0,normal,129.0,normal,0,0
+40-49,Male,0.0,borderline high,112.0,normal,0,0
+50-59,Female,0.0,high,158.0,normal,0,0
+50-59,Female,0.0,high,150.0,diabetes,0,1
+40-49,Male,30.0,borderline high,114.0,prediabetes,0,0
+50-59,Female,0.0,high,135.0,normal,0,0
+60-70,Male,0.0,borderline high,111.0,prediabetes,0,0
+40-49,Female,0.0,high,112.5,normal,0,0
+50-59,Female,0.0,high,142.0,normal,0,0
+40-49,Female,20.0,high,129.0,normal,0,0
+60-70,Male,0.0,high,142.0,normal,0,1
+40-49,Female,0.0,borderline high,118.0,normal,0,0
+60-70,Female,0.0,borderline high,155.0,normal,0,0
+30-39,Male,20.0,borderline high,108.0,prediabetes,0,0
+30-39,Female,0.0,borderline high,137.5,normal,0,0
+40-49,Male,35.0,normal,122.0,normal,0,0
+50-59,Female,0.0,borderline high,119.0,prediabetes,0,1
+60-70,Female,10.0,borderline high,182.0,normal,0,0
+40-49,Male,0.0,high,150.0,normal,0,0
+40-49,Female,0.0,high,145.0,normal,0,0
+50-59,Female,0.0,borderline high,145.0,normal,0,0
+50-59,Female,0.0,normal,96.0,normal,0,0
+50-59,Male,0.0,borderline high,134.0,normal,0,1
+40-49,Male,0.0,borderline high,120.5,normal,0,0
+50-59,Female,0.0,borderline high,128.0,normal,0,0
+40-49,Female,0.0,normal,121.0,normal,0,0
+60-70,Female,0.0,high,175.0,normal,0,0
+40-49,Male,30.0,high,111.0,normal,0,0
+40-49,Female,15.0,borderline high,111.0,normal,0,0
+50-59,Female,1.0,high,142.0,normal,0,1
+40-49,Female,8.0,normal,119.5,normal,0,0
+60-70,Male,0.0,borderline high,105.0,normal,0,0
+40-49,Female,0.0,borderline high,97.0,normal,0,0
+40-49,Female,0.0,high,119.0,normal,0,0
+50-59,Male,30.0,borderline high,139.0,normal,0,0
+40-49,Male,30.0,high,126.0,normal,0,0
+50-59,Female,9.0,high,112.0,normal,0,1
+60-70,Female,0.0,high,171.0,prediabetes,0,0
+40-49,Female,0.0,borderline high,132.0,normal,0,0
+40-49,Female,0.0,high,174.0,normal,0,0
+40-49,Male,43.0,normal,116.0,normal,0,0
+40-49,Male,20.0,borderline high,112.5,normal,0,0
+40-49,Male,40.0,borderline high,126.0,normal,0,0
+60-70,Female,0.0,high,108.0,normal,0,0
+50-59,Male,43.0,borderline high,126.0,normal,0,0
+40-49,Male,20.0,high,116.0,diabetes,0,0
+30-39,Female,0.0,normal,105.0,normal,0,0
+60-70,Male,0.0,high,136.0,normal,0,0
+40-49,Female,5.0,normal,115.5,normal,0,0
+60-70,Male,0.0,borderline high,232.0,normal,0,0
+40-49,Female,0.0,high,128.5,normal,0,0
+50-59,Male,0.0,normal,119.0,normal,0,0
+40-49,Female,0.0,normal,122.5,prediabetes,0,1
+40-49,Female,0.0,normal,134.0,normal,0,0
+40-49,Male,0.0,borderline high,173.0,normal,0,0
+50-59,Female,0.0,high,132.0,normal,0,0
+50-59,Female,0.0,borderline high,111.5,normal,0,0
+50-59,Female,0.0,high,85.5,diabetes,0,1
+50-59,Female,15.0,high,180.0,normal,0,0
+40-49,Female,0.0,normal,132.0,normal,0,0
+40-49,Female,5.0,borderline high,110.0,diabetes,0,0
+40-49,Male,20.0,high,134.0,normal,0,0
+40-49,Female,0.0,normal,112.0,normal,0,0
+30-39,Male,15.0,high,102.0,prediabetes,0,0
+60-70,Male,15.0,high,191.0,normal,0,1
+40-49,Female,9.0,high,133.0,prediabetes,0,0
+50-59,Female,0.0,borderline high,168.0,normal,0,0
+50-59,Female,0.0,high,148.0,normal,0,0
+50-59,Male,15.0,normal,118.0,normal,0,0
+30-39,Female,0.0,normal,108.0,normal,0,0
+40-49,Male,3.0,high,128.0,normal,0,0
+40-49,Male,20.0,borderline high,110.0,normal,0,1
+40-49,Male,30.0,high,126.0,normal,0,0
+40-49,Female,0.0,high,141.5,normal,0,0
+40-49,Male,0.0,high,142.0,normal,0,0
+40-49,Female,0.0,borderline high,132.0,normal,0,0
+60-70,Female,0.0,high,150.5,normal,0,0
+60-70,Female,0.0,high,184.5,normal,0,0
+50-59,Female,0.0,borderline high,175.0,normal,0,1
+30-39,Female,10.0,borderline high,95.0,normal,0,0
+30-39,Male,15.0,high,122.0,normal,0,0
+30-39,Female,20.0,high,135.0,normal,0,0
+60-70,Male,0.0,high,145.0,normal,0,0
+60-70,Female,0.0,normal,144.0,normal,0,1
+30-39,Female,0.0,normal,100.0,normal,0,0
+30-39,Male,0.0,high,118.5,normal,0,1
+40-49,Female,15.0,normal,113.0,normal,0,0
+30-39,Male,0.0,borderline high,130.0,normal,0,0
+50-59,Female,0.0,high,150.0,diabetes,1,0
+40-49,Female,0.0,normal,103.0,normal,0,0
+30-39,Male,0.0,high,126.0,normal,0,0
+50-59,Female,0.0,borderline high,100.0,normal,0,0
+60-70,Male,0.0,normal,157.0,diabetes,0,1
+50-59,Male,0.0,borderline high,134.5,normal,0,0
+40-49,Female,0.0,borderline high,130.0,normal,0,0
+40-49,Female,20.0,borderline high,112.5,normal,0,0
+30-39,Male,7.0,borderline high,116.0,normal,0,0
+40-49,Female,20.0,high,105.0,normal,0,0
+50-59,Male,30.0,borderline high,122.0,normal,0,0
+50-59,Female,0.0,high,107.5,normal,0,0
+40-49,Male,0.0,high,120.0,normal,0,0
+40-49,Male,20.0,normal,105.0,normal,0,0
+40-49,Female,0.0,borderline high,130.0,normal,0,0
+50-59,Female,0.0,borderline high,146.5,normal,0,0
+50-59,Male,20.0,normal,126.0,normal,0,0
+50-59,Male,0.0,high,114.0,normal,0,0
+60-70,Male,20.0,high,112.5,normal,0,1
+40-49,Male,3.0,normal,117.0,normal,0,0
+30-39,Male,0.0,borderline high,119.0,normal,0,0
+50-59,Male,20.0,high,138.5,prediabetes,0,0
+60-70,Male,0.0,borderline high,120.0,normal,0,0
+50-59,Female,0.0,borderline high,122.0,normal,0,1
+50-59,Male,30.0,high,149.0,normal,0,0
+40-49,Male,20.0,high,120.0,normal,0,0
+30-39,Male,25.0,borderline high,117.0,normal,0,0
+30-39,Female,0.0,normal,117.5,normal,0,0
+50-59,Female,0.0,high,124.0,normal,0,0
+60-70,Male,20.0,high,127.0,normal,0,0
+30-39,Female,15.0,borderline high,116.0,normal,0,0
+30-39,Female,20.0,normal,112.0,normal,0,1
+60-70,Male,0.0,high,121.0,normal,0,0
+50-59,Female,0.0,borderline high,145.0,normal,0,0
+40-49,Female,20.0,normal,95.5,normal,0,0
+50-59,Male,0.0,high,117.0,normal,0,0
+40-49,Female,20.0,borderline high,130.0,normal,0,0
+60-70,Female,0.0,high,152.0,normal,0,0
+40-49,Female,0.0,high,134.0,normal,0,0
+50-59,Female,9.0,high,155.0,normal,0,0
+50-59,Male,0.0,borderline high,141.0,normal,0,1
+50-59,Male,0.0,high,171.0,normal,0,1
+50-59,Male,35.0,borderline high,102.0,normal,0,0
+40-49,Female,0.0,borderline high,113.0,normal,0,0
+40-49,Female,9.0,normal,123.0,normal,0,0
+60-70,Male,20.0,borderline high,188.0,normal,0,0
+40-49,Female,0.0,normal,107.0,normal,0,0
+50-59,Male,20.0,high,124.0,prediabetes,0,0
+40-49,Male,20.0,borderline high,162.5,normal,0,0
+30-39,Female,0.0,borderline high,104.0,prediabetes,0,0
+50-59,Female,0.0,high,157.0,normal,0,1
+50-59,Female,0.0,high,114.0,normal,0,0
+30-39,Female,5.0,borderline high,119.0,normal,0,0
+30-39,Female,0.0,high,123.0,normal,0,0
+50-59,Female,9.0,high,130.0,normal,0,0
+60-70,Male,0.0,high,120.0,normal,0,1
+50-59,Female,35.0,high,144.5,normal,0,1
+50-59,Male,0.0,high,126.5,normal,0,1
+30-39,Male,25.0,borderline high,119.0,normal,0,0
+60-70,Male,43.0,borderline high,107.5,normal,0,1
+50-59,Male,0.0,high,146.0,normal,0,0
+30-39,Female,9.0,normal,113.0,normal,0,0
+50-59,Male,17.0,normal,127.0,normal,0,0
+50-59,Male,0.0,high,146.0,normal,0,0
+30-39,Female,0.0,normal,137.0,normal,0,0
+30-39,Female,3.0,normal,104.0,prediabetes,0,0
+60-70,Female,0.0,high,135.0,normal,0,0
+60-70,Female,5.0,high,167.5,normal,0,0
+50-59,Male,20.0,borderline high,136.0,normal,0,1
+50-59,Female,20.0,normal,154.0,normal,0,0
+40-49,Male,0.0,borderline high,141.0,normal,0,0
+50-59,Female,20.0,borderline high,146.0,normal,0,0
+50-59,Male,20.0,borderline high,133.0,normal,0,0
+60-70,Female,0.0,high,134.0,normal,0,0
+30-39,Male,30.0,normal,125.0,normal,0,1
+50-59,Female,3.0,borderline high,205.0,normal,0,0
+50-59,Male,0.0,high,169.5,normal,0,0
+40-49,Female,5.0,normal,125.5,normal,0,0
+50-59,Female,0.0,high,185.0,normal,0,1
+40-49,Female,15.0,normal,120.5,normal,0,1
+40-49,Male,3.0,borderline high,144.0,normal,0,0
+30-39,Female,20.0,normal,96.5,normal,0,0
+50-59,Female,0.0,high,152.0,normal,0,0
+40-49,Female,0.0,borderline high,130.0,normal,0,0
+40-49,Male,0.0,high,132.0,normal,0,0
+40-49,Female,20.0,high,127.0,normal,0,0
+50-59,Male,6.0,borderline high,129.0,normal,0,0
+60-70,Male,0.0,borderline high,149.5,normal,0,0
+40-49,Male,0.0,high,110.0,normal,0,0
+50-59,Female,0.0,high,124.0,normal,0,0
+50-59,Female,0.0,high,148.0,normal,0,0
+30-39,Female,20.0,normal,106.0,normal,0,0
+30-39,Male,30.0,high,126.0,normal,0,0
+30-39,Male,0.0,normal,121.0,normal,0,0
+30-39,Female,9.0,normal,110.5,prediabetes,0,0
+50-59,Female,0.0,high,146.5,normal,0,0
+40-49,Female,10.0,borderline high,116.0,normal,0,0
+30-39,Male,0.0,high,130.0,normal,0,1
+40-49,Female,5.0,high,110.0,normal,0,0
+50-59,Male,0.0,high,116.0,normal,0,0
+40-49,Male,30.0,normal,129.0,normal,0,0
+40-49,Female,15.0,borderline high,115.0,prediabetes,0,0
+60-70,Female,0.0,borderline high,220.0,normal,0,0
+50-59,Female,20.0,high,116.0,normal,0,0
+50-59,Female,0.0,high,116.0,normal,0,0
+30-39,Male,0.0,high,124.0,normal,0,0
+40-49,Female,0.0,normal,146.0,normal,0,0
+40-49,Female,30.0,high,127.0,normal,0,0
+40-49,Female,20.0,high,111.0,normal,0,0
+40-49,Male,0.0,borderline high,134.0,prediabetes,0,0
+40-49,Male,0.0,high,182.0,normal,0,0
+60-70,Female,0.0,borderline high,118.0,normal,0,0
+40-49,Female,0.0,borderline high,124.0,normal,0,0
+40-49,Male,20.0,high,150.0,normal,0,1
+50-59,Female,0.0,borderline high,107.5,normal,0,0
+40-49,Female,0.0,borderline high,124.0,normal,0,0
+60-70,Female,0.0,high,210.0,normal,0,1
+60-70,Male,0.0,borderline high,109.0,prediabetes,0,0
+30-39,Male,50.0,high,120.0,normal,0,0
+50-59,Female,0.0,high,132.0,normal,0,0
+40-49,Female,3.0,high,130.0,normal,0,0
+50-59,Female,20.0,high,151.0,normal,0,0
+50-59,Male,30.0,borderline high,184.0,normal,0,1
+40-49,Male,20.0,high,105.0,normal,0,0
+40-49,Male,30.0,borderline high,130.0,normal,0,0
+30-39,Male,1.0,normal,134.5,normal,0,0
+50-59,Female,20.0,borderline high,115.0,normal,0,0
+40-49,Male,15.0,borderline high,127.0,normal,0,0
+40-49,Male,30.0,high,97.0,normal,0,0
+40-49,Male,43.0,high,128.0,normal,0,1
+40-49,Male,25.0,high,124.0,prediabetes,0,0
+30-39,Male,0.0,normal,114.0,normal,0,0
+60-70,Female,0.0,high,193.0,normal,0,1
+40-49,Male,20.0,normal,121.5,normal,0,0
+50-59,Male,0.0,high,120.0,normal,0,0
+40-49,Female,0.0,borderline high,154.0,normal,0,0
+40-49,Male,0.0,high,128.0,normal,0,0
+30-39,Female,0.0,borderline high,115.0,normal,0,0
+50-59,Female,0.0,borderline high,120.0,normal,0,0
+50-59,Male,20.0,high,158.0,normal,1,0
+50-59,Male,20.0,high,120.0,normal,0,0
+40-49,Male,15.0,high,181.5,normal,0,1
+30-39,Female,0.0,normal,109.0,normal,0,0
+40-49,Female,10.0,high,115.0,normal,0,0
+50-59,Female,0.0,borderline high,130.0,normal,0,0
+40-49,Male,0.0,borderline high,150.0,normal,0,0
+40-49,Female,35.0,normal,154.0,normal,0,0
+60-70,Male,20.0,high,139.0,normal,0,0
+50-59,Female,0.0,high,188.5,normal,0,0
+60-70,Male,20.0,high,127.5,normal,0,1
+30-39,Male,20.0,normal,106.0,diabetes,0,0
+40-49,Male,20.0,borderline high,132.5,normal,0,0
+40-49,Male,20.0,normal,120.0,normal,0,0
+60-70,Male,30.0,high,122.5,normal,0,0
+60-70,Female,1.0,high,165.0,normal,0,0
+40-49,Female,10.0,borderline high,116.0,normal,0,0
+30-39,Female,10.0,high,113.0,normal,0,1
+30-39,Male,0.0,high,122.5,normal,0,0
+50-59,Female,0.0,borderline high,142.5,normal,0,0
+50-59,Female,0.0,borderline high,170.0,normal,0,1
+60-70,Male,0.0,normal,132.5,normal,0,0
+30-39,Female,43.0,normal,118.0,normal,0,0
+30-39,Male,20.0,borderline high,119.0,normal,0,0
+50-59,Male,0.0,high,110.0,normal,0,0
+40-49,Female,15.0,borderline high,112.0,normal,0,0
+40-49,Female,15.0,borderline high,107.5,prediabetes,0,0
+50-59,Male,0.0,borderline high,125.0,diabetes,0,1
+50-59,Male,20.0,borderline high,111.5,normal,0,0
+50-59,Female,0.0,high,139.0,normal,0,0
+40-49,Female,0.0,high,165.0,normal,0,0
+50-59,Male,43.0,high,145.0,normal,0,1
+30-39,Male,30.0,high,108.0,normal,0,0
+40-49,Male,0.0,high,138.0,normal,0,0
+40-49,Male,20.0,borderline high,116.0,normal,0,0
+50-59,Female,20.0,borderline high,138.0,normal,0,0
+40-49,Male,20.0,borderline high,108.0,normal,0,0
+30-39,Female,0.0,borderline high,108.0,normal,0,0
+50-59,Female,0.0,high,164.0,normal,0,0
+50-59,Male,20.0,high,148.0,normal,0,0
+60-70,Female,0.0,borderline high,131.5,normal,0,0
+30-39,Female,15.0,normal,96.0,normal,0,0
+50-59,Female,0.0,borderline high,120.0,normal,0,0
+40-49,Male,0.0,high,128.0,normal,0,0
+30-39,Female,10.0,borderline high,114.0,normal,0,0
+40-49,Male,0.0,borderline high,148.0,normal,0,0
+50-59,Male,20.0,normal,140.0,normal,0,0
+40-49,Male,10.0,borderline high,120.0,normal,0,0
+40-49,Male,0.0,borderline high,130.5,prediabetes,0,0
+50-59,Male,0.0,borderline high,128.5,normal,0,0
+40-49,Male,20.0,high,116.0,normal,0,0
+40-49,Male,40.0,borderline high,120.0,normal,0,0
+40-49,Female,5.0,high,100.0,normal,0,0
+50-59,Male,0.0,high,109.5,normal,0,0
+40-49,Male,20.0,high,132.0,normal,0,0
+30-39,Male,0.0,normal,115.0,normal,0,0
+40-49,Male,20.0,normal,139.0,normal,0,1
+60-70,Female,0.0,high,136.5,normal,0,0
+60-70,Female,0.0,high,148.0,normal,0,1
+50-59,Male,30.0,high,133.0,diabetes,0,1
+40-49,Female,0.0,borderline high,124.5,normal,0,0
+40-49,Male,20.0,normal,134.0,normal,0,0
+40-49,Female,30.0,high,174.0,normal,0,0
+40-49,Male,20.0,normal,110.0,normal,0,0
+40-49,Female,6.0,borderline high,120.0,normal,0,0
+50-59,Female,20.0,high,192.0,normal,0,0
+50-59,Male,0.0,high,109.0,normal,0,0
+50-59,Female,0.0,high,138.0,normal,0,0
+30-39,Male,0.0,borderline high,146.0,normal,0,0
+50-59,Female,10.0,high,176.5,normal,0,0
+40-49,Female,1.0,high,110.0,normal,0,0
+40-49,Male,20.0,borderline high,101.0,normal,0,0
+40-49,Male,0.0,high,148.0,normal,0,0
+30-39,Female,9.0,high,110.0,normal,0,0
+50-59,Female,0.0,high,137.0,normal,0,0
+50-59,Female,0.0,borderline high,110.5,normal,0,0
+50-59,Male,30.0,borderline high,153.0,normal,0,0
+50-59,Female,0.0,borderline high,177.0,normal,0,0
+40-49,Female,0.0,borderline high,127.5,normal,0,0
+60-70,Male,0.0,borderline high,119.0,normal,0,0
+40-49,Male,1.0,normal,112.5,normal,0,0
+40-49,Female,0.0,high,132.0,normal,0,0
+60-70,Female,0.0,borderline high,133.0,normal,0,0
+40-49,Female,0.0,normal,160.0,normal,0,0
+50-59,Male,30.0,normal,113.5,normal,0,0
+60-70,Male,40.0,borderline high,149.0,normal,0,1
+40-49,Male,0.0,high,183.0,normal,0,0
+40-49,Female,0.0,borderline high,129.0,normal,0,0
+30-39,Female,0.0,normal,116.0,normal,0,0
+30-39,Male,0.0,borderline high,123.0,normal,0,0
+30-39,Female,0.0,normal,114.0,normal,0,0
+60-70,Male,0.0,borderline high,199.0,normal,0,0
+60-70,Male,3.0,normal,159.0,normal,0,0
+40-49,Female,0.0,borderline high,171.0,normal,0,0
+30-39,Female,1.0,high,197.5,normal,0,0
+60-70,Female,0.0,high,190.0,prediabetes,0,0
+40-49,Female,0.0,high,116.0,normal,0,0
+30-39,Male,0.0,borderline high,116.0,normal,0,1
+40-49,Female,20.0,high,112.5,normal,0,0
+40-49,Female,5.0,borderline high,120.0,normal,0,0
+40-49,Male,20.0,borderline high,116.0,normal,0,0
+40-49,Female,0.0,borderline high,174.0,normal,0,0
+40-49,Female,0.0,borderline high,133.0,normal,0,0
+60-70,Male,20.0,normal,107.5,normal,0,0
+60-70,Male,13.0,high,110.0,normal,0,0
+50-59,Female,5.0,normal,133.0,normal,0,0
+60-70,Male,9.0,normal,116.0,normal,0,0
+60-70,Male,15.0,normal,195.0,normal,0,0
+30-39,Male,0.0,normal,140.0,normal,0,0
+40-49,Male,15.0,high,145.0,prediabetes,0,0
+60-70,Male,12.0,borderline high,135.0,normal,0,1
+40-49,Male,20.0,high,101.0,normal,0,0
+40-49,Female,20.0,high,143.0,prediabetes,0,0
+60-70,Male,20.0,high,145.0,normal,0,1
+40-49,Male,20.0,normal,122.0,normal,0,0
+40-49,Female,0.0,normal,111.0,prediabetes,0,0
+40-49,Female,10.0,borderline high,146.0,normal,0,0
+40-49,Male,20.0,normal,122.0,normal,0,0
+50-59,Female,15.0,normal,120.0,normal,0,1
+40-49,Female,0.0,high,150.0,normal,0,0
+50-59,Male,20.0,high,180.0,normal,0,1
+40-49,Female,9.0,borderline high,109.0,normal,0,1
+40-49,Female,9.0,high,115.5,normal,0,0
+30-39,Female,0.0,borderline high,121.0,normal,0,0
+40-49,Male,0.0,borderline high,132.0,normal,0,1
+40-49,Female,9.0,borderline high,102.0,normal,0,0
+30-39,Male,0.0,high,110.0,normal,0,1
+40-49,Male,0.0,borderline high,115.0,normal,0,0
+60-70,Female,30.0,high,136.5,normal,0,0
+40-49,Female,0.0,high,107.0,normal,0,0
+40-49,Female,0.0,borderline high,118.0,normal,0,0
+40-49,Male,25.0,borderline high,144.0,normal,0,0
+60-70,Female,0.0,high,175.0,normal,0,1
+50-59,Female,0.0,borderline high,120.0,normal,0,0
+60-70,Female,0.0,high,146.0,normal,0,0
+50-59,Female,0.0,high,150.0,normal,0,1
+40-49,Female,17.0,high,132.0,normal,0,0
+30-39,Male,25.0,high,125.0,normal,0,0
+50-59,Female,0.0,high,165.0,normal,0,0
+40-49,Female,0.0,high,126.0,normal,0,0
+40-49,Male,30.0,high,105.0,normal,0,0
+40-49,Female,9.0,borderline high,128.0,normal,0,0
+30-39,Male,20.0,borderline high,129.0,normal,0,0
+50-59,Female,0.0,high,132.0,normal,0,0
+50-59,Male,0.0,borderline high,128.0,normal,0,1
+40-49,Male,5.0,high,113.0,normal,0,0
+40-49,Male,20.0,borderline high,134.5,normal,0,0
+30-39,Female,15.0,high,111.0,normal,0,0
+30-39,Female,0.0,high,118.0,normal,0,0
+50-59,Female,5.0,high,150.0,normal,0,0
+50-59,Female,0.0,normal,148.0,normal,0,0
+60-70,Female,0.0,borderline high,146.0,normal,0,1
+50-59,Female,0.0,high,176.0,normal,0,0
+40-49,Female,0.0,borderline high,115.0,normal,0,0
+50-59,Female,0.0,normal,144.0,normal,0,1
+40-49,Male,0.0,borderline high,133.0,prediabetes,0,0
+60-70,Male,0.0,high,137.0,normal,0,0
+50-59,Female,0.0,high,135.0,normal,0,1
+50-59,Male,0.0,high,145.0,diabetes,0,1
+30-39,Female,10.0,normal,166.0,normal,0,0
+50-59,Male,30.0,borderline high,136.0,normal,0,0
+40-49,Female,0.0,normal,121.0,normal,0,0
+40-49,Male,20.0,high,137.0,normal,0,0
+50-59,Female,0.0,high,146.0,normal,0,1
+50-59,Male,0.0,high,132.5,normal,0,0
+50-59,Female,1.0,high,142.0,normal,0,0
+40-49,Male,20.0,high,114.0,normal,0,0
+40-49,Female,0.0,borderline high,108.0,normal,0,0
+40-49,Female,9.0,high,129.0,normal,0,0
+50-59,Female,0.0,high,113.0,normal,0,0
+40-49,Female,0.0,borderline high,137.0,normal,0,1
+40-49,Male,0.0,high,137.5,normal,0,0
+60-70,Male,0.0,borderline high,102.0,normal,0,0
+50-59,Female,15.0,high,137.0,diabetes,0,0
+40-49,Male,8.0,high,122.0,normal,0,0
+40-49,Female,3.0,normal,118.5,normal,0,0
+40-49,Female,0.0,normal,110.0,normal,0,0
+40-49,Female,0.0,normal,136.0,normal,0,0
+40-49,Female,20.0,high,124.0,normal,0,0
+30-39,Female,0.0,normal,105.0,normal,0,0
+30-39,Female,10.0,normal,120.0,normal,0,0
+50-59,Male,30.0,borderline high,130.0,prediabetes,0,0
+50-59,Male,30.0,high,136.5,prediabetes,0,0
+50-59,Male,15.0,borderline high,125.0,normal,0,1
+60-70,Female,0.0,borderline high,130.0,diabetes,0,0
+40-49,Female,20.0,high,123.5,normal,0,1
+40-49,Female,3.0,high,150.0,normal,0,0
+30-39,Male,20.0,normal,118.0,normal,0,0
+50-59,Female,10.0,high,102.5,normal,0,0
+40-49,Male,17.0,borderline high,113.0,normal,0,0
+40-49,Male,20.0,normal,129.0,normal,0,0
+60-70,Female,0.0,borderline high,94.0,normal,0,0
+60-70,Female,0.0,borderline high,163.0,normal,0,0
+50-59,Male,20.0,borderline high,210.0,diabetes,0,1
+40-49,Male,9.0,normal,132.0,normal,0,0
+60-70,Female,0.0,high,112.5,normal,0,0
+50-59,Female,0.0,normal,184.5,normal,0,0
+60-70,Female,0.0,borderline high,141.0,normal,0,0
+30-39,Female,10.0,normal,92.5,normal,0,0
+40-49,Male,9.0,borderline high,126.0,normal,0,0
+40-49,Male,20.0,normal,172.0,normal,0,1
+60-70,Female,0.0,borderline high,120.0,normal,0,0
+50-59,Male,20.0,high,128.0,normal,0,0
+40-49,Male,9.0,borderline high,110.0,normal,0,0
+40-49,Female,5.0,borderline high,102.0,normal,0,0
+40-49,Male,9.0,normal,115.0,normal,0,0
+60-70,Male,20.0,borderline high,138.5,normal,0,1
+40-49,Male,20.0,normal,132.0,normal,0,0
+50-59,Female,20.0,high,128.0,normal,0,0
+40-49,Female,0.0,normal,125.0,normal,0,0
+30-39,Male,20.0,normal,127.5,normal,0,0
+50-59,Female,9.0,normal,145.0,normal,0,0
+50-59,Male,20.0,high,165.0,normal,0,1
+40-49,Male,43.0,high,127.0,normal,0,0
+40-49,Female,0.0,borderline high,126.0,normal,0,0
+50-59,Male,0.0,borderline high,117.5,normal,0,0
+50-59,Female,20.0,high,160.0,normal,0,1
+30-39,Male,0.0,high,136.5,normal,0,0
+60-70,Male,0.0,normal,138.0,normal,0,1
+50-59,Female,0.0,high,127.0,normal,0,0
+40-49,Female,25.0,high,103.0,normal,0,0
+60-70,Female,30.0,borderline high,172.0,normal,0,0
+60-70,Male,20.0,high,129.5,normal,0,0
+50-59,Female,30.0,borderline high,176.0,normal,0,0
+50-59,Male,0.0,borderline high,125.0,normal,0,0
+40-49,Male,0.0,high,116.0,normal,0,0
+60-70,Female,0.0,high,162.0,normal,0,0
+40-49,Male,20.0,normal,102.0,normal,0,0
+50-59,Male,0.0,normal,136.0,normal,0,0
+40-49,Female,0.0,high,124.0,normal,0,0
+30-39,Female,20.0,borderline high,127.0,normal,0,0
+30-39,Female,9.0,normal,115.0,normal,0,0
+50-59,Male,20.0,high,109.0,normal,0,0
+50-59,Male,0.0,high,128.0,normal,0,0
+50-59,Female,0.0,normal,202.5,prediabetes,0,0
+50-59,Male,0.0,high,120.5,prediabetes,0,1
+60-70,Male,0.0,high,140.0,normal,1,1
+50-59,Female,0.0,high,145.0,normal,0,0
+40-49,Female,20.0,high,112.0,normal,0,0
+30-39,Male,9.0,borderline high,102.0,normal,0,0
+60-70,Male,0.0,normal,156.0,prediabetes,0,0
+60-70,Male,0.0,borderline high,140.0,prediabetes,0,0
+30-39,Male,0.0,high,132.5,normal,0,0
+40-49,Male,20.0,high,135.0,normal,0,1
+30-39,Male,16.0,borderline high,120.0,normal,0,0
+50-59,Male,0.0,borderline high,136.0,normal,1,1
+50-59,Male,20.0,borderline high,139.0,normal,0,0
+60-70,Female,1.0,high,154.0,normal,0,0
+50-59,Female,0.0,borderline high,142.5,normal,0,0
+50-59,Male,0.0,normal,166.0,normal,0,1
+50-59,Male,20.0,normal,128.0,normal,0,0
+30-39,Male,20.0,borderline high,122.5,normal,0,0
+50-59,Male,0.0,high,146.0,normal,0,1
+50-59,Female,0.0,high,136.5,normal,0,0
+40-49,Male,20.0,borderline high,112.0,normal,0,0
+40-49,Female,0.0,high,98.0,normal,0,0
+40-49,Female,20.0,high,130.0,normal,0,0
+50-59,Female,10.0,borderline high,122.0,normal,0,0
+30-39,Female,20.0,borderline high,112.5,normal,0,0
+50-59,Female,0.0,high,131.0,normal,0,0
+50-59,Male,20.0,borderline high,150.0,normal,0,0
+40-49,Female,30.0,borderline high,141.0,normal,0,0
+60-70,Female,15.0,high,166.0,normal,0,0
+40-49,Male,0.0,borderline high,120.0,normal,0,0
+50-59,Female,15.0,high,141.0,normal,0,0
+40-49,Male,0.0,normal,120.0,normal,0,0
+50-59,Female,10.0,high,175.0,normal,0,1
+40-49,Male,0.0,high,146.0,normal,0,0
+30-39,Female,0.0,borderline high,138.0,normal,0,0
+40-49,Male,0.0,borderline high,104.0,normal,0,0
+50-59,Male,0.0,borderline high,130.0,normal,0,1
+60-70,Female,3.0,high,137.5,normal,0,0
+50-59,Male,0.0,high,121.0,diabetes,0,1
+40-49,Female,15.0,borderline high,115.0,normal,0,1
+40-49,Male,1.0,high,140.0,normal,0,0
+60-70,Male,0.0,high,145.0,normal,0,0
+50-59,Male,0.0,borderline high,141.0,normal,0,0
+40-49,Male,20.0,high,124.0,diabetes,0,0
+40-49,Female,7.0,normal,124.0,normal,0,0
+60-70,Female,20.0,high,158.0,normal,0,1
+50-59,Female,0.0,normal,117.0,normal,0,0
+50-59,Female,0.0,normal,159.0,normal,0,0
+40-49,Female,10.0,borderline high,96.0,normal,0,0
+50-59,Female,0.0,borderline high,169.0,normal,0,0
+30-39,Female,20.0,borderline high,102.5,normal,0,0
+40-49,Female,15.0,normal,149.0,normal,0,0
+30-39,Female,0.0,borderline high,100.0,normal,0,0
+50-59,Male,0.0,high,133.5,normal,0,0
+40-49,Female,0.0,normal,113.0,normal,0,0
+60-70,Male,0.0,high,114.0,normal,0,1
+60-70,Female,0.0,high,151.0,normal,0,0
+40-49,Male,0.0,normal,125.0,normal,0,0
+50-59,Male,0.0,borderline high,128.0,normal,0,0
+50-59,Male,20.0,borderline high,110.0,normal,0,0
+30-39,Female,15.0,borderline high,110.0,normal,0,0
+30-39,Male,20.0,normal,120.0,normal,0,0
+40-49,Female,0.0,borderline high,110.0,normal,0,0
+30-39,Male,20.0,high,107.5,normal,0,0
+60-70,Male,0.0,borderline high,122.0,diabetes,0,1
+30-39,Female,20.0,normal,112.5,normal,0,0
+40-49,Female,0.0,high,149.5,normal,0,0
+40-49,Male,0.0,borderline high,117.5,normal,0,0
+50-59,Male,0.0,normal,159.0,normal,0,0
+60-70,Female,0.0,high,121.0,normal,0,0
+40-49,Male,30.0,borderline high,113.0,normal,0,0
+40-49,Male,0.0,borderline high,140.0,normal,0,0
+40-49,Female,0.0,borderline high,126.0,normal,0,0
+50-59,Female,0.0,borderline high,122.0,normal,0,0
+50-59,Male,20.0,borderline high,110.0,normal,0,0
+40-49,Female,9.0,high,155.0,normal,0,0
+40-49,Female,0.0,borderline high,144.0,normal,0,0
+30-39,Female,0.0,normal,122.0,normal,0,0
+40-49,Female,0.0,high,123.0,normal,0,0
+40-49,Female,0.0,normal,119.0,normal,0,0
+50-59,Female,0.0,high,182.5,normal,0,0
+40-49,Female,0.0,high,132.5,normal,0,0
+60-70,Female,0.0,high,166.0,normal,0,0
+50-59,Female,0.0,borderline high,126.0,normal,0,1
+40-49,Male,9.0,high,137.5,normal,0,0
+50-59,Female,6.0,normal,131.5,prediabetes,0,0
+40-49,Female,0.0,normal,123.0,normal,0,0
+50-59,Male,20.0,borderline high,141.0,normal,0,0
+40-49,Female,20.0,normal,147.5,normal,0,0
+50-59,Female,20.0,high,154.5,normal,0,0
+30-39,Male,0.0,normal,125.0,normal,0,0
+50-59,Female,0.0,borderline high,105.0,normal,0,0
+40-49,Male,19.0,borderline high,122.0,normal,0,0
+40-49,Female,0.0,high,135.0,normal,0,0
+40-49,Female,0.0,normal,142.5,normal,0,0
+40-49,Female,0.0,high,119.0,normal,0,0
+50-59,Male,0.0,borderline high,146.0,normal,0,1
+50-59,Female,0.0,borderline high,160.0,normal,0,0
+30-39,Male,0.0,normal,109.0,normal,0,0
+30-39,Female,15.0,borderline high,112.0,normal,0,0
+50-59,Female,0.0,borderline high,180.0,normal,0,0
+30-39,Female,15.0,borderline high,115.0,normal,0,0
+50-59,Male,0.0,high,139.0,normal,0,0
+40-49,Male,0.0,high,147.0,normal,0,0
+50-59,Female,0.0,high,175.0,normal,0,0
+40-49,Male,20.0,high,112.5,normal,0,1
+50-59,Female,5.0,high,123.0,normal,0,0
+50-59,Male,3.0,high,116.5,normal,0,0
+40-49,Male,0.0,high,112.0,normal,0,0
+50-59,Female,0.0,high,131.0,normal,0,0
+60-70,Male,19.0,borderline high,122.0,normal,0,0
+40-49,Female,0.0,normal,115.0,normal,0,0
+40-49,Female,1.0,high,129.0,normal,0,0
+40-49,Female,0.0,normal,165.0,normal,0,0
+50-59,Male,0.0,borderline high,102.5,normal,0,0
+40-49,Male,20.0,high,142.0,normal,0,1
+40-49,Female,20.0,high,114.0,normal,0,0
+40-49,Female,15.0,borderline high,119.0,normal,0,0
+30-39,Female,0.0,high,108.0,normal,0,0
+40-49,Male,0.0,borderline high,105.0,normal,0,0
+60-70,Female,0.0,high,155.0,prediabetes,0,0
+30-39,Female,20.0,borderline high,107.5,prediabetes,0,0
+60-70,Male,20.0,borderline high,155.0,normal,0,0
+50-59,Female,2.0,borderline high,144.0,normal,0,0
+50-59,Male,5.0,high,135.0,prediabetes,0,0
+50-59,Male,3.0,borderline high,182.0,diabetes,0,1
+50-59,Male,20.0,high,129.0,normal,0,0
+60-70,Female,0.0,high,130.0,normal,0,0
+50-59,Female,0.0,high,125.0,normal,0,0
+40-49,Female,0.0,normal,137.5,normal,0,0
+50-59,Male,40.0,high,162.0,normal,0,1
+50-59,Female,0.0,high,170.0,normal,0,0
+50-59,Female,0.0,high,133.0,normal,0,0
+50-59,Male,10.0,borderline high,110.0,normal,0,0
+40-49,Male,20.0,high,128.0,normal,0,0
+50-59,Female,0.0,borderline high,129.0,prediabetes,0,0
+40-49,Male,20.0,high,166.0,normal,0,0
+40-49,Male,25.0,borderline high,103.0,normal,0,0
+40-49,Male,30.0,high,141.0,normal,0,0
+30-39,Female,0.0,borderline high,139.5,normal,0,0
+30-39,Female,20.0,normal,116.0,normal,0,0
+60-70,Male,0.0,normal,191.0,normal,0,0
+40-49,Male,30.0,high,134.0,normal,0,0
+50-59,Male,0.0,high,113.0,normal,0,0
+40-49,Female,0.0,high,110.0,normal,0,0
+50-59,Female,0.0,borderline high,133.0,normal,0,0
+60-70,Female,0.0,borderline high,152.5,prediabetes,0,1
+40-49,Female,0.0,borderline high,132.0,normal,0,0
+50-59,Female,0.0,high,165.0,normal,0,0
+40-49,Female,20.0,high,116.0,normal,0,0
+50-59,Female,30.0,high,123.0,normal,0,0
+60-70,Male,5.0,borderline high,139.0,normal,0,0
+40-49,Male,0.0,high,131.0,normal,0,0
+40-49,Female,0.0,borderline high,121.5,normal,0,1
+50-59,Female,35.0,high,182.5,normal,0,1
+40-49,Female,0.0,high,118.0,normal,0,0
+40-49,Female,10.0,normal,105.0,normal,0,0
+60-70,Male,20.0,borderline high,114.0,normal,0,1
+40-49,Female,0.0,high,127.0,normal,0,0
+40-49,Female,4.0,high,121.0,prediabetes,0,0
+50-59,Male,0.0,high,147.0,normal,0,0
+30-39,Male,0.0,borderline high,125.0,normal,0,0
+40-49,Male,20.0,borderline high,118.0,normal,0,0
+60-70,Female,0.0,high,160.0,normal,0,0
+40-49,Female,5.0,normal,120.0,normal,0,0
+60-70,Female,0.0,high,114.0,normal,0,0
+60-70,Female,0.0,normal,152.0,diabetes,0,0
+60-70,Female,0.0,high,147.5,normal,0,0
+40-49,Male,0.0,high,143.5,normal,0,0
+40-49,Male,20.0,borderline high,131.0,normal,0,0
+50-59,Male,0.0,borderline high,122.5,normal,0,0
+40-49,Female,20.0,normal,111.0,normal,0,0
+40-49,Male,0.0,borderline high,119.0,normal,0,0
+50-59,Female,0.0,borderline high,190.0,normal,0,1
+40-49,Male,20.0,borderline high,145.0,normal,0,0
+50-59,Male,30.0,high,119.0,prediabetes,0,0
+60-70,Female,0.0,high,120.0,normal,0,0
+50-59,Female,0.0,high,151.5,normal,0,0
+40-49,Female,0.0,normal,127.5,normal,0,0
+40-49,Male,20.0,high,125.5,normal,0,0
+50-59,Male,15.0,normal,83.5,prediabetes,0,0
+40-49,Female,10.0,borderline high,96.0,normal,0,0
+40-49,Male,30.0,high,152.0,prediabetes,0,0
+50-59,Female,0.0,high,161.0,prediabetes,0,0
+50-59,Male,0.0,borderline high,129.0,normal,0,1
+60-70,Female,0.0,borderline high,159.0,normal,0,1
+50-59,Female,0.0,high,142.0,normal,0,0
+50-59,Male,15.0,high,137.5,normal,0,1
+30-39,Male,20.0,high,115.0,normal,0,0
+60-70,Male,10.0,borderline high,152.5,normal,0,0
+30-39,Male,30.0,normal,131.5,normal,0,0
+50-59,Male,20.0,borderline high,115.0,normal,0,0
+50-59,Male,0.0,borderline high,128.0,normal,0,0
+40-49,Female,9.0,high,98.0,normal,0,0
+50-59,Female,0.0,high,118.0,normal,0,0
+30-39,Female,0.0,high,127.0,normal,0,0
+60-70,Female,0.0,high,146.5,normal,0,0
+50-59,Female,0.0,high,150.0,normal,1,0
+60-70,Female,0.0,high,210.0,normal,0,1
+40-49,Male,25.0,normal,117.5,normal,0,0
+50-59,Female,0.0,high,131.5,normal,0,0
+60-70,Male,10.0,normal,171.0,normal,0,0
+60-70,Male,0.0,borderline high,158.0,normal,0,0
+50-59,Female,0.0,borderline high,121.0,normal,0,0
+60-70,Female,0.0,high,116.0,normal,0,1
+50-59,Male,20.0,borderline high,110.0,normal,0,0
+30-39,Female,20.0,normal,115.0,normal,0,0
+40-49,Female,0.0,borderline high,122.0,normal,0,0
+60-70,Male,20.0,high,115.0,normal,0,0
+50-59,Female,0.0,high,150.0,normal,0,0
+60-70,Female,20.0,high,148.0,normal,0,0
+60-70,Female,0.0,borderline high,124.0,normal,0,0
+40-49,Female,10.0,high,99.0,normal,0,0
+40-49,Male,25.0,high,136.5,normal,0,0
+40-49,Female,0.0,normal,122.0,prediabetes,0,0
+50-59,Female,0.0,normal,128.0,normal,0,0
+40-49,Male,15.0,high,150.0,normal,0,0
+60-70,Female,0.0,borderline high,144.0,normal,0,1
+30-39,Female,0.0,borderline high,106.5,normal,0,0
+40-49,Male,20.0,high,132.0,normal,0,0
+40-49,Male,60.0,high,121.0,normal,0,0
+40-49,Male,3.0,high,113.0,normal,0,0
+50-59,Female,0.0,high,155.0,normal,0,0
+40-49,Male,15.0,high,130.0,normal,0,0
+40-49,Female,10.0,normal,121.0,normal,0,0
+60-70,Male,0.0,high,152.0,normal,0,1
+50-59,Female,0.0,high,143.0,normal,0,0
+60-70,Male,40.0,borderline high,148.0,prediabetes,0,1
+40-49,Female,7.0,high,101.0,normal,0,0
+30-39,Male,20.0,borderline high,142.0,prediabetes,0,0
+60-70,Female,3.0,high,123.0,normal,0,0
+40-49,Male,20.0,borderline high,130.0,normal,0,0
+40-49,Female,0.0,high,177.0,normal,0,1
+40-49,Female,9.0,borderline high,103.0,normal,0,0
+40-49,Female,0.0,borderline high,116.0,normal,0,0
+40-49,Male,20.0,borderline high,140.5,normal,0,0
+40-49,Female,20.0,borderline high,120.0,normal,0,0
+50-59,Male,20.0,high,165.0,normal,0,1
+40-49,Female,15.0,borderline high,140.0,normal,0,0
+50-59,Male,30.0,normal,141.0,normal,0,1
+60-70,Female,0.0,normal,170.5,normal,0,0
+40-49,Male,20.0,borderline high,127.0,normal,0,1
+50-59,Male,3.0,borderline high,142.0,normal,0,0
+40-49,Male,20.0,borderline high,119.0,normal,0,0
+40-49,Female,10.0,high,108.0,normal,0,0
+40-49,Female,15.0,borderline high,117.5,normal,0,0
+30-39,Female,0.0,normal,132.0,normal,0,0
+40-49,Male,20.0,borderline high,131.0,normal,0,0
+40-49,Female,20.0,normal,107.0,normal,0,0
+40-49,Male,20.0,high,111.0,normal,0,0
+50-59,Male,15.0,high,156.0,prediabetes,0,1
+40-49,Female,10.0,borderline high,121.0,normal,0,1
+50-59,Male,1.0,borderline high,108.0,normal,0,0
+30-39,Female,0.0,normal,109.0,normal,0,0
+60-70,Female,0.0,high,126.5,normal,0,1
+40-49,Male,0.0,borderline high,132.0,normal,0,1
+30-39,Male,20.0,high,120.0,normal,0,0
+40-49,Female,10.0,borderline high,107.0,prediabetes,0,0
+40-49,Female,0.0,normal,114.0,prediabetes,0,0
+40-49,Male,20.0,borderline high,175.0,normal,0,0
+50-59,Male,35.0,high,150.0,normal,0,1
+50-59,Female,0.0,borderline high,138.0,normal,0,0
+40-49,Female,0.0,normal,113.5,normal,0,0
+40-49,Female,0.0,high,132.5,normal,0,0
+40-49,Female,0.0,borderline high,109.0,normal,0,0
+40-49,Male,20.0,borderline high,126.0,normal,0,0
+40-49,Male,0.0,normal,134.0,normal,0,0
+40-49,Female,5.0,borderline high,107.0,normal,0,0
+50-59,Female,20.0,borderline high,165.0,normal,0,0
+60-70,Male,0.0,high,111.0,normal,0,0
+40-49,Female,0.0,borderline high,123.0,normal,0,0
+40-49,Female,0.0,borderline high,93.0,normal,0,0
+60-70,Female,0.0,high,123.5,prediabetes,0,0
+40-49,Female,9.0,high,115.0,normal,0,0
+50-59,Female,0.0,high,101.0,normal,0,0
+50-59,Female,0.0,high,171.0,normal,0,1
+50-59,Male,0.0,borderline high,132.0,normal,0,0
+40-49,Female,0.0,high,118.5,normal,0,0
+40-49,Male,20.0,borderline high,133.0,normal,0,0
+40-49,Male,0.0,borderline high,181.0,normal,0,0
+40-49,Female,0.0,borderline high,143.0,normal,0,0
+40-49,Male,20.0,high,102.5,normal,0,0
+50-59,Male,43.0,normal,142.5,normal,0,0
+60-70,Female,0.0,high,126.0,normal,0,0
+50-59,Female,0.0,high,165.0,normal,0,0
+40-49,Female,1.0,normal,113.5,normal,0,0
+30-39,Female,5.0,normal,116.5,normal,0,0
+50-59,Female,30.0,high,128.0,normal,0,0
+40-49,Male,20.0,borderline high,138.0,normal,0,0
+50-59,Male,6.0,high,148.0,normal,0,0
+50-59,Female,0.0,high,156.0,normal,0,0
+50-59,Female,0.0,borderline high,142.5,normal,0,0
+40-49,Male,20.0,high,148.0,normal,0,1
+50-59,Male,7.0,normal,138.0,normal,0,1
+60-70,Female,0.0,high,149.0,normal,0,0
+40-49,Male,0.0,high,166.0,normal,0,1
+40-49,Male,0.0,high,141.0,normal,0,0
+50-59,Male,0.0,borderline high,111.0,normal,0,0
+60-70,Female,0.0,borderline high,155.0,normal,0,0
+40-49,Female,1.0,normal,197.0,diabetes,0,1
+60-70,Female,0.0,high,164.0,normal,0,0
+60-70,Male,0.0,normal,156.0,normal,0,1
+30-39,Female,0.0,borderline high,116.0,normal,0,0
+50-59,Male,15.0,borderline high,146.0,diabetes,0,1
+40-49,Male,20.0,high,118.0,normal,0,1
+40-49,Female,0.0,borderline high,110.0,normal,0,0
+40-49,Female,30.0,normal,122.5,normal,0,0
+40-49,Female,0.0,borderline high,144.0,normal,0,0
+40-49,Female,9.0,normal,105.0,normal,0,0
+40-49,Male,20.0,borderline high,121.5,normal,0,0
+40-49,Male,15.0,borderline high,114.0,normal,0,0
+40-49,Female,20.0,borderline high,119.0,normal,0,0
+40-49,Male,20.0,normal,102.5,normal,0,0
+40-49,Female,0.0,borderline high,116.0,normal,0,0
+30-39,Male,20.0,high,123.0,normal,0,0
+40-49,Male,0.0,high,114.0,normal,0,0
+50-59,Male,0.0,high,181.0,normal,0,0
+50-59,Female,0.0,high,132.0,prediabetes,0,0
+40-49,Male,40.0,borderline high,129.0,normal,0,0
+40-49,Male,43.0,high,145.0,normal,0,0
+40-49,Male,20.0,high,116.0,normal,0,0
+50-59,Female,1.0,high,107.5,diabetes,0,0
+40-49,Female,0.0,borderline high,117.5,normal,0,0
+50-59,Female,20.0,high,139.0,normal,0,1
+50-59,Male,0.0,borderline high,135.0,normal,0,0
+40-49,Male,20.0,borderline high,131.0,normal,0,0
+40-49,Female,0.0,normal,108.0,normal,0,0
+40-49,Female,20.0,borderline high,138.0,normal,0,0
+60-70,Female,0.0,borderline high,102.0,normal,0,0
+40-49,Female,1.0,normal,125.0,normal,0,0
+50-59,Male,0.0,borderline high,126.0,normal,0,1
+50-59,Female,0.0,high,198.0,prediabetes,0,0
+40-49,Male,15.0,borderline high,123.0,normal,0,0
+60-70,Male,0.0,normal,135.0,normal,0,0
+40-49,Male,25.0,high,134.0,normal,0,0
+50-59,Female,0.0,borderline high,163.0,normal,0,0
+50-59,Male,40.0,high,119.0,normal,0,0
+40-49,Female,0.0,high,115.0,normal,0,0
+50-59,Female,0.0,borderline high,141.0,normal,0,0
+40-49,Male,20.0,normal,114.5,normal,0,0
+40-49,Male,15.0,borderline high,124.0,normal,0,0
+50-59,Female,0.0,high,113.5,normal,0,0
+40-49,Male,20.0,normal,131.0,prediabetes,0,0
+50-59,Male,20.0,high,135.0,normal,0,0
+40-49,Female,0.0,high,150.0,normal,0,0
+50-59,Female,0.0,high,126.0,normal,0,0
+40-49,Male,40.0,normal,107.0,normal,0,0
+50-59,Male,40.0,normal,111.0,normal,0,0
+50-59,Male,0.0,high,135.0,diabetes,0,0
+50-59,Male,30.0,high,190.0,normal,0,0
+30-39,Female,0.0,normal,107.0,normal,0,0
+50-59,Male,20.0,high,136.0,normal,0,0
+40-49,Female,0.0,borderline high,106.0,normal,0,0
+50-59,Female,0.0,normal,112.0,normal,0,0
+60-70,Female,0.0,high,125.0,normal,0,0
+40-49,Female,0.0,normal,122.5,normal,0,0
+50-59,Male,0.0,borderline high,175.5,normal,0,0
+50-59,Male,20.0,normal,96.5,normal,0,0
+40-49,Male,10.0,borderline high,132.0,normal,0,0
+40-49,Female,20.0,borderline high,114.0,normal,0,0
+50-59,Male,0.0,borderline high,130.0,prediabetes,0,0
+40-49,Male,20.0,normal,119.0,normal,0,0
+60-70,Male,43.0,high,172.0,diabetes,0,1
+50-59,Female,0.0,high,118.0,normal,0,0
+50-59,Female,0.0,high,149.0,normal,0,0
+40-49,Female,20.0,borderline high,122.0,normal,0,0
+40-49,Male,20.0,high,126.5,normal,0,1
+40-49,Female,3.0,high,142.5,normal,0,0
+40-49,Male,20.0,high,160.0,normal,0,0
+40-49,Male,20.0,normal,103.0,normal,0,0
+50-59,Female,0.0,high,135.0,normal,0,0
+40-49,Male,17.0,borderline high,128.0,normal,0,1
+60-70,Female,0.0,high,140.0,normal,0,0
+40-49,Male,15.0,borderline high,143.0,normal,0,0
+50-59,Female,0.0,borderline high,181.0,normal,0,1
+40-49,Male,20.0,borderline high,163.5,prediabetes,0,0
+40-49,Female,0.0,borderline high,122.0,normal,0,0
+30-39,Female,43.0,borderline high,124.0,prediabetes,0,0
+50-59,Female,0.0,high,166.0,normal,0,0
+40-49,Female,0.0,normal,102.0,normal,0,0
+50-59,Female,0.0,high,103.0,normal,0,0
+40-49,Male,0.0,high,130.5,diabetes,0,0
+60-70,Male,2.0,normal,113.0,normal,0,0
+60-70,Male,0.0,high,102.5,diabetes,0,1
+30-39,Female,9.0,borderline high,90.0,normal,0,0
+50-59,Female,0.0,high,109.0,normal,0,0
+40-49,Female,0.0,high,124.0,normal,0,0
+40-49,Male,30.0,normal,132.5,normal,0,0
+50-59,Male,40.0,borderline high,171.0,normal,0,1
+30-39,Female,0.0,borderline high,112.5,normal,0,0
+50-59,Female,0.0,high,117.0,normal,0,0
+50-59,Female,20.0,normal,120.0,normal,0,1
+40-49,Male,20.0,borderline high,133.5,normal,0,0
+60-70,Female,0.0,normal,149.0,normal,0,0
+50-59,Female,9.0,borderline high,127.5,normal,0,0
+60-70,Female,0.0,high,204.0,diabetes,0,1
+40-49,Female,20.0,borderline high,129.0,prediabetes,0,0
+50-59,Male,0.0,high,114.0,normal,0,0
+30-39,Female,0.0,high,125.0,normal,0,0
+40-49,Female,0.0,normal,120.0,normal,0,0
+40-49,Female,15.0,borderline high,118.0,normal,0,0
+50-59,Female,0.0,high,132.5,normal,0,0
+40-49,Female,0.0,borderline high,120.0,normal,0,0
+60-70,Male,0.0,high,142.0,normal,0,1
+50-59,Female,0.0,normal,122.0,normal,0,0
+40-49,Male,25.0,high,137.0,normal,0,0
+50-59,Male,20.0,borderline high,151.5,normal,0,0
+50-59,Male,45.0,high,134.0,normal,0,0
+40-49,Male,20.0,high,132.5,normal,0,0
+40-49,Male,30.0,high,112.0,normal,0,1
+40-49,Male,0.0,borderline high,107.5,normal,0,1
+50-59,Female,0.0,high,127.0,prediabetes,0,0
+40-49,Male,20.0,borderline high,140.5,normal,0,1
+40-49,Female,0.0,high,142.0,normal,0,0
+50-59,Female,43.0,high,207.5,normal,0,1
+50-59,Male,0.0,borderline high,115.0,normal,0,0
+40-49,Female,30.0,high,115.0,normal,0,0
+50-59,Male,30.0,high,127.0,normal,0,1
+40-49,Male,20.0,normal,102.0,normal,0,0
+50-59,Female,0.0,high,181.0,normal,0,0
+60-70,Female,0.0,high,191.0,normal,0,0
+40-49,Female,20.0,high,138.0,normal,0,0
+60-70,Female,0.0,borderline high,145.0,normal,0,1
+40-49,Female,0.0,normal,136.0,normal,0,0
+40-49,Male,20.0,borderline high,110.0,normal,0,0
+50-59,Male,0.0,borderline high,113.0,normal,0,0
+50-59,Female,0.0,high,150.5,normal,0,0
+50-59,Female,0.0,high,132.0,normal,0,0
+50-59,Male,0.0,borderline high,116.0,normal,0,0
+40-49,Female,0.0,high,104.0,normal,0,0
+50-59,Female,0.0,high,121.0,normal,0,0
+50-59,Female,0.0,high,195.0,normal,0,0
+50-59,Female,0.0,high,130.5,normal,0,0
+40-49,Male,40.0,high,137.5,normal,0,1
+40-49,Female,5.0,borderline high,110.0,normal,0,0
+40-49,Female,20.0,normal,131.0,normal,0,0
+50-59,Male,0.0,normal,147.5,normal,0,1
+50-59,Female,0.0,normal,165.0,normal,0,1
+50-59,Male,15.0,high,142.0,normal,0,0
+50-59,Male,0.0,high,177.0,diabetes,0,1
+50-59,Male,20.0,high,108.0,normal,0,0
+40-49,Female,0.0,borderline high,124.0,normal,0,0
+60-70,Male,15.0,normal,145.0,normal,0,1
+30-39,Male,20.0,borderline high,108.0,prediabetes,0,0
+50-59,Male,0.0,high,155.0,normal,0,0
+40-49,Male,43.0,borderline high,105.0,normal,0,0
+40-49,Female,20.0,high,147.5,normal,0,0
+40-49,Female,0.0,borderline high,127.5,normal,0,0
+50-59,Female,15.0,high,136.5,normal,0,0
+50-59,Male,20.0,high,134.0,normal,0,0
+60-70,Female,0.0,high,174.5,normal,0,0
+30-39,Male,20.0,borderline high,126.0,normal,0,0
+30-39,Male,20.0,high,126.0,normal,0,0
+50-59,Male,30.0,borderline high,133.5,prediabetes,0,1
+40-49,Male,20.0,borderline high,125.0,normal,0,0
+40-49,Female,0.0,high,148.5,normal,0,0
+40-49,Female,9.0,high,105.0,normal,0,0
+50-59,Male,20.0,borderline high,158.0,normal,0,1
+50-59,Female,0.0,high,130.0,normal,0,0
+50-59,Male,15.0,high,198.0,normal,0,0
+50-59,Male,20.0,high,152.5,normal,0,0
+50-59,Female,0.0,high,153.0,normal,0,1
+40-49,Male,40.0,normal,130.0,normal,0,0
+40-49,Female,3.0,borderline high,107.5,normal,0,0
+50-59,Female,5.0,high,150.0,normal,0,1
+40-49,Female,0.0,high,160.0,normal,0,0
+30-39,Female,2.0,normal,98.0,normal,0,0
+60-70,Male,0.0,borderline high,122.0,normal,0,0
+60-70,Female,0.0,high,126.0,normal,0,0
+50-59,Female,0.0,borderline high,121.0,normal,0,0
+30-39,Male,40.0,borderline high,103.0,normal,0,0
+40-49,Male,0.0,borderline high,135.0,normal,0,0
+40-49,Male,0.0,high,127.0,normal,0,0
+40-49,Male,40.0,borderline high,125.0,normal,0,0
+50-59,Female,20.0,borderline high,125.0,diabetes,0,0
+40-49,Male,20.0,high,150.0,normal,0,0
+60-70,Male,0.0,normal,94.0,normal,0,0
+50-59,Female,20.0,normal,163.5,normal,0,0
+30-39,Female,0.0,borderline high,126.0,normal,0,0
+40-49,Male,70.0,borderline high,132.0,normal,0,0
+40-49,Male,20.0,high,118.5,normal,0,1
+30-39,Male,0.0,normal,105.0,normal,0,0
+50-59,Female,0.0,borderline high,131.0,normal,0,0
+50-59,Female,20.0,high,160.0,normal,0,0
+40-49,Male,0.0,normal,118.0,normal,0,0
+50-59,Male,20.0,borderline high,131.0,normal,0,0
+30-39,Female,5.0,normal,106.0,normal,0,0
+30-39,Female,0.0,borderline high,126.0,normal,0,0
+50-59,Female,0.0,normal,122.0,normal,0,0
+50-59,Female,20.0,high,125.0,normal,0,0
+40-49,Female,20.0,high,147.0,normal,0,0
+30-39,Male,9.0,high,148.0,normal,0,0
+50-59,Female,0.0,high,120.5,normal,0,1
+50-59,Female,0.0,high,137.0,normal,0,0
+40-49,Male,15.0,high,109.0,normal,0,0
+50-59,Male,20.0,borderline high,122.0,normal,0,0
+60-70,Female,0.0,high,197.0,normal,0,0
+40-49,Female,17.0,high,147.5,normal,0,0
+40-49,Female,0.0,high,115.0,normal,0,0
+40-49,Female,18.0,high,131.0,normal,0,0
+40-49,Female,3.0,borderline high,125.0,normal,0,0
+50-59,Female,0.0,high,186.5,normal,0,0
+40-49,Female,10.0,high,141.0,normal,0,0
+50-59,Female,5.0,high,124.0,prediabetes,0,0
+50-59,Male,0.0,borderline high,108.5,normal,0,0
+30-39,Female,0.0,borderline high,112.5,normal,0,0
+30-39,Male,10.0,borderline high,142.0,normal,0,0
+40-49,Male,0.0,normal,114.0,normal,0,0
+40-49,Female,0.0,high,121.0,normal,0,0
+50-59,Male,0.0,high,149.0,normal,0,0
+60-70,Male,0.0,high,124.5,normal,0,1
+30-39,Female,3.0,normal,126.0,normal,0,0
+50-59,Male,0.0,borderline high,123.0,normal,0,0
+40-49,Female,0.0,high,107.0,normal,0,0
+50-59,Male,0.0,borderline high,147.0,normal,0,0
+60-70,Female,3.0,high,130.0,prediabetes,0,0
+60-70,Female,0.0,high,153.0,normal,0,1
+50-59,Male,0.0,high,128.5,normal,0,0
+50-59,Female,0.0,high,127.5,normal,0,0
+50-59,Female,20.0,high,193.0,normal,0,0
+40-49,Female,8.0,high,106.0,normal,0,0
+60-70,Male,20.0,normal,164.0,normal,0,1
+40-49,Male,20.0,normal,154.0,normal,0,0
+50-59,Female,20.0,high,123.0,normal,0,0
+40-49,Female,0.0,high,131.0,normal,0,0
+50-59,Male,0.0,borderline high,148.5,normal,0,0
+50-59,Female,0.0,high,127.5,normal,0,0
+30-39,Male,0.0,normal,136.0,normal,0,0
+40-49,Male,0.0,high,130.0,normal,0,0
+50-59,Male,20.0,high,116.0,normal,0,0
+40-49,Male,5.0,borderline high,130.0,normal,0,0
+40-49,Female,30.0,normal,114.0,normal,0,0
+60-70,Male,6.0,high,138.5,normal,0,0
+40-49,Female,5.0,normal,123.0,normal,0,1
+40-49,Female,0.0,normal,127.0,normal,0,0
+50-59,Male,0.0,borderline high,98.0,normal,0,0
+40-49,Male,0.0,high,133.0,normal,0,0
+60-70,Female,0.0,normal,196.0,normal,0,1
+30-39,Male,0.0,high,105.0,normal,0,0
+40-49,Female,10.0,high,139.0,normal,0,0
+60-70,Female,0.0,borderline high,111.0,normal,0,1
+40-49,Female,0.0,high,117.5,normal,0,0
+50-59,Female,0.0,normal,141.0,diabetes,0,1
+60-70,Female,0.0,high,158.0,normal,0,0
+30-39,Male,0.0,normal,111.0,normal,0,0
+50-59,Male,0.0,high,127.5,normal,0,0
+40-49,Male,0.0,normal,147.5,normal,0,0
+40-49,Female,15.0,borderline high,131.5,normal,0,0
+40-49,Male,9.0,high,152.0,normal,0,1
+50-59,Male,30.0,normal,127.0,prediabetes,0,0
+30-39,Male,0.0,borderline high,122.5,normal,0,0
+50-59,Female,0.0,high,159.0,normal,1,0
+50-59,Male,20.0,borderline high,152.0,normal,0,0
+60-70,Female,0.0,high,133.0,normal,0,0
+40-49,Male,0.0,normal,141.5,normal,0,0
+50-59,Female,20.0,high,114.0,normal,0,0
+50-59,Male,30.0,high,139.0,normal,0,0
+40-49,Female,30.0,high,115.0,normal,0,0
+40-49,Female,0.0,borderline high,127.0,normal,0,0
+50-59,Female,0.0,high,146.0,prediabetes,0,0
+50-59,Female,0.0,high,150.5,normal,0,0
+50-59,Male,30.0,normal,162.5,normal,0,1
+50-59,Female,0.0,borderline high,115.0,normal,0,0
+30-39,Female,0.0,high,120.0,normal,0,0
+60-70,Male,0.0,high,130.0,normal,0,0
+40-49,Female,3.0,high,124.0,normal,0,0
+40-49,Male,15.0,borderline high,163.5,diabetes,0,0
+40-49,Male,5.0,normal,149.0,normal,0,0
+30-39,Male,30.0,high,117.5,normal,0,0
+40-49,Male,0.0,borderline high,132.0,normal,0,0
+40-49,Female,0.0,normal,129.5,normal,0,0
+50-59,Female,30.0,high,163.0,normal,0,0
+50-59,Male,6.0,high,116.0,normal,0,0
+40-49,Female,9.0,high,114.5,normal,0,0
+30-39,Female,15.0,high,179.5,normal,0,0
+50-59,Female,0.0,high,125.0,normal,0,1
+50-59,Female,0.0,normal,142.5,prediabetes,0,0
+30-39,Male,0.0,borderline high,126.0,normal,0,0
+40-49,Male,20.0,normal,120.0,normal,0,0
+40-49,Female,0.0,borderline high,126.0,normal,0,0
+40-49,Male,0.0,high,134.0,normal,0,0
+40-49,Female,0.0,high,118.5,normal,0,0
+50-59,Male,0.0,borderline high,125.0,normal,0,0
+60-70,Female,0.0,high,160.0,normal,0,0
+50-59,Male,3.0,high,155.0,normal,0,0
+60-70,Female,0.0,high,133.0,normal,0,0
+60-70,Male,0.0,high,137.0,normal,0,0
+40-49,Female,0.0,high,144.0,normal,0,0
+60-70,Female,15.0,high,177.0,normal,1,1
+60-70,Female,0.0,borderline high,136.0,normal,0,0
+40-49,Male,9.0,high,114.0,normal,0,0
+40-49,Female,43.0,borderline high,138.0,normal,0,0
+40-49,Female,0.0,borderline high,140.0,normal,0,0
+30-39,Female,0.0,high,116.0,normal,0,0
+50-59,Female,0.0,high,133.0,normal,0,0
+50-59,Female,15.0,high,140.0,normal,0,1
+60-70,Female,0.0,high,170.0,normal,0,0
+40-49,Female,20.0,high,124.0,normal,0,0
+50-59,Female,0.0,high,136.0,normal,0,0
+50-59,Male,0.0,high,159.0,normal,0,1
+50-59,Female,0.0,high,151.0,normal,0,0
+40-49,Male,20.0,high,132.0,normal,0,0
+30-39,Female,5.0,normal,107.0,normal,0,0
+50-59,Female,0.0,borderline high,125.0,prediabetes,0,0
+30-39,Male,20.0,borderline high,131.0,normal,0,0
+40-49,Male,30.0,high,122.0,diabetes,0,0
+30-39,Male,20.0,borderline high,122.5,normal,0,0
+50-59,Male,9.0,high,157.0,normal,0,0
+60-70,Female,0.0,high,154.0,normal,0,0
+40-49,Male,20.0,borderline high,103.0,normal,0,1
+30-39,Male,30.0,high,153.0,normal,0,1
+40-49,Male,30.0,high,140.0,normal,0,0
+50-59,Female,0.0,borderline high,108.0,normal,0,0
+60-70,Male,10.0,borderline high,167.0,normal,0,1
+50-59,Female,0.0,high,132.0,normal,0,1
+40-49,Female,9.0,normal,115.0,prediabetes,0,0
+50-59,Male,0.0,high,115.0,normal,0,0
+40-49,Male,20.0,borderline high,122.0,normal,0,0
+60-70,Female,0.0,high,140.5,normal,0,0
+30-39,Female,0.0,borderline high,107.0,normal,0,0
+40-49,Female,20.0,high,117.5,normal,0,1
+50-59,Female,9.0,high,136.5,normal,0,0
+40-49,Male,20.0,normal,113.0,normal,0,0
+40-49,Female,0.0,high,131.0,normal,0,0
+40-49,Male,20.0,borderline high,119.5,normal,0,0
+50-59,Female,0.0,high,128.0,normal,0,0
+40-49,Male,20.0,high,164.0,normal,0,1
+50-59,Female,0.0,high,152.0,prediabetes,0,0
+30-39,Female,5.0,normal,113.0,normal,0,0
+30-39,Female,10.0,borderline high,117.5,normal,0,0
+40-49,Male,0.0,high,151.5,normal,0,0
+40-49,Female,5.0,borderline high,120.0,normal,0,0
+60-70,Male,0.0,normal,126.0,normal,0,0
+60-70,Male,0.0,normal,148.0,normal,0,0
+40-49,Female,0.0,normal,120.0,normal,0,0
+40-49,Female,9.0,borderline high,95.5,normal,0,0
+40-49,Female,0.0,normal,116.0,normal,0,0
+30-39,Female,9.0,borderline high,105.0,normal,0,0
+40-49,Male,30.0,normal,140.0,normal,0,1
+40-49,Male,0.0,normal,124.0,normal,0,0
+40-49,Male,20.0,borderline high,130.0,normal,0,0
+50-59,Female,0.0,borderline high,132.0,normal,0,0
+40-49,Male,0.0,borderline high,104.0,normal,0,0
+40-49,Female,20.0,high,142.0,normal,0,0
+40-49,Female,20.0,high,120.0,normal,0,0
+30-39,Male,23.0,normal,128.0,normal,0,0
+40-49,Female,9.0,borderline high,144.0,normal,0,0
+40-49,Male,0.0,high,105.0,normal,0,0
+40-49,Female,0.0,borderline high,140.0,normal,0,0
+30-39,Male,0.0,high,122.0,normal,0,0
+30-39,Female,0.0,normal,137.5,normal,0,0
+40-49,Male,6.0,borderline high,127.5,normal,0,0
+50-59,Male,0.0,borderline high,124.0,normal,0,0
+40-49,Female,0.0,high,170.0,normal,0,0
+40-49,Male,30.0,borderline high,138.5,normal,0,0
+40-49,Male,40.0,borderline high,154.0,normal,0,0
+50-59,Female,0.0,normal,199.5,normal,0,1
+50-59,Female,0.0,borderline high,141.0,normal,0,0
+30-39,Female,0.0,borderline high,161.0,prediabetes,0,0
+40-49,Female,0.0,normal,126.0,normal,0,0
+40-49,Female,20.0,borderline high,111.0,normal,0,0
+60-70,Female,0.0,high,137.0,normal,0,0
+60-70,Female,0.0,high,152.0,normal,0,1
+30-39,Female,5.0,normal,109.0,normal,0,0
+40-49,Female,0.0,borderline high,128.0,normal,0,0
+50-59,Female,20.0,high,123.0,normal,0,0
+40-49,Female,0.0,borderline high,124.0,normal,0,0
+50-59,Female,0.0,borderline high,152.0,normal,0,1
+40-49,Female,15.0,high,120.0,prediabetes,0,1
+40-49,Female,25.0,normal,108.0,normal,0,0
+50-59,Female,0.0,high,132.0,normal,0,0
+50-59,Male,3.0,normal,136.5,normal,0,0
+40-49,Female,6.0,high,165.0,normal,0,0
+40-49,Female,0.0,borderline high,128.5,normal,0,0
+60-70,Female,0.0,high,193.0,normal,0,1
+40-49,Female,20.0,high,110.0,normal,0,1
+50-59,Female,0.0,borderline high,119.0,normal,0,0
+40-49,Female,0.0,high,117.0,normal,0,0
+40-49,Female,20.0,borderline high,115.0,normal,0,0
+40-49,Male,0.0,high,134.0,normal,0,1
+60-70,Female,20.0,high,131.0,normal,0,0
+30-39,Male,20.0,borderline high,134.0,normal,0,0
+40-49,Female,1.0,high,132.5,normal,0,0
+50-59,Male,35.0,high,133.0,normal,0,0
+50-59,Male,0.0,high,129.0,normal,0,0
+60-70,Male,0.0,borderline high,146.0,prediabetes,0,0
+60-70,Male,0.0,high,135.0,normal,0,0
+50-59,Male,0.0,borderline high,115.5,normal,0,0
+50-59,Male,40.0,borderline high,122.5,normal,0,0
+40-49,Female,20.0,high,123.0,normal,0,0
+30-39,Female,0.0,high,131.0,normal,0,0
+40-49,Male,20.0,high,119.0,normal,0,0
+40-49,Female,20.0,high,129.0,normal,0,0
+40-49,Male,30.0,borderline high,131.0,normal,0,0
+40-49,Female,20.0,borderline high,114.0,normal,0,0
+50-59,Male,30.0,high,110.0,normal,0,1
+50-59,Male,30.0,borderline high,168.0,normal,0,1
+40-49,Female,0.0,high,145.0,diabetes,0,0
+60-70,Female,6.0,borderline high,143.0,normal,0,0
+50-59,Male,0.0,high,108.0,normal,0,0
+30-39,Female,0.0,normal,108.0,normal,0,0
+50-59,Male,0.0,high,121.0,normal,0,0
+60-70,Male,10.0,borderline high,122.0,normal,0,0
+60-70,Female,0.0,high,117.0,prediabetes,0,0
+30-39,Male,20.0,borderline high,124.5,normal,0,0
+50-59,Female,2.0,high,127.0,normal,0,0
+40-49,Female,43.0,borderline high,106.0,normal,0,0
+50-59,Male,0.0,borderline high,105.5,normal,0,0
+40-49,Male,20.0,high,135.0,normal,0,0
+40-49,Male,0.0,borderline high,113.5,normal,0,0
+40-49,Male,5.0,normal,102.0,normal,0,0
+40-49,Female,30.0,high,118.5,normal,0,0
+40-49,Male,0.0,normal,121.0,normal,0,0
+40-49,Female,0.0,normal,117.0,normal,0,0
+40-49,Female,20.0,normal,115.0,prediabetes,0,0
+40-49,Male,43.0,high,116.5,normal,0,0
+40-49,Female,2.0,normal,99.0,normal,0,0
+60-70,Male,20.0,high,115.0,normal,0,0
+40-49,Female,0.0,borderline high,122.0,normal,0,0
+60-70,Male,4.0,borderline high,151.0,normal,0,0
+50-59,Female,0.0,high,142.0,normal,0,0
+60-70,Female,20.0,high,112.0,normal,0,0
+40-49,Male,20.0,borderline high,117.0,normal,0,0
+30-39,Male,20.0,borderline high,123.0,normal,0,0
+50-59,Male,30.0,borderline high,112.0,normal,0,0
+30-39,Female,10.0,normal,112.5,normal,0,0
+50-59,Female,0.0,high,164.5,prediabetes,0,0
+40-49,Female,5.0,normal,130.0,prediabetes,0,0
+50-59,Female,0.0,borderline high,127.0,normal,0,0
+60-70,Female,0.0,high,142.5,normal,0,0
+40-49,Female,15.0,borderline high,120.0,normal,0,0
+50-59,Male,20.0,high,137.0,normal,0,0
+40-49,Female,0.0,normal,124.5,normal,0,0
+40-49,Female,20.0,high,112.5,normal,0,0
+40-49,Female,0.0,borderline high,128.0,normal,0,0
+40-49,Female,20.0,high,119.0,normal,0,1
+40-49,Female,4.0,high,120.0,normal,0,0
+50-59,Male,0.0,borderline high,136.5,prediabetes,0,0
+40-49,Female,20.0,normal,101.0,normal,0,0
+60-70,Male,20.0,high,129.0,normal,0,0
+40-49,Male,0.0,high,139.0,normal,0,1
+40-49,Female,11.0,borderline high,127.0,normal,0,0
+40-49,Female,9.0,borderline high,119.0,normal,0,0
+50-59,Male,0.0,normal,114.0,normal,0,0
+40-49,Female,0.0,borderline high,110.0,normal,0,0
+40-49,Male,40.0,high,133.0,normal,0,1
+60-70,Male,20.0,normal,119.0,normal,0,0
+60-70,Female,9.0,high,134.5,normal,0,0
+40-49,Female,0.0,borderline high,124.0,normal,1,0
+40-49,Female,16.0,high,159.0,normal,0,0
+60-70,Male,9.0,borderline high,108.5,prediabetes,0,0
+30-39,Female,20.0,high,119.0,normal,0,0
+30-39,Male,25.0,borderline high,110.0,normal,0,0
+50-59,Female,0.0,high,181.0,normal,0,1
+50-59,Female,0.0,high,143.5,prediabetes,0,0
+50-59,Male,3.0,borderline high,177.5,normal,0,1
+40-49,Female,20.0,normal,119.0,normal,0,0
+50-59,Female,10.0,borderline high,125.0,normal,0,0
+60-70,Male,5.0,high,157.0,normal,0,0
+60-70,Female,0.0,borderline high,102.0,normal,0,0
+40-49,Male,25.0,high,111.0,diabetes,0,1
+40-49,Male,0.0,normal,131.0,normal,0,0
+60-70,Male,3.0,normal,122.0,normal,0,0
+30-39,Female,0.0,normal,124.0,prediabetes,0,0
+40-49,Female,3.0,normal,125.0,prediabetes,0,0
+60-70,Male,20.0,borderline high,141.0,normal,0,1
+30-39,Female,0.0,borderline high,141.0,normal,0,0
+50-59,Female,0.0,high,107.5,prediabetes,0,0
+40-49,Male,20.0,high,159.0,normal,0,0
+40-49,Female,30.0,normal,143.0,normal,0,1
+60-70,Female,0.0,high,160.0,normal,0,0
+50-59,Female,20.0,high,154.5,normal,0,0
+60-70,Female,0.0,high,133.5,normal,0,0
+50-59,Female,20.0,high,112.0,normal,0,1
+40-49,Male,30.0,normal,147.5,normal,0,0
+30-39,Male,15.0,normal,123.0,normal,0,0
+40-49,Female,0.0,high,135.0,normal,0,0
+60-70,Male,0.0,normal,113.0,normal,0,0
+50-59,Male,5.0,high,168.0,normal,0,1
+40-49,Male,20.0,high,117.5,normal,0,0
+50-59,Female,0.0,normal,138.0,normal,0,0
+60-70,Female,15.0,high,195.0,normal,0,1
+40-49,Female,0.0,borderline high,125.0,normal,0,0
+50-59,Female,0.0,borderline high,159.0,normal,0,0
+40-49,Male,15.0,high,126.0,normal,0,0
+40-49,Male,0.0,high,140.0,normal,0,0
+60-70,Male,20.0,high,134.5,normal,0,0
+50-59,Male,0.0,high,115.0,normal,0,1
+40-49,Female,9.0,borderline high,110.0,normal,0,0
+50-59,Male,0.0,high,144.5,normal,0,0
+60-70,Female,0.0,high,149.5,normal,0,0
+50-59,Female,0.0,high,142.0,normal,0,0
+50-59,Male,40.0,high,114.0,normal,0,0
+60-70,Female,0.0,high,150.0,normal,0,1
+30-39,Male,0.0,borderline high,128.0,normal,0,0
+50-59,Female,0.0,high,165.0,normal,0,0
+40-49,Female,0.0,borderline high,102.5,normal,0,0
+40-49,Female,0.0,normal,112.0,normal,0,0
+60-70,Male,40.0,high,127.5,prediabetes,0,1
+60-70,Female,0.0,high,143.5,normal,0,0
+50-59,Female,0.0,borderline high,143.0,normal,0,1
+50-59,Male,15.0,borderline high,121.5,normal,0,0
+30-39,Male,30.0,borderline high,120.0,normal,0,0
+60-70,Male,20.0,high,141.0,normal,0,0
+40-49,Female,0.0,borderline high,133.0,normal,0,0
+30-39,Male,0.0,normal,102.0,normal,0,0
+40-49,Female,20.0,borderline high,116.5,normal,0,0
+50-59,Male,0.0,borderline high,158.0,normal,0,1
+60-70,Female,0.0,high,168.0,normal,0,0
+40-49,Male,0.0,high,139.0,normal,0,0
+40-49,Male,15.0,borderline high,125.0,normal,0,0
+30-39,Male,30.0,high,112.0,normal,0,0
+50-59,Male,20.0,normal,138.0,normal,0,0
+50-59,Male,20.0,high,110.0,normal,0,0
+40-49,Female,0.0,normal,113.0,normal,0,0
+60-70,Female,0.0,borderline high,182.0,prediabetes,0,0
+40-49,Female,5.0,borderline high,121.0,normal,0,0
+60-70,Male,0.0,normal,130.0,normal,0,0
+50-59,Female,9.0,high,140.0,normal,0,0
+30-39,Male,20.0,borderline high,122.5,normal,0,0
+40-49,Male,20.0,normal,111.0,normal,0,0
+40-49,Male,20.0,high,160.5,normal,0,0
+40-49,Female,3.0,borderline high,103.0,normal,0,0
+60-70,Female,0.0,high,118.5,normal,0,0
+50-59,Male,20.0,high,165.0,normal,0,0
+50-59,Male,9.0,borderline high,140.0,normal,0,0
+50-59,Male,11.0,borderline high,132.5,normal,0,1
+40-49,Male,30.0,high,123.0,normal,0,0
+60-70,Female,0.0,high,162.0,normal,0,0
+50-59,Male,0.0,borderline high,132.0,normal,0,0
+40-49,Male,20.0,borderline high,112.0,normal,0,1
+40-49,Male,40.0,normal,150.5,normal,0,1
+50-59,Female,0.0,high,153.0,normal,0,0
+50-59,Female,10.0,high,112.0,normal,0,0
+60-70,Male,9.0,normal,113.0,normal,0,0
+40-49,Female,0.0,borderline high,108.0,normal,0,0
+40-49,Male,0.0,borderline high,142.0,normal,0,0
+50-59,Female,0.0,high,153.0,normal,0,0
+40-49,Female,20.0,high,130.0,normal,0,0
+50-59,Female,0.0,borderline high,108.0,normal,0,0
+50-59,Male,0.0,high,123.0,normal,0,0
+60-70,Female,0.0,high,167.0,prediabetes,0,1
+60-70,Male,20.0,normal,113.0,normal,0,0
+40-49,Female,0.0,borderline high,125.0,normal,0,0
+40-49,Male,25.0,borderline high,129.0,normal,0,0
+60-70,Female,0.0,high,167.0,normal,0,0
+50-59,Male,0.0,borderline high,151.0,normal,0,0
+40-49,Female,0.0,high,127.0,normal,0,0
+50-59,Female,20.0,high,128.0,prediabetes,0,0
+40-49,Female,0.0,high,122.0,normal,0,0
+40-49,Male,20.0,borderline high,119.0,normal,0,0
+30-39,Male,40.0,borderline high,145.5,normal,0,0
+50-59,Female,0.0,borderline high,168.5,normal,0,0
+40-49,Male,25.0,borderline high,165.0,normal,0,0
+40-49,Male,0.0,borderline high,133.0,normal,0,0
+50-59,Female,3.0,high,114.0,normal,0,0
+50-59,Male,9.0,high,115.0,normal,0,0
+40-49,Male,0.0,high,132.0,prediabetes,0,0
+50-59,Male,0.0,high,135.0,normal,0,0
+30-39,Male,20.0,borderline high,101.5,normal,0,0
+40-49,Male,0.0,borderline high,124.0,normal,0,0
+40-49,Male,20.0,normal,122.0,normal,0,1
+50-59,Female,3.0,high,112.5,normal,0,0
+30-39,Female,5.0,normal,118.0,normal,0,0
+60-70,Male,20.0,high,112.0,normal,0,0
+60-70,Female,0.0,normal,148.0,prediabetes,0,0
+30-39,Female,5.0,borderline high,147.0,normal,0,0
+50-59,Female,2.0,high,146.0,normal,0,1
+50-59,Male,0.0,high,147.5,normal,0,1
+40-49,Female,0.0,borderline high,136.0,normal,0,0
+40-49,Female,0.0,high,129.0,normal,0,0
+50-59,Female,10.0,high,174.0,diabetes,0,1
+60-70,Female,20.0,borderline high,128.0,normal,0,0
+50-59,Female,0.0,high,108.0,normal,0,0
+40-49,Female,9.0,normal,126.0,normal,0,0
+50-59,Female,20.0,borderline high,159.5,normal,0,0
+40-49,Male,0.0,high,138.0,normal,0,0
+50-59,Female,0.0,borderline high,125.0,normal,0,0
+50-59,Male,15.0,high,132.0,diabetes,0,0
+60-70,Female,0.0,borderline high,120.0,normal,0,0
+60-70,Female,0.0,high,156.0,normal,0,0
+50-59,Male,15.0,borderline high,142.0,normal,0,0
+50-59,Male,0.0,normal,123.0,normal,0,1
+60-70,Male,30.0,high,135.0,normal,0,0
+50-59,Male,20.0,high,108.0,normal,0,0
+50-59,Male,0.0,high,128.0,normal,0,0
+50-59,Female,0.0,borderline high,135.0,normal,0,0
+40-49,Female,1.0,high,118.0,prediabetes,0,0
+50-59,Female,0.0,high,138.0,normal,0,0
+60-70,Female,0.0,high,175.0,normal,0,0
+40-49,Female,0.0,borderline high,128.5,normal,0,0
+40-49,Male,25.0,high,112.0,normal,0,0
+40-49,Male,0.0,high,144.5,normal,0,0
+40-49,Male,15.0,high,158.0,prediabetes,0,0
+40-49,Female,0.0,normal,110.0,normal,0,0
+40-49,Male,0.0,normal,115.0,normal,0,0
+40-49,Female,0.0,borderline high,127.0,normal,0,0
+50-59,Male,20.0,borderline high,151.5,normal,0,0
+60-70,Male,0.0,borderline high,159.0,normal,0,1
+50-59,Female,3.0,borderline high,158.0,normal,0,0
+30-39,Male,0.0,high,123.0,normal,0,0
+30-39,Female,1.0,normal,100.5,normal,0,0
+50-59,Male,0.0,high,166.0,normal,0,0
+40-49,Male,20.0,borderline high,113.0,normal,0,0
+40-49,Female,0.0,normal,111.0,normal,0,0
+30-39,Female,20.0,normal,83.5,normal,0,1
+60-70,Female,0.0,high,248.0,normal,0,1
+60-70,Female,0.0,borderline high,126.0,normal,0,0
+50-59,Male,3.0,normal,121.0,normal,0,0
+30-39,Male,30.0,high,111.0,normal,0,0
+60-70,Female,0.0,high,152.0,normal,1,1
+60-70,Female,0.0,high,155.0,normal,0,0
+40-49,Female,1.0,normal,108.0,normal,0,0
+50-59,Male,0.0,high,172.5,normal,0,0
+50-59,Male,0.0,borderline high,122.0,normal,0,0
+60-70,Male,6.0,borderline high,163.0,normal,0,1
+50-59,Female,0.0,borderline high,123.0,normal,0,0
+40-49,Female,0.0,borderline high,108.0,normal,0,0
+40-49,Female,20.0,high,112.5,normal,0,0
+30-39,Male,15.0,normal,107.5,normal,0,0
+50-59,Female,0.0,high,143.0,normal,0,0
+40-49,Female,20.0,borderline high,129.0,normal,0,0
+50-59,Male,0.0,normal,98.0,normal,0,1
+40-49,Female,0.0,borderline high,116.0,normal,0,0
+50-59,Male,16.0,borderline high,114.0,normal,0,0
+40-49,Male,0.0,high,124.0,normal,0,0
+40-49,Male,20.0,high,196.0,normal,0,0
+50-59,Male,9.0,high,160.0,normal,0,0
+50-59,Female,0.0,high,122.5,prediabetes,0,0
+50-59,Female,0.0,high,156.0,prediabetes,0,0
+30-39,Female,0.0,high,126.5,normal,0,0
+50-59,Female,0.0,high,139.0,normal,0,0
+40-49,Male,30.0,borderline high,108.0,normal,0,0
+40-49,Male,15.0,borderline high,122.0,normal,0,0
+60-70,Female,0.0,normal,176.5,normal,0,1
+30-39,Male,0.0,normal,115.0,normal,0,0
+40-49,Male,30.0,borderline high,121.0,prediabetes,0,0
+50-59,Female,0.0,high,131.0,normal,0,0
+50-59,Male,0.0,normal,127.0,prediabetes,0,0
+40-49,Female,25.0,high,161.5,normal,0,0
+40-49,Male,10.0,high,100.5,normal,0,0
+50-59,Female,20.0,normal,131.5,normal,0,0
+40-49,Female,0.0,borderline high,131.5,normal,0,0
+40-49,Male,15.0,normal,125.0,normal,0,0
+60-70,Male,15.0,borderline high,131.0,normal,0,1
+60-70,Male,0.0,borderline high,143.5,normal,0,0
+40-49,Female,0.0,high,136.0,normal,0,0
+30-39,Female,5.0,borderline high,123.5,normal,0,0
+40-49,Male,3.0,high,164.0,normal,0,1
+50-59,Male,30.0,borderline high,133.0,normal,0,0
+60-70,Female,20.0,high,139.0,normal,0,0
+60-70,Male,20.0,normal,124.0,normal,0,0
+50-59,Male,0.0,high,139.0,normal,0,1
+40-49,Female,20.0,high,113.0,normal,0,0
+40-49,Female,20.0,high,116.0,normal,0,0
+40-49,Male,43.0,borderline high,182.0,normal,0,0
+40-49,Female,0.0,borderline high,113.0,normal,0,0
+40-49,Female,20.0,high,126.0,normal,0,0
+30-39,Female,0.0,normal,112.0,normal,0,0
+50-59,Male,0.0,high,130.0,normal,0,0
+50-59,Male,0.0,borderline high,104.0,normal,0,0
+50-59,Female,0.0,high,106.0,normal,0,0
+50-59,Female,0.0,high,177.5,normal,0,0
+40-49,Female,43.0,high,121.0,normal,0,0
+30-39,Female,0.0,normal,134.0,normal,0,0
+30-39,Female,0.0,borderline high,110.0,normal,0,0
+40-49,Female,30.0,borderline high,128.5,normal,0,0
+40-49,Male,30.0,borderline high,115.0,normal,0,0
+60-70,Female,0.0,high,154.0,normal,0,0
+40-49,Female,7.0,high,202.0,normal,0,1
+40-49,Male,20.0,high,151.0,normal,0,1
+50-59,Female,9.0,high,154.0,normal,0,0
+30-39,Male,30.0,normal,162.0,diabetes,0,0
+40-49,Female,15.0,borderline high,117.0,prediabetes,0,0
+50-59,Female,20.0,borderline high,123.0,normal,0,0
+50-59,Female,0.0,high,110.0,normal,0,0
+50-59,Male,15.0,borderline high,117.0,normal,0,1
+40-49,Male,0.0,normal,122.0,normal,0,1
+40-49,Female,0.0,high,154.0,normal,0,0
+40-49,Female,20.0,high,106.0,normal,0,0
+30-39,Male,0.0,borderline high,114.5,normal,0,0
+40-49,Female,20.0,high,99.0,normal,0,0
+40-49,Female,25.0,normal,99.5,normal,0,0
+60-70,Female,0.0,high,185.0,prediabetes,0,1
+60-70,Female,0.0,high,108.0,normal,0,0
+40-49,Female,0.0,normal,121.0,normal,0,1
+50-59,Male,20.0,normal,116.0,normal,0,0
+50-59,Female,0.0,borderline high,158.0,prediabetes,0,0
+30-39,Female,20.0,normal,85.0,normal,0,0
+60-70,Female,3.0,borderline high,169.0,normal,0,0
+40-49,Female,5.0,borderline high,130.0,prediabetes,0,1
+40-49,Female,0.0,normal,117.0,normal,0,0
+30-39,Female,15.0,borderline high,105.5,normal,0,0
+40-49,Male,0.0,borderline high,135.0,diabetes,0,0
+50-59,Female,0.0,normal,146.0,normal,0,0
+60-70,Male,15.0,borderline high,165.0,normal,0,0
+60-70,Male,0.0,borderline high,143.0,normal,0,1
+40-49,Female,30.0,high,110.0,normal,0,0
+50-59,Male,43.0,high,176.0,normal,0,0
+40-49,Female,9.0,normal,118.0,normal,0,0
+40-49,Male,20.0,high,136.0,normal,0,0
+40-49,Female,0.0,high,117.0,normal,0,0
+40-49,Female,5.0,high,130.0,normal,0,0
+50-59,Female,10.0,high,135.0,normal,0,0
+40-49,Male,15.0,borderline high,122.5,normal,0,0
+40-49,Female,30.0,normal,107.0,normal,0,0
+40-49,Female,20.0,high,167.5,normal,0,0
+40-49,Female,20.0,borderline high,122.5,normal,0,0
+50-59,Female,10.0,borderline high,133.0,prediabetes,0,0
+60-70,Female,0.0,high,138.0,normal,0,0
+40-49,Male,0.0,high,117.5,normal,0,0
+40-49,Female,0.0,borderline high,101.0,normal,1,0
+50-59,Male,0.0,high,109.0,normal,0,0
+40-49,Male,0.0,normal,132.0,diabetes,0,0
+60-70,Female,0.0,borderline high,123.0,normal,0,0
+40-49,Male,40.0,normal,119.0,normal,0,0
+50-59,Female,15.0,borderline high,137.0,normal,0,0
+40-49,Male,0.0,normal,130.0,normal,0,0
+40-49,Female,0.0,high,128.0,normal,0,0
+50-59,Female,0.0,borderline high,161.0,normal,0,1
+30-39,Male,20.0,high,120.0,normal,0,0
+50-59,Female,15.0,high,230.0,normal,0,0
+40-49,Female,9.0,normal,118.0,normal,0,0
+50-59,Male,20.0,borderline high,143.0,prediabetes,0,0
+60-70,Male,0.0,normal,140.0,prediabetes,0,0
+60-70,Male,0.0,normal,155.0,normal,0,0
+50-59,Male,0.0,normal,153.0,normal,0,0
+40-49,Female,0.0,borderline high,146.5,normal,0,0
+50-59,Male,25.0,borderline high,137.5,normal,0,1
+30-39,Female,0.0,normal,138.0,prediabetes,0,0
+60-70,Male,25.0,borderline high,147.5,normal,0,1
+50-59,Male,0.0,normal,129.0,normal,0,0
+40-49,Female,15.0,high,101.0,normal,0,0
+40-49,Female,0.0,normal,162.0,normal,0,0
+50-59,Female,0.0,high,197.0,normal,0,1
+40-49,Female,5.0,borderline high,133.0,normal,0,0
+40-49,Female,20.0,high,164.0,normal,0,0
+50-59,Male,10.0,borderline high,189.0,normal,0,1
+40-49,Female,5.0,borderline high,125.5,normal,0,0
+40-49,Female,0.0,high,134.0,normal,0,0
+40-49,Female,3.0,normal,118.0,normal,0,0
+50-59,Female,0.0,high,142.5,normal,0,0
+40-49,Female,0.0,borderline high,124.0,normal,0,0
+50-59,Female,0.0,high,126.0,normal,0,0
+40-49,Male,0.0,high,136.0,normal,0,0
+30-39,Female,0.0,normal,112.0,normal,0,0
+60-70,Male,15.0,normal,106.0,normal,0,1
+30-39,Female,15.0,high,118.0,normal,0,0
+50-59,Female,15.0,borderline high,147.0,normal,0,0
+60-70,Male,0.0,borderline high,128.0,normal,0,1
+40-49,Female,1.0,normal,142.0,normal,0,0
+40-49,Female,15.0,high,140.0,normal,0,0
+30-39,Female,30.0,normal,113.0,normal,0,0
+50-59,Male,40.0,high,151.0,normal,0,0
+50-59,Male,30.0,normal,139.0,normal,0,1
+40-49,Female,15.0,borderline high,144.0,normal,0,0
+50-59,Female,0.0,normal,153.0,normal,0,0
+30-39,Female,0.0,borderline high,146.0,normal,0,0
+30-39,Female,20.0,high,141.0,normal,0,0
+40-49,Female,20.0,borderline high,112.5,normal,0,0
+40-49,Female,0.0,borderline high,100.0,normal,0,1
+40-49,Male,0.0,high,140.0,normal,0,0
+40-49,Male,0.0,borderline high,114.0,normal,0,0
+60-70,Male,0.0,borderline high,155.0,normal,0,0
+40-49,Male,20.0,normal,128.0,normal,0,0
+40-49,Female,20.0,high,97.0,normal,0,0
+30-39,Female,20.0,normal,112.0,normal,0,0
+50-59,Male,0.0,borderline high,167.0,normal,1,1
+50-59,Female,10.0,high,113.0,normal,0,0
+40-49,Male,60.0,borderline high,136.0,normal,0,0
+60-70,Female,0.0,borderline high,166.0,normal,0,0
+60-70,Male,0.0,borderline high,214.0,normal,0,1
+40-49,Male,20.0,normal,143.0,normal,0,0
+40-49,Male,15.0,normal,134.5,normal,0,0
+40-49,Male,35.0,high,132.0,normal,0,1
+40-49,Female,2.0,borderline high,124.0,normal,0,0
+40-49,Female,20.0,borderline high,159.5,diabetes,0,1
+60-70,Female,0.0,high,125.0,diabetes,0,0
+50-59,Male,20.0,high,123.0,normal,0,1
+30-39,Male,9.0,normal,117.5,normal,0,0
+50-59,Female,5.0,high,119.0,normal,0,0
+40-49,Male,20.0,normal,131.0,normal,0,0
+40-49,Female,20.0,high,123.0,normal,0,0
+30-39,Male,20.0,normal,117.5,normal,0,0
+50-59,Female,0.0,normal,140.0,normal,0,0
+40-49,Female,0.0,borderline high,116.0,normal,0,0
+50-59,Male,0.0,high,114.0,normal,0,0
+50-59,Male,0.0,borderline high,119.0,normal,0,0
+60-70,Female,0.0,borderline high,125.0,normal,0,0
+40-49,Male,20.0,high,147.5,prediabetes,0,0
+40-49,Male,40.0,high,124.5,normal,0,0
+30-39,Female,20.0,normal,111.0,normal,0,0
+30-39,Male,0.0,normal,141.0,prediabetes,0,0
+50-59,Female,0.0,borderline high,105.0,normal,0,0
+30-39,Female,9.0,borderline high,127.0,normal,0,0
+50-59,Female,5.0,high,126.5,normal,0,0
+40-49,Male,20.0,high,136.5,normal,0,0
+40-49,Male,30.0,high,145.0,normal,0,0
+40-49,Male,0.0,normal,134.0,normal,0,0
+40-49,Male,40.0,borderline high,135.0,normal,0,0
+40-49,Male,15.0,high,145.0,normal,0,0
+40-49,Female,20.0,high,138.0,normal,0,0
+60-70,Male,0.0,borderline high,149.0,normal,0,0
+40-49,Female,20.0,high,170.0,normal,0,0
+40-49,Male,30.0,normal,141.0,normal,0,0
+40-49,Male,3.0,high,141.0,normal,0,0
+50-59,Male,0.0,normal,142.5,normal,0,1
+40-49,Female,0.0,borderline high,142.0,normal,0,0
+60-70,Female,0.0,high,172.5,normal,0,1
+40-49,Female,5.0,borderline high,128.0,normal,0,0
+40-49,Female,20.0,borderline high,109.5,normal,0,0
+40-49,Male,0.0,normal,104.0,normal,0,0
+60-70,Female,9.0,high,144.5,prediabetes,0,0
+40-49,Male,15.0,borderline high,118.0,normal,0,0
+50-59,Female,3.0,high,150.0,normal,0,0
+40-49,Male,0.0,high,158.0,normal,0,0
+40-49,Female,0.0,borderline high,148.0,normal,0,0
+50-59,Female,1.0,high,120.0,normal,0,0
+50-59,Female,0.0,high,155.0,normal,0,0
+40-49,Male,0.0,normal,108.0,normal,0,0
+60-70,Male,0.0,normal,196.0,normal,0,0
+50-59,Male,15.0,high,116.0,normal,0,0
+60-70,Male,0.0,borderline high,167.5,normal,0,1
+40-49,Female,9.0,high,143.0,normal,0,0
+50-59,Female,30.0,normal,96.5,normal,0,0
+40-49,Female,3.0,borderline high,133.5,normal,0,0
+50-59,Female,0.0,high,132.0,normal,0,0
+50-59,Male,0.0,borderline high,124.0,normal,0,0
+50-59,Female,1.0,high,146.5,normal,0,1
+60-70,Female,0.0,normal,153.0,prediabetes,0,0
+30-39,Male,0.0,borderline high,122.0,normal,0,0
+60-70,Male,0.0,borderline high,140.0,normal,1,0
+40-49,Female,20.0,high,143.0,normal,0,0
+50-59,Female,9.0,high,145.5,normal,0,0
+60-70,Female,0.0,high,163.0,normal,0,0
+50-59,Female,0.0,borderline high,149.0,normal,0,0
+60-70,Female,0.0,high,134.0,normal,0,0
+50-59,Female,0.0,borderline high,110.0,diabetes,0,0
+40-49,Female,10.0,borderline high,163.0,normal,0,0
+50-59,Female,0.0,borderline high,113.0,prediabetes,0,0
+30-39,Female,0.0,normal,115.0,normal,0,0
+30-39,Male,5.0,normal,100.5,prediabetes,0,0
+40-49,Female,15.0,high,158.0,normal,0,0
+40-49,Male,20.0,borderline high,118.0,normal,0,0
+50-59,Female,15.0,high,110.0,normal,0,0
+50-59,Female,0.0,high,122.5,normal,0,1
+50-59,Male,20.0,borderline high,130.0,normal,0,0
+60-70,Female,5.0,high,160.0,normal,0,0
+30-39,Male,15.0,high,118.0,normal,0,0
+60-70,Female,0.0,borderline high,161.5,diabetes,0,0
+40-49,Female,20.0,normal,99.0,normal,0,0
+50-59,Male,20.0,borderline high,125.0,prediabetes,0,0
+30-39,Male,20.0,borderline high,106.0,normal,0,0
+40-49,Male,2.0,high,115.0,normal,0,1
+40-49,Male,45.0,borderline high,126.0,normal,0,0
+40-49,Male,20.0,high,120.0,normal,0,0
+30-39,Male,10.0,borderline high,102.0,normal,0,0
+50-59,Female,0.0,high,131.0,normal,0,0
+30-39,Male,0.0,borderline high,113.0,normal,0,0
+60-70,Female,20.0,high,141.0,normal,0,0
+40-49,Female,20.0,normal,139.0,prediabetes,0,0
+60-70,Female,0.0,high,101.0,normal,0,1
+50-59,Female,0.0,borderline high,100.5,normal,0,0
+40-49,Female,0.0,high,133.0,normal,0,0
+60-70,Female,0.0,high,131.0,normal,0,1
+40-49,Female,3.0,borderline high,129.0,normal,0,0
+30-39,Female,0.0,borderline high,115.0,normal,0,0
+40-49,Male,30.0,high,137.0,normal,0,0
+60-70,Male,0.0,borderline high,119.0,normal,0,0
+50-59,Male,0.0,borderline high,154.0,normal,0,0
+50-59,Female,0.0,high,136.0,normal,0,1
+30-39,Female,0.0,borderline high,102.0,normal,0,0
+50-59,Male,0.0,high,164.0,normal,1,0
+50-59,Female,20.0,high,170.0,normal,0,0
+40-49,Female,0.0,borderline high,152.5,normal,0,0
+50-59,Female,0.0,high,116.0,normal,0,1
+50-59,Male,0.0,borderline high,113.0,prediabetes,0,1
+40-49,Male,0.0,borderline high,127.5,normal,0,0
+50-59,Male,30.0,high,141.5,normal,0,1
+40-49,Female,0.0,high,110.0,normal,0,0
+40-49,Female,0.0,high,125.0,normal,0,0
+40-49,Female,10.0,borderline high,115.0,normal,0,0
+40-49,Male,40.0,normal,137.0,normal,0,0
+50-59,Female,0.0,high,173.0,normal,0,1
+50-59,Male,40.0,borderline high,162.5,normal,0,1
+50-59,Female,20.0,high,105.0,normal,0,0
+40-49,Female,0.0,borderline high,100.0,normal,0,0
+60-70,Male,6.0,borderline high,146.0,normal,0,0
+50-59,Male,0.0,borderline high,148.5,normal,0,1
+40-49,Female,5.0,high,135.0,normal,0,1
+30-39,Male,20.0,borderline high,128.0,normal,0,0
+60-70,Female,9.0,high,119.0,normal,0,0
+40-49,Female,0.0,high,129.0,normal,0,0
+40-49,Male,30.0,high,109.0,normal,0,0
+60-70,Male,0.0,high,115.5,normal,0,1
+40-49,Male,20.0,high,141.0,diabetes,0,1
+40-49,Female,20.0,borderline high,129.0,normal,0,0
+50-59,Female,0.0,borderline high,170.0,prediabetes,0,0
+40-49,Male,0.0,borderline high,121.0,normal,0,0
+30-39,Male,25.0,borderline high,124.0,normal,0,0
+30-39,Female,0.0,normal,100.0,normal,0,0
+60-70,Female,0.0,borderline high,158.0,normal,0,1
+30-39,Female,8.0,normal,109.0,normal,0,0
+30-39,Female,0.0,normal,99.0,normal,0,0
+30-39,Female,0.0,normal,120.5,normal,0,0
+30-39,Female,0.0,normal,133.0,normal,0,0
+50-59,Female,10.0,normal,130.0,normal,0,0
+50-59,Male,0.0,borderline high,132.5,normal,0,0
+60-70,Male,0.0,high,156.5,normal,0,1
+40-49,Male,20.0,high,131.0,normal,0,0
+50-59,Male,30.0,borderline high,108.0,normal,0,0
+60-70,Male,0.0,high,127.0,prediabetes,0,1
+40-49,Male,20.0,borderline high,111.0,normal,0,0
+60-70,Female,0.0,high,124.0,normal,0,1
+50-59,Female,0.0,high,167.0,normal,0,0
+40-49,Female,0.0,borderline high,111.0,normal,0,0
+60-70,Female,0.0,high,168.5,normal,0,0
+60-70,Male,0.0,high,155.5,prediabetes,0,1
+40-49,Female,15.0,high,107.0,normal,0,0
+50-59,Female,0.0,borderline high,111.0,normal,0,0
+40-49,Female,0.0,borderline high,123.5,normal,0,0
+50-59,Male,3.0,borderline high,120.0,normal,0,1
+60-70,Female,20.0,high,215.0,diabetes,0,1
+40-49,Male,30.0,normal,110.0,normal,0,0
+50-59,Male,0.0,high,192.5,normal,0,1
+30-39,Male,30.0,normal,111.0,normal,0,0
+40-49,Female,15.0,borderline high,106.0,diabetes,0,0
+30-39,Male,30.0,high,149.0,normal,0,0
+40-49,Male,40.0,borderline high,110.0,normal,0,0
+60-70,Female,0.0,high,137.0,normal,0,0
+50-59,Female,0.0,high,172.5,normal,0,1
+60-70,Male,0.0,borderline high,130.0,normal,0,0
+40-49,Male,0.0,borderline high,130.0,normal,0,0
+50-59,Male,20.0,high,124.0,normal,0,0
+40-49,Female,0.0,normal,102.0,normal,0,0
+40-49,Female,20.0,normal,104.5,normal,0,1
+40-49,Female,20.0,borderline high,133.0,normal,0,0
+30-39,Female,0.0,high,120.5,normal,0,0
+60-70,Female,0.0,borderline high,151.0,normal,0,0
+60-70,Female,5.0,high,169.0,prediabetes,0,0
+40-49,Male,10.0,high,111.0,normal,0,0
+40-49,Male,0.0,high,157.0,normal,0,0
+40-49,Male,0.0,high,147.5,normal,0,1
+60-70,Male,30.0,borderline high,123.0,normal,0,0
+50-59,Male,0.0,borderline high,130.0,diabetes,0,1
+60-70,Female,0.0,high,172.0,normal,0,0
+50-59,Female,0.0,high,148.0,normal,0,0
+40-49,Male,20.0,high,144.0,normal,0,0
+40-49,Male,0.0,normal,135.0,normal,0,0
+30-39,Male,15.0,high,110.0,normal,0,1
+50-59,Female,40.0,borderline high,147.0,normal,0,1
+50-59,Female,0.0,high,160.0,normal,0,0
+40-49,Female,0.0,borderline high,140.0,normal,0,0
+40-49,Male,40.0,high,120.0,normal,0,0
+40-49,Male,0.0,high,111.5,normal,0,0
+40-49,Female,0.0,high,120.0,normal,0,0
+50-59,Male,43.0,normal,117.0,normal,0,0
+40-49,Male,0.0,high,152.5,normal,0,1
+30-39,Female,0.0,normal,112.0,normal,0,0
+60-70,Male,0.0,borderline high,106.0,normal,0,0
+30-39,Male,30.0,normal,127.0,normal,0,0
+40-49,Male,0.0,normal,128.0,normal,0,0
+50-59,Female,0.0,high,165.0,prediabetes,0,0
+30-39,Female,20.0,normal,105.0,normal,0,0
+50-59,Female,0.0,borderline high,164.0,normal,0,0
+40-49,Male,20.0,normal,119.0,normal,0,0
+30-39,Female,25.0,borderline high,110.0,normal,0,0
+60-70,Female,0.0,high,139.0,prediabetes,0,0
+40-49,Female,10.0,high,110.0,normal,0,0
+50-59,Male,0.0,borderline high,128.0,normal,0,0
+60-70,Male,0.0,high,128.0,normal,0,0
+40-49,Male,0.0,high,150.0,normal,0,0
+30-39,Male,0.0,borderline high,116.5,normal,0,0
+50-59,Male,20.0,borderline high,155.0,normal,0,0
+50-59,Female,0.0,high,173.0,normal,0,0
+40-49,Male,0.0,borderline high,130.0,normal,0,0
+40-49,Female,0.0,borderline high,137.0,normal,0,1
+40-49,Female,0.0,borderline high,112.0,normal,0,0
+50-59,Male,20.0,borderline high,187.0,normal,0,0
+50-59,Male,20.0,high,116.0,normal,0,0
+40-49,Female,0.0,borderline high,139.0,normal,0,0
+40-49,Male,0.0,borderline high,141.0,prediabetes,0,0
+40-49,Male,20.0,normal,127.5,normal,0,0
+50-59,Female,0.0,borderline high,173.0,normal,0,0
+50-59,Female,0.0,borderline high,129.0,normal,0,0
+60-70,Male,30.0,high,138.5,normal,0,0
+40-49,Female,10.0,borderline high,130.0,normal,0,0
+60-70,Female,0.0,high,92.5,normal,0,1
+50-59,Male,0.0,normal,143.0,normal,0,0
+30-39,Male,9.0,high,114.0,normal,0,0
+30-39,Female,35.0,normal,110.0,normal,0,0
+30-39,Male,0.0,normal,131.5,normal,0,0
+50-59,Male,0.0,high,151.5,prediabetes,0,0
+30-39,Female,20.0,normal,131.5,normal,0,0
+60-70,Female,0.0,borderline high,194.0,prediabetes,1,0
+60-70,Male,60.0,high,170.0,normal,0,1
+50-59,Female,25.0,high,130.5,normal,0,0
+50-59,Female,0.0,borderline high,153.0,normal,0,0
+40-49,Male,25.0,high,132.0,normal,0,0
+50-59,Female,15.0,high,150.0,normal,0,0
+40-49,Female,10.0,borderline high,133.0,normal,0,0
+40-49,Male,20.0,normal,130.5,normal,0,0
+40-49,Female,0.0,borderline high,118.0,normal,0,0
+60-70,Male,0.0,borderline high,144.0,normal,0,1
+30-39,Female,0.0,normal,121.5,normal,0,0
+40-49,Female,4.0,borderline high,150.0,normal,0,0
+40-49,Male,0.0,borderline high,116.0,normal,0,0
+40-49,Female,30.0,high,126.5,normal,0,0
+40-49,Female,10.0,borderline high,93.5,normal,0,0
+50-59,Male,0.0,borderline high,125.0,normal,0,0
+50-59,Female,0.0,high,152.0,normal,0,0
+50-59,Female,0.0,high,132.0,normal,0,0
+50-59,Female,0.0,high,152.5,normal,0,0
+40-49,Female,0.0,normal,111.0,normal,0,0
+40-49,Male,10.0,high,124.5,normal,0,0
+40-49,Female,0.0,borderline high,111.5,normal,0,0
+40-49,Female,0.0,borderline high,126.0,normal,0,1
+50-59,Female,0.0,high,137.0,normal,1,0
+40-49,Female,10.0,normal,174.0,normal,0,0
+60-70,Male,43.0,borderline high,110.0,normal,0,1
+50-59,Male,0.0,high,150.0,normal,0,0
+40-49,Female,0.0,high,118.0,normal,0,0
+30-39,Male,43.0,high,177.5,normal,0,0
+40-49,Male,20.0,borderline high,117.0,normal,0,0
+60-70,Female,0.0,high,161.0,normal,0,1
+50-59,Female,0.0,high,125.0,normal,0,0
+30-39,Female,0.0,borderline high,125.0,normal,0,0
+50-59,Female,0.0,borderline high,144.0,normal,0,0
+60-70,Male,0.0,high,102.5,normal,0,0
+40-49,Male,30.0,high,129.5,normal,0,1
+40-49,Female,0.0,normal,120.5,normal,0,0
+50-59,Female,17.0,borderline high,96.0,normal,0,0
+40-49,Female,5.0,high,112.5,normal,0,0
+60-70,Male,0.0,normal,176.0,diabetes,0,0
+50-59,Female,0.0,high,120.0,normal,0,0
+60-70,Female,0.0,high,146.0,normal,0,1
+60-70,Female,0.0,high,147.0,diabetes,0,0
+40-49,Male,43.0,high,126.0,normal,0,0
+50-59,Female,0.0,high,169.0,normal,0,0
+40-49,Female,10.0,borderline high,157.0,normal,0,0
+60-70,Male,15.0,normal,110.0,normal,0,0
+50-59,Female,0.0,high,125.0,normal,0,0
+60-70,Female,0.0,borderline high,207.0,normal,0,0
+50-59,Female,0.0,borderline high,136.5,normal,0,0
+40-49,Female,14.0,normal,145.0,normal,0,0
+50-59,Male,0.0,normal,113.0,normal,0,0
+30-39,Female,3.0,normal,100.0,normal,0,0
+40-49,Female,0.0,borderline high,129.0,normal,0,0
+50-59,Female,0.0,high,131.0,normal,0,0
+30-39,Male,1.0,normal,129.0,prediabetes,0,0
+40-49,Female,15.0,normal,101.0,normal,0,0
+40-49,Female,0.0,normal,122.0,normal,0,0
+50-59,Female,10.0,high,153.0,normal,0,0
+40-49,Male,15.0,borderline high,118.0,normal,0,0
+40-49,Female,0.0,high,119.0,normal,0,0
+40-49,Female,20.0,borderline high,132.5,normal,0,0
+30-39,Female,9.0,borderline high,111.0,normal,0,0
+50-59,Male,20.0,high,133.0,normal,0,0
+40-49,Male,20.0,borderline high,110.0,normal,0,0
+50-59,Female,0.0,high,165.0,normal,0,0
+40-49,Female,0.0,high,122.5,normal,0,0
+30-39,Male,20.0,normal,126.0,normal,0,0
+50-59,Female,0.0,high,142.0,prediabetes,0,0
+40-49,Male,20.0,high,115.0,normal,0,0
+40-49,Male,0.0,high,135.0,normal,0,0
+60-70,Male,15.0,high,141.0,normal,0,0
+40-49,Male,20.0,high,118.0,prediabetes,0,0
+40-49,Male,25.0,high,123.0,normal,0,0
+40-49,Female,9.0,high,97.0,normal,0,0
+30-39,Male,9.0,high,118.0,normal,0,0
+50-59,Female,0.0,high,140.0,prediabetes,0,0
+30-39,Female,0.0,normal,108.0,normal,0,0
+60-70,Male,20.0,high,129.0,normal,0,0
+60-70,Male,6.0,borderline high,125.0,normal,0,0
+40-49,Male,30.0,high,140.0,normal,0,0
+50-59,Female,0.0,high,107.0,normal,0,0
+50-59,Male,40.0,borderline high,136.0,normal,0,0
+60-70,Male,10.0,high,157.0,normal,0,1
+40-49,Male,30.0,borderline high,147.0,normal,0,0
+40-49,Male,30.0,borderline high,133.0,normal,0,1
+40-49,Female,1.0,high,162.5,normal,0,0
+50-59,Male,40.0,high,130.0,normal,0,0
+30-39,Male,0.0,normal,143.0,normal,0,0
+60-70,Male,1.0,borderline high,173.0,normal,0,0
+30-39,Female,0.0,normal,108.5,normal,0,0
+40-49,Male,5.0,normal,130.0,normal,0,0
+40-49,Male,43.0,high,112.0,normal,0,0
+40-49,Female,15.0,borderline high,112.5,normal,0,0
+40-49,Female,20.0,borderline high,130.0,normal,0,0
+50-59,Female,5.0,borderline high,159.0,normal,1,1
+50-59,Female,0.0,normal,185.5,normal,0,0
+40-49,Female,20.0,high,129.0,normal,0,0
+30-39,Female,0.0,normal,103.0,normal,0,0
+50-59,Male,20.0,borderline high,126.0,prediabetes,0,1
+60-70,Male,0.0,borderline high,213.0,normal,0,0
+50-59,Female,0.0,normal,160.0,normal,0,0
+40-49,Male,0.0,borderline high,175.0,diabetes,0,0
+50-59,Male,40.0,high,111.5,normal,0,1
+30-39,Female,0.0,normal,129.5,normal,0,0
+50-59,Male,0.0,normal,124.0,normal,0,0
+40-49,Male,20.0,borderline high,110.0,normal,0,0
+30-39,Male,20.0,high,118.0,normal,0,0
+50-59,Female,0.0,high,148.0,normal,0,0
+50-59,Male,20.0,high,97.5,normal,0,0
+40-49,Male,20.0,borderline high,124.0,normal,0,0
+30-39,Male,20.0,high,104.0,normal,0,0
+40-49,Female,0.0,normal,107.0,normal,0,0
+40-49,Female,0.0,normal,127.0,normal,0,0
+40-49,Male,20.0,high,115.0,normal,0,0
+40-49,Male,0.0,high,130.0,normal,0,0
+50-59,Female,10.0,high,157.0,normal,0,1
+40-49,Female,0.0,borderline high,192.5,normal,0,1
+50-59,Male,0.0,normal,176.0,normal,0,0
+30-39,Male,0.0,normal,121.0,normal,0,0
+60-70,Female,0.0,borderline high,112.0,normal,0,0
+40-49,Female,0.0,high,142.5,normal,0,0
+40-49,Male,15.0,normal,107.0,diabetes,0,0
+50-59,Female,0.0,borderline high,116.0,normal,0,0
+40-49,Male,20.0,normal,117.0,normal,0,0
+40-49,Male,30.0,borderline high,130.0,normal,0,0
+40-49,Male,30.0,high,133.5,normal,0,1
+50-59,Female,0.0,high,135.0,normal,0,0
+40-49,Female,0.0,borderline high,158.0,normal,0,0
+50-59,Female,0.0,high,140.0,normal,0,0
+50-59,Male,0.0,high,109.0,prediabetes,0,0
+50-59,Male,30.0,high,118.0,normal,0,0
+40-49,Female,0.0,borderline high,136.0,normal,0,0
+60-70,Male,25.0,borderline high,192.5,normal,0,1
+60-70,Female,0.0,high,200.0,diabetes,0,1
+40-49,Male,0.0,borderline high,115.0,normal,0,0
+40-49,Male,0.0,borderline high,120.0,normal,0,0
+60-70,Male,7.0,high,104.0,normal,0,0
+30-39,Female,0.0,normal,116.0,normal,0,0
+60-70,Female,0.0,high,128.0,prediabetes,0,0
+40-49,Male,0.0,high,137.5,normal,0,0
+40-49,Female,0.0,high,115.0,normal,0,0
+50-59,Female,0.0,high,187.0,diabetes,0,0
+50-59,Female,0.0,borderline high,121.0,normal,0,0
+50-59,Female,15.0,high,126.0,prediabetes,0,0
+40-49,Male,20.0,high,143.0,normal,0,0
+60-70,Female,0.0,borderline high,149.5,normal,0,0
+50-59,Male,0.0,borderline high,151.0,normal,0,0
+40-49,Male,20.0,normal,116.0,normal,0,0
+40-49,Female,20.0,borderline high,93.0,normal,0,0
+40-49,Female,0.0,borderline high,125.0,normal,0,0
+60-70,Male,5.0,normal,121.0,normal,0,1
+60-70,Male,0.0,borderline high,140.5,normal,0,0
+50-59,Female,0.0,high,136.0,diabetes,0,1
+50-59,Male,40.0,high,152.0,normal,0,0
+30-39,Male,20.0,normal,113.0,normal,0,0
+60-70,Female,0.0,high,122.0,normal,0,0
+60-70,Male,1.0,high,123.0,normal,0,1
+50-59,Female,6.0,borderline high,134.0,normal,0,0
+50-59,Male,20.0,high,130.0,normal,0,0
+50-59,Female,0.0,borderline high,123.0,prediabetes,0,0
+30-39,Female,0.0,normal,142.0,normal,0,0
+40-49,Male,20.0,normal,110.0,normal,0,0
+40-49,Female,7.0,high,176.0,normal,0,0
+40-49,Female,30.0,normal,104.0,normal,0,0
+50-59,Female,0.0,high,158.0,normal,0,0
+50-59,Male,20.0,high,146.5,normal,0,1
+40-49,Male,0.0,borderline high,139.0,prediabetes,0,0
+60-70,Female,0.0,high,141.0,normal,0,1
+40-49,Male,0.0,borderline high,108.0,normal,0,0
+60-70,Female,20.0,high,142.0,normal,0,0
+60-70,Female,0.0,high,115.0,normal,0,0
+60-70,Female,0.0,high,190.0,prediabetes,0,1
+40-49,Male,0.0,borderline high,149.0,normal,0,0
+40-49,Male,0.0,high,146.5,normal,0,0
+30-39,Female,0.0,normal,137.0,prediabetes,0,0
+50-59,Male,20.0,normal,122.0,normal,0,1
+40-49,Male,40.0,normal,127.0,normal,0,0
+60-70,Male,23.0,normal,179.0,normal,0,0
+50-59,Male,0.0,high,206.0,normal,0,1
+50-59,Male,0.0,borderline high,108.5,normal,0,0
+60-70,Female,0.0,borderline high,164.0,normal,0,1
+30-39,Male,0.0,borderline high,124.0,normal,0,0
+40-49,Female,0.0,high,155.0,normal,0,0
+50-59,Male,0.0,borderline high,114.0,normal,0,0
+50-59,Male,0.0,normal,147.5,prediabetes,0,0
+40-49,Female,2.0,high,125.0,normal,0,0
+50-59,Male,20.0,borderline high,120.0,normal,0,0
+50-59,Female,0.0,high,170.0,normal,0,0
+30-39,Female,0.0,normal,97.5,normal,0,0
+40-49,Male,20.0,high,134.0,normal,0,0
+40-49,Female,0.0,normal,115.0,normal,0,0
+40-49,Female,20.0,borderline high,128.0,normal,0,0
+40-49,Female,0.0,borderline high,118.0,normal,0,0
+60-70,Male,25.0,borderline high,144.0,normal,0,0
+40-49,Male,10.0,high,135.0,normal,0,0
+40-49,Male,0.0,borderline high,118.0,normal,0,0
+40-49,Male,20.0,borderline high,162.0,normal,0,0
+50-59,Male,0.0,borderline high,105.0,normal,0,0
+50-59,Male,0.0,borderline high,131.5,normal,0,1
+50-59,Male,30.0,borderline high,144.0,prediabetes,0,0
+40-49,Male,0.0,borderline high,103.0,normal,0,0
+40-49,Female,20.0,borderline high,128.0,normal,0,0
+40-49,Male,43.0,borderline high,108.0,normal,0,0
+50-59,Female,0.0,normal,136.0,normal,0,0
+60-70,Female,0.0,borderline high,127.5,normal,0,0
+30-39,Female,15.0,high,103.0,normal,0,0
+50-59,Female,0.0,borderline high,147.0,normal,0,0
+50-59,Male,0.0,high,157.5,normal,0,0
+40-49,Male,43.0,borderline high,126.0,normal,0,1
+30-39,Female,0.0,borderline high,99.0,normal,0,0
+60-70,Female,0.0,high,125.5,normal,0,0
+60-70,Female,0.0,borderline high,143.0,normal,0,0
+60-70,Male,0.0,high,135.0,normal,0,0
+30-39,Female,40.0,borderline high,109.0,normal,0,0
+60-70,Male,6.0,borderline high,118.5,normal,0,1
+30-39,Male,20.0,high,136.0,normal,0,0
+40-49,Female,0.0,borderline high,130.0,normal,0,0
+50-59,Male,0.0,normal,133.0,normal,0,0
+40-49,Female,0.0,borderline high,106.0,normal,0,0
+60-70,Female,0.0,high,180.0,normal,0,0
+30-39,Female,20.0,borderline high,101.0,normal,0,0
+40-49,Male,43.0,high,125.0,normal,0,1
+50-59,Male,0.0,borderline high,154.5,normal,0,0
+50-59,Female,0.0,high,210.0,normal,0,0
+50-59,Male,15.0,high,129.5,normal,0,0
+50-59,Male,0.0,high,107.0,normal,0,0
+40-49,Female,0.0,normal,111.0,normal,0,0
+50-59,Female,9.0,borderline high,121.5,normal,0,0
+40-49,Male,30.0,borderline high,132.5,normal,0,0
+50-59,Female,0.0,borderline high,137.5,normal,0,0
+40-49,Male,0.0,high,129.0,normal,0,0
+30-39,Male,0.0,borderline high,121.0,normal,0,0
+60-70,Male,0.0,normal,157.0,normal,0,0
+30-39,Female,0.0,borderline high,118.5,normal,0,0
+40-49,Male,20.0,borderline high,137.5,normal,0,0
+40-49,Female,8.0,borderline high,106.0,normal,0,0
+40-49,Female,10.0,normal,143.0,normal,0,0
+40-49,Female,0.0,normal,110.0,normal,0,1
+50-59,Male,20.0,high,117.0,normal,0,1
+40-49,Female,0.0,borderline high,150.0,normal,0,0
+30-39,Female,15.0,normal,101.0,normal,0,0
+40-49,Male,20.0,high,129.0,normal,0,1
+60-70,Female,0.0,high,195.0,normal,0,1
+60-70,Male,20.0,high,179.0,normal,0,1
+40-49,Female,9.0,borderline high,124.0,normal,0,0
+40-49,Female,0.0,borderline high,116.0,normal,0,0
+60-70,Female,0.0,high,170.0,normal,0,0
+50-59,Female,30.0,high,157.5,normal,0,0
+60-70,Female,0.0,high,133.0,normal,0,1
+30-39,Female,0.0,normal,115.0,normal,0,0
+60-70,Male,0.0,borderline high,130.0,normal,0,0
+40-49,Female,0.0,borderline high,160.5,normal,0,0
+60-70,Male,10.0,high,146.0,prediabetes,0,0
+30-39,Female,0.0,borderline high,142.0,normal,0,0
+40-49,Female,0.0,borderline high,136.0,normal,0,0
+40-49,Female,15.0,normal,103.0,normal,0,0
+60-70,Female,0.0,high,124.0,normal,0,1
+60-70,Male,0.0,high,135.0,prediabetes,0,0
+50-59,Male,0.0,high,126.5,normal,0,0
+40-49,Male,40.0,high,105.0,normal,0,0
+40-49,Male,43.0,borderline high,144.0,normal,0,0
+40-49,Male,0.0,normal,141.0,normal,0,1
+50-59,Female,5.0,borderline high,123.0,normal,0,1
+60-70,Female,0.0,borderline high,155.0,normal,0,0
+50-59,Female,20.0,high,125.0,normal,0,0
+60-70,Female,0.0,high,167.0,normal,0,0
+50-59,Female,0.0,high,137.5,normal,0,0
+40-49,Male,0.0,borderline high,125.0,normal,0,0
+60-70,Male,0.0,high,128.0,normal,0,1
+50-59,Male,0.0,high,119.0,normal,0,1
+50-59,Male,0.0,high,188.0,normal,0,0
+50-59,Male,0.0,high,149.0,normal,0,1
+40-49,Male,3.0,normal,120.0,normal,0,0
+40-49,Male,43.0,borderline high,137.5,prediabetes,0,0
+50-59,Male,0.0,borderline high,125.5,normal,0,1
+40-49,Male,20.0,normal,129.5,normal,0,0
+50-59,Female,0.0,high,190.0,diabetes,0,0
+50-59,Male,0.0,normal,141.0,normal,0,0
+60-70,Male,0.0,normal,168.0,normal,0,1
+50-59,Male,1.0,high,179.0,normal,0,1
+50-59,Male,43.0,borderline high,126.5,normal,0,0
+50-59,Female,0.0,high,133.5,prediabetes,0,0
+40-49,Male,0.0,normal,141.0,normal,0,0
+30-39,Female,30.0,normal,133.0,normal,0,0

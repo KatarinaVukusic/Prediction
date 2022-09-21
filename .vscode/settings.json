@@ -1,0 +1,26 @@
+{
+   "python.pythonPath": "C:\\Users\\Katarina\\anaconda3\\envs\\ml\\python.exe",
+   "python.terminal.activateEnvironment": true,
+   "python.condaPath": "C:\\Users\\Katarina\\anaconda3\\Scripts\\conda.exe",
+   "terminal.integrated.profiles.windows": {
+      "PowerShell": {
+         "source": "PowerShell",
+         "icon": "terminal-powershell"
+      },
+      "Command Prompt": {
+         "path": [
+            "${env:windir}\\Sysnative\\cmd.exe",
+            "${env:windir}\\System32\\cmd.exe"
+         ],
+         "args": [],
+         "icon": "terminal-cmd"
+      },
+      "Git Bash": {
+         "source": "Git Bash"
+      }
+   },
+   "terminal.integreated.cwd":"${fileDirname}",
+   "terminal.intergated.shellArgs.windows":["/K", "C:\\Users\\Katarina\\anaconda3\\Scripts\\activate ml"],
+   "python.terminal.executeInFileDir": true,
+
+}
